@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="374">
-                <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <first_editor relative-caret-position="355">
+                <caret line="85" column="32" lean-forward="false" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -185,12 +185,12 @@
       <updated>1496128845056</updated>
       <workItem from="1496128846306" duration="4611000" />
       <workItem from="1496142854825" duration="234000" />
-      <workItem from="1496193854547" duration="7378000" />
+      <workItem from="1496193854547" duration="7484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12223000" />
+    <option name="totallyTimeSpent" value="12329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="962" y="0" width="958" height="1080" extended-state="0" />
@@ -287,8 +287,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="374">
-            <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <first_editor relative-caret-position="355">
+            <caret line="85" column="32" lean-forward="false" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
             <folding />
           </first_editor>
           <second_editor />
