@@ -1,4 +1,4 @@
-# english-level-up-tips-for-Chinese-programmers-and-designers
+# english-level-up-tips-for-chinese-programmers-and-designers
 你渴望尝试新的技术：GraphQL, Figma, MobX；
 你耐心等待优秀的中文翻译: 等待，等待，再等待；
 你疯狂寻找提高英语水平的最佳方法: 疯狂英语，红宝书，玄学；
