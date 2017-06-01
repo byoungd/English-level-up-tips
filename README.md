@@ -162,5 +162,6 @@
 - [新托福口语词汇小伴侣（前10个list是根据北美日常口语词频统计，之后的是校园和生活分类专业词汇，第一个周期只要背熟前10个list就好了）](https://book.douban.com/subject/2230244/)
 
 
+## [听力篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
 >也许有些放弃的人会这样想：背那么多单词真的有意义吗？也许差别不是那么大吧？很多单词在生活中根本就用不到吧？
     也许，你从未真正努力过吧。
