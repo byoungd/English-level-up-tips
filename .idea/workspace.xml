@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59588c1e-a8bb-477d-8940-a76753ba6132" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/listening.md" afterPath="$PROJECT_DIR$/listening.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/listening.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="441">
-                <caret line="43" column="68" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+              <first_editor relative-caret-position="320">
+                <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -79,8 +78,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="458" />
-    <option name="y" value="106" />
+    <option name="x" value="469" />
+    <option name="y" value="77" />
     <option name="width" value="1580" />
     <option name="height" value="991" />
   </component>
@@ -208,15 +207,15 @@
       <workItem from="1496373433848" duration="8000" />
       <workItem from="1496378100608" duration="279000" />
       <workItem from="1496390664884" duration="3173000" />
-      <workItem from="1496452977474" duration="988000" />
+      <workItem from="1496452977474" duration="2169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35818000" />
+    <option name="totallyTimeSpent" value="36999000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="458" y="106" width="1580" height="991" extended-state="0" />
+    <frame x="469" y="77" width="1580" height="991" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11816676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -480,8 +479,8 @@
     <entry file="file://$PROJECT_DIR$/listening.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="441">
-            <caret line="43" column="68" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+          <first_editor relative-caret-position="320">
+            <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
