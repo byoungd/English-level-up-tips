@@ -1,8 +1,8 @@
 # English-level-up-tips-for-chinese-programmers-and-designers
-你渴望尝试新的技术：GraphQL, Figma, MobX；
-你耐心等待优秀的中文翻译: 等待，等待，再等待；
-你疯狂寻找提高英语水平的最佳方法: 疯狂英语，红宝书，玄学；
-我这里有本“葵花宝典”可以帮助你 从入坑到挖坑。
+
+英语水平等级示意图：
+
+![CERF.png](https://ooo.0o0.ooo/2017/06/04/593429e717fee.png)
 
 ## 前言
 - 本指南旨在给出一些操作性较高的方法来帮助你重燃学习英语这门 *语言* 的热情与建立学习英语的自信
