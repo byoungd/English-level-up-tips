@@ -2,7 +2,8 @@
 
 英语水平等级示意图：
 
-![CERF.png](https://ooo.0o0.ooo/2017/06/04/593429e717fee.png)
+![CERF@2x.png](https://ooo.0o0.ooo/2017/06/04/59342af7c5a38.png)
+>本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
 ## 前言
 - 本指南旨在给出一些操作性较高的方法来帮助你重燃学习英语这门 *语言* 的热情与建立学习英语的自信
