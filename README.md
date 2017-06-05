@@ -27,7 +27,7 @@
 首先来看看一下英语单词的分布：
 
 ![OEC.png](https://ooo.0o0.ooo/2017/05/31/592e2cdc1c98c.png)
->原图片来源于牛津英文语料库（OEC），我用Sketch对照着做了一份，ketch文件在repo的 assets 文件夹内
+>原图片来源于牛津英文语料库（OEC），我用sketch对照着做了一份，sketch文件在repo的 assets 文件夹内
 
 从这张图可以得出的简单信息是：
 - 1000词汇量就能让你理解约75%的英语内容
