@@ -5,6 +5,10 @@
 ![CERF@2x.png](https://ooo.0o0.ooo/2017/06/05/5934bb9a2e3bc.png)
 >本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
+## 特色
+
+![本指南的特色@2x.png](https://ooo.0o0.ooo/2017/06/05/5934cc5233fb4.png)
+
 ## 前言
 - 本指南旨在给出一些操作性较高的方法来帮助你重燃学习英语这门 *语言* 的热情与建立学习英语的自信
 - 本指南不推崇 *苦行僧* 式的学习
