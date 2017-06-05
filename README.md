@@ -25,6 +25,8 @@
 
 ![writing@2x.png](https://ooo.0o0.ooo/2017/06/05/59352828161b7.png)
 
+![Others@2x.png](https://ooo.0o0.ooo/2017/06/05/5935535d449a9.png)
+
 ## 从哪里开始
 - [认知篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/understanding.md)
 - [单词篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/vocabulary.md)
