@@ -26,8 +26,9 @@
 ![writing@2x.png](https://ooo.0o0.ooo/2017/06/05/59352828161b7.png)
 
 ## 从哪里开始
-
-- [listening.md](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
+- [认知篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/understanding.md)
+- [单词篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/vocabulary.md)
+- [听力篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
 
 >也许有些放弃的人会这样想：背那么多单词真的有意义吗？也许差别不是那么大吧？很多单词在生活中根本就用不到吧？
     
