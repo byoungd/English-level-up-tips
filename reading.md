@@ -5,3 +5,15 @@
 专业词汇，一定要仔细看，释义，例子都要看，在看的不是很懂的情况下，还要查询中文方面的信息（比如大神写的blog）。
 
 
+### 英文原版书推荐
+Let’s read in English and have fun!
+
+7个不同阅读水平的英文书推荐：
+
+- 《Fantastic Mr. Fox》 by Roald Dahl:
+- 《The Curious Incident of the Dog in the Night-time》 by Mark Haddon: 
+- 《The Diary of a Young Girl》 by Anne Frank: 
+- 《Harry Potter series》
+- 《The Kite Runner》 
+- 《How to Win Friends and Influence People》
+- 《on writing well》
