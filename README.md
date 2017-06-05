@@ -2,7 +2,7 @@
 
 英语水平等级示意图：
 
-![CERF@2x.png](https://ooo.0o0.ooo/2017/06/04/59342af7c5a38.png)
+![CERF@2x.png](https://ooo.0o0.ooo/2017/06/05/5934bb9a2e3bc.png)
 >本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
 ## 前言
