@@ -26,7 +26,8 @@
 **词汇量具有从量变到质变的显著特征，当你掌握的单词数量达到一个分水岭的量之后你会发现学习英语变得异常轻松起来：得益于语境的帮助，你可以推断出大部分生词的意思，从而可以利用更优秀的原版英语学习材料让学英语如虎添翼，比如：经济学人，英文原著**。
 首先来看看一下英语单词的分布：
 
-![OEC.png](https://ooo.0o0.ooo/2017/05/31/592e2cdc1c98c.png)
+![OCE Artboard@2x.png](https://ooo.0o0.ooo/2017/06/05/5934beb126bbb.png)
+
 >原图片来源于牛津英文语料库（OEC），我用sketch对照着做了一份，sketch文件在repo的 assets 文件夹内
 
 从这张图可以得出的简单信息是：
@@ -172,6 +173,7 @@
 
 
 ## [听力篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
+
 >也许有些放弃的人会这样想：背那么多单词真的有意义吗？也许差别不是那么大吧？很多单词在生活中根本就用不到吧？
     
    
