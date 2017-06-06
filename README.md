@@ -11,15 +11,15 @@
 
 ## 章节
 ### 已完成：
-[![understanding@2x.png](https://ooo.0o0.ooo/2017/06/05/593528281ae08.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/understanding.md)
+[![understanding@2x.png](https://ooo.0o0.ooo/2017/06/05/593528281ae08.png)](1-understanding.md)
 
-[![vocabulary@2x.png](https://ooo.0o0.ooo/2017/06/05/5935282811f5b.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/vocabulary.md)
+[![vocabulary@2x.png](https://ooo.0o0.ooo/2017/06/05/5935282811f5b.png)](2-vocabulary.md)
 
-[![listening@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827cb44b.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
+[![listening@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827cb44b.png)](3-listening.md)
 
-[![reading@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827ddd15.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/reading.md)
+[![reading@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827ddd15.png)](4-reading.md)
 
-[![speaking@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827f07e1.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/speaking.md)
+[![speaking@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827f07e1.png)](5-speaking.md)
 ### 待完成：
 
 ![writing@2x.png](https://ooo.0o0.ooo/2017/06/05/59352828161b7.png)
