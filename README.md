@@ -11,11 +11,11 @@
 
 ## 章节
 ### 已完成：
-![understanding@2x.png](https://ooo.0o0.ooo/2017/06/05/593528281ae08.png)
+[![understanding@2x.png](https://ooo.0o0.ooo/2017/06/05/593528281ae08.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/understanding.md)
 
-![vocabulary@2x.png](https://ooo.0o0.ooo/2017/06/05/5935282811f5b.png)
+[![vocabulary@2x.png](https://ooo.0o0.ooo/2017/06/05/5935282811f5b.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/vocabulary.md)
 
-![listening@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827cb44b.png)
+[![listening@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827cb44b.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
 
 ### 待完成：
 
@@ -27,10 +27,16 @@
 
 ![Others@2x.png](https://ooo.0o0.ooo/2017/06/05/5935535d449a9.png)
 
+
 ## 从哪里开始
 - [认知篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/understanding.md)
 - [单词篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/vocabulary.md)
 - [听力篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
+
+
+## 有疑问或建议
+您可以直接在本repo提issue
+
 
 >也许有些放弃的人会这样想：背那么多单词真的有意义吗？也许差别不是那么大吧？很多单词在生活中根本就用不到吧？
     
