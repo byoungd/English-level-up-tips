@@ -60,4 +60,7 @@ Let’s read in English and have fun!
 
 - [Stack Overflow](https://www.stackoverflow.com/) 是解决技术问题的绝佳去处
 
+## 推荐的参考书
+[![英语阅读参考手册](https://img3.doubanio.com/lpic/s4241556.jpg)](https://book.douban.com/subject/4720475/)
+
 下一篇：[口语篇](5-speaking.md)
