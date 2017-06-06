@@ -47,4 +47,15 @@ Let’s read in English and have fun!
 在阅读英文文档的时候，难免会遇到一些生词，当生词量大概达到5个以上的时候，这个时候就需要我们先停下了，如果不先掌握这部分生词，对之后的章节会造成巨大的影响也是非请把这些生词记录下来，一个个查，先努力记住这部分单词。
 专业词汇，一定要仔细看，释义，例子都要看，在看的不是很懂的情况下，还要查询中文方面的信息（比如大神写的blog）。
 如果你使用一些工具，将一份文档中的生词根据一定的规则提前筛选出来，先学习一下生词，再阅读的话，那会是很棒的。
+>kindle上阅读PDF类的技术文档不是太合适，字体过小的情况会特别伤眼，推荐使用iPad看PDF
 
+## Medium、Quora、Reddit、Hacker News与StackOverFlow
+- [Medium](https://www.medium.com)上有很多非常棒的文章，我经常去翻阅大神写的技术、设计方面的文章，也有很多关于生活，可以帮助自己发散思维，改善自己生活、提高执行效率的好文。
+
+- [Quora](https://www.quora.com)是一个问答社区（世界版的知乎），我在 top stories 栏目下经常看到感人至深的回答，常常泪目。这里应该是你常逛的地方。
+
+- [Reddit](https://www.reddit.com) 号称是互联网的Front Page，新鲜事、八卦应有尽有
+
+- [Hacker News](https://news.ycombinator.com/) Hacker News是互联网人不能错过的资讯站
+
+- [Stack Overflow](https://www.stackoverflow.com/) 是解决技术问题的绝佳去处
