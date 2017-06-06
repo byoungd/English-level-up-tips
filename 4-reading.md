@@ -59,3 +59,5 @@ Let’s read in English and have fun!
 - [Hacker News](https://news.ycombinator.com/) Hacker News是互联网人不能错过的资讯站
 
 - [Stack Overflow](https://www.stackoverflow.com/) 是解决技术问题的绝佳去处
+
+下一篇：[口语篇](5-speaking.md)
