@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59588c1e-a8bb-477d-8940-a76753ba6132" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2-vocabulary.md" afterPath="$PROJECT_DIR$/2-vocabulary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-reading.md" afterPath="$PROJECT_DIR$/4-reading.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/x-misc.md" afterPath="$PROJECT_DIR$/x-misc.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,12 +31,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="x-misc.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="x-misc.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/x-misc.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -59,12 +57,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-vocabulary.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2-vocabulary.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-vocabulary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="528">
-                <caret line="155" column="15" lean-forward="false" selection-start-line="155" selection-start-column="15" selection-end-line="155" selection-end-column="15" />
+              <first_editor relative-caret-position="471">
+                <caret line="153" column="8" lean-forward="false" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -100,6 +98,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/4-reading.md" />
         <option value="$PROJECT_DIR$/2-vocabulary.md" />
+        <option value="$PROJECT_DIR$/x-misc.md" />
       </list>
     </option>
   </component>
@@ -262,12 +261,12 @@
       <workItem from="1496705847744" duration="6402000" />
       <workItem from="1496714809354" duration="234000" />
       <workItem from="1496719409786" duration="2573000" />
-      <workItem from="1496737461223" duration="387000" />
+      <workItem from="1496737461223" duration="551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57784000" />
+    <option name="totallyTimeSpent" value="57948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="167" y="23" width="1580" height="991" extended-state="0" />
@@ -534,17 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/x-misc.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4-reading.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -559,8 +547,19 @@
     <entry file="file://$PROJECT_DIR$/2-vocabulary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="528">
-            <caret line="155" column="15" lean-forward="false" selection-start-line="155" selection-start-column="15" selection-end-line="155" selection-end-column="15" />
+          <first_editor relative-caret-position="471">
+            <caret line="153" column="8" lean-forward="false" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/x-misc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
