@@ -1,6 +1,6 @@
 # 认知篇
 ## 为什么我们应该学好英语
-首先我们应该明白 **英语** 是一门使用 **广泛** 的语言，其广泛成都可以从维基百科的用户结构窥探一二：
+首先我们应该明白 **英语** 是一门使用 **广泛** 的语言，其广泛程度可以从维基百科的用户结构窥探一二：
 ![https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
 英语作为全球使用范围最广的语言，涵盖了人生活的方方面面。
 无论是简单的信息交流还是严谨的书籍文献，英语的使用都占有很大的比例。
