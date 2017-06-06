@@ -20,12 +20,16 @@
 [![reading@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827ddd15.png)](4-reading.md)
 
 [![speaking@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827f07e1.png)](5-speaking.md)
+
+[![Others@2x.png](https://ooo.0o0.ooo/2017/06/05/5935535d449a9.png)](x-misc.md)
+
 ### 待完成：
 
 ![writing@2x.png](https://ooo.0o0.ooo/2017/06/05/59352828161b7.png)
 
-![Others@2x.png](https://ooo.0o0.ooo/2017/06/05/5935535d449a9.png)
-
+写作的要求很高，本人的写作水平并不自信，目前不敢妄言，恐误人子弟；
+也不愿推荐几本语法书、写作书就草草了事，
+我需要一些时间去慢慢完善这个章节。
 
 ## 从哪里开始
 - [认知篇](1-understanding.md)
@@ -33,6 +37,8 @@
 - [听力篇](3-listening.md)
 - [阅读篇](4-reading.md)
 - [口语篇](5-speaking.md)
+- [扯淡篇](x-misc.md)
+
 ## 有疑问或建议
 您可以直接在本repo提issue
 
