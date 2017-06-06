@@ -152,8 +152,9 @@
 >单词学习与背单词并不是等价的,这意味着我们可以采用更好的方法去学习单词
 
 ## 推荐的单词书
-- [17天搞定GRE单词（大家不要被名字吓到了，这是一本背词法的书，而不是GRE词汇书）](https://book.douban.com/subject/1803504/)
-- [新托福口语词汇小伴侣（前10个list是根据北美日常口语词频统计，之后的是校园和生活分类专业词汇，第一个周期只要背熟前10个list就好了）](https://book.douban.com/subject/2230244/)
+- [![英语常用词疑难用法手册](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
+- [![17天搞定GRE单词](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
+
 
 >背单词的时候大多数时候不需要刻意的去记，简单的过一下就行，生词，**生** 词嘛，多过过，自然而然就熟悉了
 
