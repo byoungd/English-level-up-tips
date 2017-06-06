@@ -17,9 +17,10 @@
 
 [![listening@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827cb44b.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
 
+[![reading@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827ddd15.png)](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/reading.md)
 ### 待完成：
 
-![reading@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827ddd15.png)
+
 
 ![speaking@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827f07e1.png)
 
