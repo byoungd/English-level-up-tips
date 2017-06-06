@@ -44,6 +44,15 @@
 - [口语篇](5-speaking.md)
 - [扯淡篇](x-misc.md)
 
+## 感谢
+
+感谢帮助完善这份指南的所有人
+
+感谢每一位star的朋友，真心希望本指南能给你带来一些小小的帮助
+
+特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/) 这是一个很棒的社区
+
+
 ## 有疑问或建议
 您可以直接在本repo提issue
 
