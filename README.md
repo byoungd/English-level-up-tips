@@ -28,11 +28,11 @@
 
 
 ## 从哪里开始
-- [认知篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/understanding.md)
-- [单词篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/vocabulary.md)
-- [听力篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
-- [阅读篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/reading.md)
-- [口语篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/speaking.md)
+- [认知篇](1-understanding.md)
+- [单词篇](2-vocabulary.md)
+- [听力篇](3-listening.md)
+- [阅读篇](4-reading.md)
+- [口语篇](5-speaking.md)
 ## 有疑问或建议
 您可以直接在本repo提issue
 
