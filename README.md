@@ -32,7 +32,7 @@
 - [单词篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/vocabulary.md)
 - [听力篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/listening.md)
 - [阅读篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/reading.md)
-
+- [口语篇](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers/blob/master/speaking.md)
 ## 有疑问或建议
 您可以直接在本repo提issue
 
