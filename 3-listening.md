@@ -92,33 +92,40 @@
 
 ## 优秀的英语学习材料推荐
 ### 前端相关
--[laracasts](https://laracasts.com/) 
+- [laracasts](https://laracasts.com/) 
 推荐指数：5
+
 这是一个关于前端和PHP框架Laravel的视频教程网站，内容更新及时，讲解细致，大部分内容免费，对刚入门的程序员很友好。
 教程内容涉及JavaSrcipt/Vue.js/React/Laravel/PHP/编辑器的进阶教程等。
 很喜欢他的那句口头禅 *Does it make sense to you?*
 
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) 
 推荐指数：5
+
 如果你想学习React/Redux/MobX/AngularJS/NodeJS/Docker等，这里会是你愿意花很多时间待的地方
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) 
 推荐指数：5
+
 也是关于前端的一个很棒的频道，作者是个可爱的大胖子，内容覆盖面广，更新及时。作者发音较为标准，且速度较慢，新手也不会觉得吃力。
 
 - [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) 
 推荐指数：4
+
 Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你快速了解一些流行编程语言的基础语法,不过单位时间内包含的信息量大且语速稍快，适合有一定基础的同学。
 
 - [The Net Ninja  10](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 推荐指数：4
+
 前端学习很棒的一个频道，较早的内容开头的忍者语音有点吓人，近期的视频开头已经替换为相对友好的提示音。该频道CSS/Sass相关的教程值得推荐。
 
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 推荐指数：4
+
 这是一个对刚入门的前端程序员友好的频道，细致的基础内容，CSS、JQuery相关的内容值得推荐。
 
 - [egghead.io](https://egghead.io/)
 推荐指数：4
+
 拥有较为丰富的前端课程，小部分免费。
 
 ### YouTube上优秀的英语学习频道
@@ -140,11 +147,10 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 ### 超级英雄电影爱好者不该错过的频道
 
 - [TopMovieClip](https://www.youtube.com/channel/UClVbhSLxwws-KSsPKz135bw)
-
 漫威超级英雄电影精彩剪辑，很养眼。
-- [BestClips  4](https://www.youtube.com/channel/UC8BQGqcCSFq6RC9feEGUGFA)
 
-与上个频道相关
+- [BestClips  4](https://www.youtube.com/channel/UC8BQGqcCSFq6RC9feEGUGFA)
+超级英雄电影相关
 
 ### 脱口秀类节目
 - [Jimmy Kimmel Live](https://www.youtube.com/channel/UCa6vGFO9ty8v5KZJXQxdhaw)
@@ -154,7 +160,6 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 艾伦秀
 
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig)
-深夜秀
 
 ### 其他电影与音乐频道
 
