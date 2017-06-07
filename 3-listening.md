@@ -43,7 +43,7 @@
 很多英文经典名著和畅销书都推出了相应的有声书版本，比如Gone with the wind, The Kite Runner, Pride and Prejudice,The Great Gatsby 等。
 英文有声书的朗读者大都是专业的播音员或者演员出身，声线优美，朗读时的表现力很强，一定程度上让听有声书成为了一种享受，学习效果自然会好很多。
 
-- ![audible](https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/Audible_Logo_White.svg) 网站资源丰富，有对应的移动端app，挺好用的，推荐。
+- [audible](http://www.audible.com/) 网站资源丰富，有对应的移动端app，挺好用的，推荐。
 
 - 国内某些FM有不错的有声书可以听。
 
