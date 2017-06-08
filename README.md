@@ -7,7 +7,8 @@
 
 ## 特色
 
-![本指南的特色@2x.jpg](https://ooo.0o0.ooo/2017/06/08/5938b2690c364.jpg)
+![Feature@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b3ba37508.png)
+![How@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b3ba39e98.png)
 
 ## 章节
 ### 已完成：
