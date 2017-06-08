@@ -7,25 +7,25 @@
 
 ## 特色
 
-![本指南的特色@2x.png](https://ooo.0o0.ooo/2017/06/06/5935fd3b1f97b.png)
+![本指南的特色@2x.jpg](https://ooo.0o0.ooo/2017/06/08/5938b2690c364.jpg)
 
 ## 章节
 ### 已完成：
-[![understanding@2x.png](https://ooo.0o0.ooo/2017/06/05/593528281ae08.png)](1-understanding.md)
+[![understanding@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227846c.png)](1-understanding.md)
 
-[![vocabulary@2x.png](https://ooo.0o0.ooo/2017/06/05/5935282811f5b.png)](2-vocabulary.md)
+[![vocabulary@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b12260bd2.png)](2-vocabulary.md)
 
-[![listening@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827cb44b.png)](3-listening.md)
+[![listening@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b12272e11.png)](3-listening.md)
 
-[![reading@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827ddd15.png)](4-reading.md)
+[![reading@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b122741f4.png)](4-reading.md)
 
-[![speaking@2x.png](https://ooo.0o0.ooo/2017/06/05/59352827f07e1.png)](5-speaking.md)
+[![speaking@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227a723.png)](5-speaking.md)
 
-[![Others@2x.png](https://ooo.0o0.ooo/2017/06/05/5935535d449a9.png)](x-misc.md)
+[![Others@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227583d.png)](x-misc.md)
 
 ### 待完成：
 
-![writing@2x.png](https://ooo.0o0.ooo/2017/06/05/59352828161b7.png)
+![writing@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b12276b47.png)
 
 写作的要求很高，本人的写作水平并不自信，目前不敢妄言，恐误人子弟；
 也不愿推荐几本语法书、写作书就草草了事，
