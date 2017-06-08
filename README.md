@@ -31,10 +31,10 @@
 也不愿推荐几本语法书、写作书就草草了事，
 我需要一些时间去慢慢完善这个章节。
 
-![word-list@2x.png](https://ooo.0o0.ooo/2017/06/07/5937a13fc732c.png)
+![word-list@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b016a6284.png)
 
 这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。
-需要较长的时间进行整理。
+工程巨大，需要较长的时间进行整理。
 
 ## 从哪里开始
 - [认知篇](1-understanding.md)
@@ -50,7 +50,7 @@
 
 感谢每一位star的朋友，真心希望本指南能给你带来一些小小的帮助
 
-特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/) 这是一个很棒的社区
+特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
 
 
 ## 有疑问或建议
