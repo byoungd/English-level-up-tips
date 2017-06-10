@@ -6,13 +6,14 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 ## 英语水平等级
 
-![CERF@2x.png](https://ooo.0o0.ooo/2017/06/05/5934bb9a2e3bc.png)
+![CERF@2x.png](assets/CERF@2x.png)
+
 >本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
 ## 特色
 
-![Feature@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b3ba37508.png)
-![How@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b3ba39e98.png)
+![Feature@2x.png](assets/Feature@2x.png)
+![How@2x.png](assets/How@2x.png)
 
 ## 章节
 ### 已完成：
@@ -45,7 +46,7 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 也不愿推荐几本语法书、写作书就草草了事，
 我需要一些时间去慢慢完善这个章节。
 
-![word-list@2x.png](https://ooo.0o0.ooo/2017/06/10/593b71133cb0b.png)
+![word-list@2x.png](assets/word-list@2x.png)
 
 这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。
 工程巨大，需要较长的时间进行整理。
