@@ -12,17 +12,17 @@
 
 ## 章节
 ### 已完成：
-[![understanding@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227846c.png)](1-understanding.md)
+[![understanding@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227846c.png)](part-1/1-understanding.md)
 
-[![vocabulary@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b12260bd2.png)](2-vocabulary.md)
+[![vocabulary@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b12260bd2.png)](part-1/2-vocabulary.md)
 
-[![listening@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b12272e11.png)](3-listening.md)
+[![listening@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b12272e11.png)](part-1/3-listening.md)
 
-[![reading@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b122741f4.png)](4-reading.md)
+[![reading@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b122741f4.png)](part-1/4-reading.md)
 
-[![speaking@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227a723.png)](5-speaking.md)
+[![speaking@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227a723.png)](part-1/5-speaking.md)
 
-[![Others@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227583d.png)](x-misc.md)
+[![Others@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b1227583d.png)](part-2/x-misc.md)
 
 ### 待完成：
 
@@ -47,12 +47,12 @@
 工程巨大，需要较长的时间进行整理。
 
 ## 从哪里开始
-- [认知篇](1-understanding.md)
-- [单词篇](2-vocabulary.md)
-- [听力篇](3-listening.md)
-- [阅读篇](4-reading.md)
-- [口语篇](5-speaking.md)
-- [扯淡篇](x-misc.md)
+- [认知篇](part-1/1-understanding.md)
+- [单词篇](part-1/2-vocabulary.md)
+- [听力篇](part-1/3-listening.md)
+- [阅读篇](part-1/4-reading.md)
+- [口语篇](part-1/5-speaking.md)
+- [扯淡篇](part-2/x-misc.md)
 
 ## 感谢
 
