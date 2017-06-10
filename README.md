@@ -41,7 +41,7 @@
 也不愿推荐几本语法书、写作书就草草了事，
 我需要一些时间去慢慢完善这个章节。
 
-![word-list@2x.png](https://ooo.0o0.ooo/2017/06/08/5938b595a631a.png)
+![word-list@2x.png](https://ooo.0o0.ooo/2017/06/10/593b71133cb0b.png)
 
 这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。
 工程巨大，需要较长的时间进行整理。
@@ -56,11 +56,11 @@
 
 ## 感谢
 
-感谢帮助完善这份指南的所有人
+- 感谢帮助完善这份指南的所有人
 
-感谢每一位star的朋友，真心希望本指南能给你带来一些小小的帮助
+- 感谢每一位star/fork/PR/watch的朋友，真心希望本指南能给你带来一些小小的帮助
 
-特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
+- 特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
 
 
 ## 有疑问或建议
