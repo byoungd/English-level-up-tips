@@ -1,4 +1,4 @@
-# English-level-up-tips-for-chinese-programmers-and-designers
+# English-level-up-tips-for-Chinese
 
 英语水平等级示意图：
 
@@ -62,6 +62,9 @@
 
 - 特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
 
+
+## 转载声明
+转载本指南，请注明作者与本repo的ithub链接，谢谢！
 
 ## 有疑问或建议
 您可以直接在本repo提issue
