@@ -69,10 +69,10 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 
 ## 转载声明
-转载本指南，请注明作者与本repo的ithub链接，谢谢！
+转载本指南，请注明作者与本 repo 的 GitHub 链接，谢谢！
 
 ## 有疑问或建议
-您可以直接在本repo提issue
+您可以直接在本 repo 提 issue
 
 
 >也许有些放弃的人会这样想：
