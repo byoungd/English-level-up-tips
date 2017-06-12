@@ -1,5 +1,7 @@
 # 听力篇
 
+>推荐的视频大多数是YouTube上的，你可能需要通过代理来访问
+
 ## 练习英语听力的几个误区
 - **学习材料分散**
 
@@ -84,6 +86,9 @@ Podcast 和带 lrc 的美剧录音比纯看美剧要少很多干扰，在同时�
 
 >《摩登家庭》第一季拍摄于2009年，我周围人的生活到现在也没有**摩登**到2009年的《摩登家庭》
 
+#### 直播
+
+如果你喜欢看直播，去[Twitch](https://www.twitch.tv/)上找找喜欢的主播吧。
  
 ## 入门听力训练
 
@@ -177,12 +182,10 @@ OneDirection粉应该关注的频道
 
 ## 单独推荐的YouTube视频
 
-- [自信的技巧 - 伊万•约瑟夫博士 - TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs)
-- [说流利英语的一个小技巧](https://www.youtube.com/watch?v=l96V7dQtq9E)
-- [朱利安·特瑞雪: 怎样说话人们才会听](https://www.youtube.com/watch?v=eIho2S0ZahI)
-- [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM)
-光是15亿的播放量就够吓人了，一个人独自在家里，你是不是也这样？
+- [自信的技巧 - 伊万•约瑟夫博士 - TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQwMDc4MA==.html)
+- [说流利英语的一个小技巧](https://www.youtube.com/watch?v=l96V7dQtq9E) | [优酷链接](http://v.youku.com/v_show/id_XMjc2MzE0NTQ4NA==.html)
+- [朱利安·特瑞雪: 怎样说话人们才会听](https://www.youtube.com/watch?v=eIho2S0ZahI) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQwNDMxMg==.html)
+- [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQxMjMwNA==.html)
 
->未完，待补充
 
 下一篇：[阅读篇](4-reading.md)
