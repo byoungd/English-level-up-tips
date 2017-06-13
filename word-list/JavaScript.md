@@ -1,0 +1,5 @@
+# JavaScript
+
+pragmatic
+
+immediate
