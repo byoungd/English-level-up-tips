@@ -88,7 +88,7 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 ## 为初学者单词表做贡献
 
-请直接将 单词 添加至本 repo 目录： **word-list** 下对应的md文件中，不需要添加单词的解释，注意换行+空行（参照每个md文件的前两个单词）。
+请直接将 单词 添加至本 repo 目录： **[word-list](word-list)** 下对应的md文件中，不需要添加单词的解释，注意换行+空行（参照每个md文件的前两个单词）。
 
 >也许有些放弃的人会这样想：
     背那么多单词真的有意义吗？
