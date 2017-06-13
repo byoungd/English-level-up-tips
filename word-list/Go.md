@@ -1,0 +1,5 @@
+# Go
+
+pragmatic
+
+immediate

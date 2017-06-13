@@ -1,0 +1,5 @@
+# Python
+
+pragmatic
+
+immediate
