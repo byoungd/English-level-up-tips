@@ -100,10 +100,4 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 请把你那些本来想用来赞赏的零钱给自己买几本好书，并认认真真地看。
 
->也许有些放弃的人会这样想：
-    背那么多单词真的有意义吗？
-    也许差别不是那么大吧？
-    很多单词在生活中根本就用不到吧？
-    
-   
     学习，难道不是人生最棒的乐趣么？
