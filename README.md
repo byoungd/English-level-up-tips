@@ -1,7 +1,19 @@
 # English-level-up-tips-for-Chinese
+不久前，备考托福的女神问了我一个问题：如何高效学习英语？
+
+在我思考如何回答这个问题时，想到了在大四上一学期我考过26门课的经验（其中重修19门，当前学期7门），觉得我应该能勉强提供一些高效学习的小技巧。
+在和她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现她的学习方法有些不可取之处。
+于是我写了一篇简单的文章零散地介绍了下我学习英语的小技巧，几天后她给我回复，希望我可以把我的学习经验完善一下并分享给更多的人。
+
+在此之前，我不并不知道原来有那么多的同学在学习英语的道路上是一路走到黑的。
+他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
+
+在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
+
 
 ## Gitbook链接
 
+为方便大家阅读，故将本repo同步至Gitbook，链接在下方：
 https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 ## 英语水平等级
@@ -63,7 +75,7 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 - 感谢帮助完善这份指南的所有人
 
-- 感谢每一位star/fork/PR/watch的朋友，真心希望本指南能给你带来一些小小的帮助
+- 感谢每一位star/fork/PR/watch的朋友
 
 - 特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
 
