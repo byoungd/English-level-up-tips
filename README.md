@@ -101,3 +101,6 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 请把你那些本来想用来赞赏的零钱给自己买几本好书，并认认真真地看。
 
     学习，难道不是人生最棒的乐趣么？
+    
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
