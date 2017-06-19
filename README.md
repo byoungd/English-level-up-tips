@@ -92,12 +92,16 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 ## 有疑问或建议
 您可以直接在本 repo 提 issue
 
+## 协议/License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+
 ## 关于赞赏
 
 最近收到了一些热心小伙伴的来信，觉得本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
 
 在此，统一声明：**本指南不接受也不需要金钱上的赞助**
 
-请把你那些本来想用来赞赏的零钱给自己买几本好书，并认认真真地看。
+请把你那些本来想用来赞赏的零钱给自己买几本好书，Enjoy!
 
     学习，难道不是人生最棒的乐趣么？
