@@ -161,6 +161,18 @@ Ronnie老师有一篇关于记单词的视频，[YouTube链接](https://www.yout
 我们可以把这种特性看成是 "继承"与"多态"，那么我们要学习的其实是 *扩展的方法*，而不是将这些变化后的单词当成是新的单词来背诵。
 >单词学习与背单词并不是等价的,这意味着我们可以采用更好的方法去学习单词
 
+## Anki背单词软件
+[Anki是一款多平台的背单词app](https://apps.ankiweb.net/)
+,Anki使记忆变得更加容易,它可以一个自定义多功能的记忆方式,减少学习时间,提升你的学习容量,提高学习效率。
+
+为了帮助大家更方便地背诵高频词汇，在此分享一份「麦克米伦7000词汇」Anki卡（感谢 赛门喵Simon 的优化），特色如下：
+- 添加音标
+- 添加例句
+- 添加图片
+- 添加例句翻译
+
+链接: https://pan.baidu.com/s/1i5OLIIT 密码: jm4k
+
 ## 推荐的单词书
 - [![英语常用词疑难用法手册](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
 - [![17天搞定GRE单词](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
