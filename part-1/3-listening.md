@@ -194,7 +194,7 @@ OneDirection粉应该关注的频道
 
 - [自信的技巧 - 伊万•约瑟夫博士 - TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQwMDc4MA==.html)
 - [说流利英语的一个小技巧](https://www.youtube.com/watch?v=l96V7dQtq9E) | [优酷链接](http://v.youku.com/v_show/id_XMjc2MzE0NTQ4NA==.html)
-- [朱利安·特瑞雪: 怎样说话人们才会听](https://www.youtube.com/watch?v=eIho2S0ZahI) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQwNDMxMg==.html)
+- [朱利安·特瑞雪: 怎样说话人们才会听](https://www.youtube.com/watch?v=eIho2S0ZahI) | [B站链接](http://www.bilibili.com/video/av2915315/)
 - [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQxMjMwNA==.html)
 
 
