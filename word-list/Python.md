@@ -51,3 +51,13 @@ robust
 short-circuit
 
 wildcard
+
+open-circuit
+
+contingency
+
+feedback
+
+sinusoidal
+
+
