@@ -43,15 +43,6 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 ### 待完成：
 
-![ideas@2x.png](assets/scheme@2x.png)
-
-方案篇是分别为学生党和在职人员量身定制的英语学习方案，如果不采用合适的学习计划，那么碎片时间能做的基本上只有提升词汇了。
-
-
-这篇是正在写的，会尽快发布。
-
----
-
 ![writing@2x.png](assets/writing@2x.png)
 
 写作的要求很高，本人的写作水平并不自信，目前不敢妄言，恐误人子弟；
