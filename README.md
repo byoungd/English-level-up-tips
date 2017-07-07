@@ -49,6 +49,8 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 也不愿推荐几本语法书、写作书就草草了事，
 我需要一些时间去慢慢完善这个章节。
 
+---
+
 ![word-list@2x.png](assets/word-list@2x.png)
 
 这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。
