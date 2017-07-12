@@ -18,7 +18,7 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 ## 英语水平等级
 
-![CERF@2x.png](assets/CERF@2x.png)
+![CERF@2x.png](assets/CEFR@2x.png)
 
 >本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
