@@ -45,9 +45,7 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 ![writing@2x.png](assets/writing@2x.png)
 
-写作的要求很高，本人的写作水平并不自信，目前不敢妄言，恐误人子弟；
-也不愿推荐几本语法书、写作书就草草了事，
-我需要一些时间去慢慢完善这个章节。
+>由于最近工作任务较重，写作篇延期，暂无具体计划，请谅解！
 
 ---
 
