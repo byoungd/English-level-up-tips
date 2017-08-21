@@ -1,4 +1,5 @@
 # English-level-up-tips-for-Chinese
+
 不久前，备考托福的女神问了我一个问题：如何高效学习英语？
 
 在我思考如何回答这个问题时，想到了在大四上一学期我考过26门课的经验（其中重修19门，当前学期7门），觉得我应该能勉强提供一些高效学习的小技巧。
@@ -9,7 +10,6 @@
 他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
 
 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
-
 
 ## Gitbook链接
 
@@ -83,16 +83,19 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 ## 有疑问或建议
 您可以直接在本 repo 提 issue
 
-## 协议/License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
 
 ## 关于赞赏
 
 有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+
+2017年6月8日我和一见钟情的女神走到一起，既然已经得到此生所爱，便不再需要其他奖赏。
 
 在此，统一声明：**本指南不接受也不需要金钱上的赞助**。
 
 请把你那些本来想用来赞赏的零钱给自己买几本好书，Enjoy!
 
     学习，难道不是人生最棒的乐趣么？
+
+## 协议/License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
