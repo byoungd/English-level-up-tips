@@ -40,6 +40,8 @@ equivalence
 
 extend
 
+final
+
 flush
 
 hierarchical
