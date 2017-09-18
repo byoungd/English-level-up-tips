@@ -11,7 +11,7 @@
 
 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
-## Gitbook链接
+## GitBook链接
 
 为方便大家阅读，将本repo同步至[GitBook](https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese)：
 https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
