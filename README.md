@@ -13,8 +13,10 @@
 
 ## Gitbook链接
 
-为方便大家阅读，故将本repo同步至Gitbook，链接在下方：
+为方便大家阅读，故将本repo同步至[GitBook](https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese)：
 https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
+
+>本页面的章节链接采用的是相对路径，在GitBook上是不正确的，请使用Gitbook自带的章节导航
 
 ## 英语水平等级
 
@@ -28,8 +30,6 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 ![How@2x.png](assets/How@2x.png)
 
 ## 章节
-
->章节链接采用的是相对路径，在GitBook上是不正确的，请使用Gitbook自带的章节导航
 
 ### 已完成：
 
