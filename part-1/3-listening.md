@@ -159,7 +159,7 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 
     TED talks,听听别人的idea是一件很有意思的事情。 建议从热门视频开始看，这部分的视频往往都有多国语言字幕，而且idea也非常棒。
 
-- [SSSniperWolf](https://www.youtube.com/channel/UCpB959t8iPrxQWj7G6n0ctQhttps://www.youtube.com/channel/UCpB959t8iPrxQWj7G6n0ctQ)
+- [SSSniperWolf](https://www.youtube.com/channel/UCpB959t8iPrxQWj7G6n0ctQ)
     
     一只可爱的妹子。
 
