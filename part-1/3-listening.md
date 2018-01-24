@@ -141,11 +141,15 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 
 拥有较为丰富的前端课程，小部分免费。
 
-### YouTube上优秀的英语学习频道
+### YouTube频道推荐
 
 - [EnglishLessons4U - Learn English with Ronnie! [engVid]](https://www.youtube.com/user/EnglishLessons4U) 
 
     **力荐** 学习英语的基础语法，很多小技巧都挺实用。最最重要的是，Ronnie老师实在是太幽默啦，学习的过程中你会感受到快乐！
+
+- [English with Lucy!](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA) 
+
+    妹纸很漂亮，想当年我的英语老师也和她一样美。
 
 - [EnglishAnyone](https://www.youtube.com/channel/UCrJHj7MDQhmQ9iFuACdoWCg) 
 
@@ -154,14 +158,11 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 - [Speak English With Vanessa](https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ)
     
     Vanessa老师给人一种热情、乐观的感觉，发音标准，声情并茂。
-    
-- [TED  6](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) 
 
-    TED talks,听听别人的idea是一件很有意思的事情。 建议从热门视频开始看，这部分的视频往往都有多国语言字幕，而且idea也非常棒。
-
-- [SSSniperWolf](https://www.youtube.com/channel/UCpB959t8iPrxQWj7G6n0ctQ)
+- [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g/)
     
-    一只可爱的妹子。
+    Emma老师的发音柔软清透、温和迷人。
+        
 
 ### 超级英雄电影爱好者不该错过的频道
 
@@ -181,7 +182,7 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig)
 Late秀
 
-### 其他电影与音乐频道
+### 其他
 
 - [Disney UK](https://www.youtube.com/user/WaltDisneyStudiosUK)
 冰雪奇缘主题曲FROZEN的播放量高达10亿!
@@ -191,6 +192,11 @@ Late秀
 OneDirection粉应该关注的频道
 - [SiaVEVO](https://www.youtube.com/channel/UCmKdSrwf1e8coqAzUsrVHZw)
 个人非常喜欢，视频质量感人，引人深思
+- [SSSniperWolf](https://www.youtube.com/channel/UCpB959t8iPrxQWj7G6n0ctQ)
+一只可爱的妹子。
+- [TED  6](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) 
+TED Talks,听听别人的idea是一件很有意思的事情，建议从热门的开始看，TED Talks的热门视频往往都有多国语言字幕。
+
 
 ## 单独推荐的YouTube视频
 
