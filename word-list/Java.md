@@ -24,6 +24,8 @@ correspond
 
 costly
 
+declared
+
 deliberate
 
 deterministic
@@ -39,6 +41,8 @@ encapsulation
 equivalence
 
 extend
+
+external
 
 final
 
@@ -74,7 +78,11 @@ interpreted
 
 instance
 
+interface
+
 iterator
+
+library
 
 manipulated
 
@@ -103,3 +111,5 @@ synchronized
 underlying
 
 unsigned
+
+volatile
