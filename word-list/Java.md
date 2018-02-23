@@ -4,13 +4,21 @@ abstract
 
 aforemention
 
+annotation
+
+application
+
 arithmetic
 
 appropriate
 
+aspect
+
 associate
 
 attribute
+
+cache
 
 component
 
@@ -18,13 +26,19 @@ concurrent
 
 conjunction
 
+connection
+
 constrain
+
+context
 
 correspond
 
 costly
 
 declared
+
+default
 
 deliberate
 
@@ -52,6 +66,8 @@ hierarchical
 
 object oriented
 
+pointcut
+
 polymorphism
 
 pragmatic
@@ -60,7 +76,11 @@ primitive
 
 prohibit
 
+provider
+
 reconstruct
+
+resource
 
 retrieve
 
@@ -97,6 +117,8 @@ obsolete
 optimization
 
 scanline
+
+schema
 
 sequence
 
