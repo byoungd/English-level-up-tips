@@ -149,7 +149,7 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 
 - [English with Lucy!](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA) 
 
-    妹纸很漂亮，想当年我的英语老师也和她一样美。
+    妹纸很漂亮，想当年，我的大学英语老师也和她一样美。
 
 - [EnglishAnyone](https://www.youtube.com/channel/UCrJHj7MDQhmQ9iFuACdoWCg) 
 

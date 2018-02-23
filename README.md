@@ -12,11 +12,10 @@
 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
 ## GitBook链接
+想要获得更好的阅读体验，请访问本指南对应的GitBook页面
 
-为方便大家阅读，将本repo同步至[GitBook](https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese)：
-https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
+[English-level-up-tips-for-Chinese](https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese)
 
->本页面的章节链接采用的是相对路径，在GitBook上是不正确的，请使用Gitook自带的章节导航
 
 ## 英语水平等级
 
@@ -67,20 +66,20 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 在生词数量接近完善时会统一输出带有中文释义的版本，并会在后期进行补充解释。
 
+
+
 ## 感谢
 
 - 感谢帮助完善这份指南的所有人
-
-- 感谢每一位star/fork/PR/watch的朋友
 
 - 特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
 
 
 ## 转载声明
-转载本指南，请注明作者与本 repo 的 GitHub 链接，谢谢！
+转载本指南，请注明作者与GitHub链接，谢谢！
 
 ## 有疑问或建议
-您可以直接在本 repo 提 issue
+您可以直接提 issue
 
 
 ## 关于赞赏
