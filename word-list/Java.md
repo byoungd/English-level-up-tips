@@ -18,6 +18,8 @@ associate
 
 attribute
 
+atomic
+
 buffer
 
 cache
@@ -65,6 +67,8 @@ flush
 hierarchical
 
 immediate
+
+implements
 
 impose
 
