@@ -63,6 +63,8 @@
 
 但在整个交往过程中，都是她主动，我就像一块石头一样，再暖的心，也温暖不了。
 
+![2017-04-27 122218.png](https://i.loli.net/2021/11/25/CF7iTQ5KahPklcp.png)
+![](https://i.loli.net/2021/11/25/6BrqlSUmk3XZGKT.jpg)
 ![](https://i.loli.net/2021/11/25/puaN8ebDJiof3Ok.jpg)
 
 >>>不得春风花不开，花开又被风吹落。
