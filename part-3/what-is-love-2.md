@@ -43,4 +43,4 @@
 
 ![](https://i.loli.net/2021/11/25/PNuV7meSU51lqzy.jpg)
 
-查看一下篇: [和影子恋爱](what-is-love-3.md)
+查看一下篇: [影子恋人](what-is-love-3.md)
