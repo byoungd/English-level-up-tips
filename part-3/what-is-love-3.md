@@ -13,7 +13,6 @@
 ![](https://i.loli.net/2021/11/25/dxziAgVNkeFj7qp.jpg)
 ![2831637927853_.pic.jpg](https://i.loli.net/2021/11/26/3x9vBZFnDVcTyw6.jpg)
 ![2801637927742_.pic.jpg](https://i.loli.net/2021/11/26/lcRHGxWU2Jjqu1K.jpg)
-![](https://i.loli.net/2021/11/25/IVTsMr3UqJYtw4L.jpg)
 ![](https://i.loli.net/2021/11/25/5LGig1rq3Sa6s2M.jpg)
 ![](https://i.loli.net/2021/11/25/fjBwKGrFbh7eQmn.jpg)
 ![](https://i.loli.net/2021/11/25/6LsObRgJIPHorCK.jpg)
