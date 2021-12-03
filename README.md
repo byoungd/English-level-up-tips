@@ -17,7 +17,7 @@
 
 想要获得更好的阅读体验，请访问本指南对应的 GitBook 页面
 
-[English-level-up-tips-for-Chinese](https://byoungd.gitbook.io/english-level-up-tips/)
+[English-level-up-tips-for-Chinese](https://app.gitbook.com/s/h4N92NQapglwlURGsfxo/)
 
 ## 英语水平等级
 
