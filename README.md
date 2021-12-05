@@ -13,12 +13,6 @@
 
 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
-## GitBook 链接
-
-想要获得更好的阅读体验，请访问本指南对应的 GitBook 页面
-
-[English-level-up-tips-for-Chinese](https://app.gitbook.com/s/h4N92NQapglwlURGsfxo/)
-
 ## 英语水平等级
 
 ![CERF@2x.png](assets/CEFR@2x.png)
@@ -102,6 +96,10 @@
 ## 番外篇
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [什么叫做爱](https://www.zhihu.com/column/c_1447635258011660288)
+
+## GitBook 链接
+
+想要获得更好的阅读体验，请访问本指南对应的GitBook页面 - [English-level-up-tips-for-Chinese](https://babyyoung.gitbook.io/english-level-up-tips/)
 
 ## 测试
 
