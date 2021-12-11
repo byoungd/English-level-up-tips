@@ -72,7 +72,7 @@
 
 #### 电影
 
-![肖申克的救赎 The Shawshank Redemption]('/assets/Shawshank.jpeg')
+![肖申克的救赎 The Shawshank Redemption](../assets/Shawshank.jpeg)
 
 优秀的电影非常适合泛听，尤其是经典高分电影。可以参考[豆瓣高分电影榜单](https://movie.douban.com/top250)。
 我刷了 10 遍+的影片（影片的选择请根据自己的喜好，我列举的仅代表个人喜好）：
@@ -90,7 +90,7 @@
 
 #### 音乐
 
-![top-songs-2021]('/assets/top-songs-2021.jpg')
+![top-songs-2021](../assets/top-songs-2021.jpg)
 
 欧美金曲值得推荐的实在太多，无法一一列举；
 受欢迎的歌手：贾斯汀 比伯、戳爷、水果姐、霉霉、盆栽精、打雷、Ed Sheeran, Adele, Maroon 5, Bilie Eilish, Sam Smith 等等；
