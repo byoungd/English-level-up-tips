@@ -68,15 +68,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 - 感谢帮助完善这份指南的所有人
 
-- 特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
-
-## 转载声明
-
-转载本指南，请注明作者与 GitHub 链接，谢谢！
-
-## 有疑问或建议
-
-您可以直接提 issue
+- 特别感谢: ![v2ex](https://www.v2ex.com/)
 
 ## 关于赞赏
 
@@ -90,6 +82,10 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
     学习，难道不是人生最棒的乐趣么？
 
+![](assets/l1.jpeg)
+![](assets/l2.jpeg)
+![](assets/l3.jpeg)
+
 ## 阶段性回望
 
 写下现在这段文字的时间已经是2021年底，我与我的挚爱从相识、相知到相恋，已经走进婚姻的殿堂并育有一子。虽然我的感情史较为丰富，但在遇到她之前我真的没有想过结婚，感谢上苍对我的眷顾。
@@ -97,6 +93,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 她是我生命中的月亮。我和她的爱情，正如这只MV - [ **Perfect** ](https://www.youtube.com/watch?v=2Vv-BfVoq4g)。
 
 ![3111638765413_.pic.jpg](https://s2.loli.net/2021/12/06/8iy2FNDXSkjOqmZ.jpg)
+
 ## 番外篇
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [什么叫做爱](https://www.zhihu.com/column/c_1447635258011660288)
@@ -105,9 +102,13 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 想要获得更好的阅读体验，请访问本指南对应的GitBook页面 - [English-level-up-tips-for-Chinese](https://babyyoung.gitbook.io/english-level-up-tips/)
 
+## 转载声明
+
+转载本指南，请注明作者与 GitHub 链接，谢谢！
+
 ## 测试
 
-<a target="_blank" href="https://www.browserstack.com/"><img width="200" src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png"></a><br>
+<a target="_blank" href="https://www.browserstack.com/"><img width="200" src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png"></a>
 [BrowserStack Open-Source Program](https://www.browserstack.com/open-source)
 
 ## 协议/License
