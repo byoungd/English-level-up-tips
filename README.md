@@ -86,6 +86,8 @@ The only way to do great work is to love what you do. If you haven't found it ye
 ![](assets/l2.jpeg)
 ![](assets/l3.jpeg)
 
+   和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》
+
 ## 阶段性回望
 
 写下现在这段文字的时间已经是2021年底，我与我的挚爱从相识、相知到相恋，已经走进婚姻的殿堂并育有一子。虽然我的感情史较为丰富，但在遇到她之前我真的没有想过结婚，感谢上苍对我的眷顾。
