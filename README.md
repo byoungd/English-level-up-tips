@@ -100,9 +100,11 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [什么叫做爱](https://www.zhihu.com/column/c_1447635258011660288)
 
-## GitBook 链接
+## 其他平台链接
 
-想要获得更好的阅读体验，请访问本指南对应的GitBook页面 - [English-level-up-tips-for-Chinese](https://babyyoung.gitbook.io/english-level-up-tips/)
+- 知乎 [英语进阶指南](https://www.zhihu.com/column/c_1453146248568631296)
+
+- GitBook [English-level-up-tips-for-Chinese](https://babyyoung.gitbook.io/english-level-up-tips/)
 
 ## 转载声明
 
