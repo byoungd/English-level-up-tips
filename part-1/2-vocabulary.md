@@ -172,6 +172,14 @@ Ronnie老师有一篇关于记单词的视频，[YouTube链接](https://www.yout
 
 链接: https://pan.baidu.com/s/1i5OLIIT 密码: jm4k
 
+因为上面卡牌包制作时间久远，在一些移动平台会出现[#76](https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76)问题，更新如下：
+
+- 修改了词牌样式，减小字号，调整背面答案字段顺序等，以适配移动端应用
+- 通过[Localize Media](https://ankiweb.net/shared/info/1293255374)插件离线所有图片等资源。
+
+  > [麦克米伦7000_a-n.apkg](../assets/麦克米伦7000_imagefix_a-n.apkg)  
+  > [麦克米伦7000_o-z.apkg](../assets/麦克米伦7000_imagefix_o-z.apkg)
+
 ## 推荐的单词书
 - [![英语常用词疑难用法手册](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
 - [![17天搞定GRE单词](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
