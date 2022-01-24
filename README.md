@@ -1,8 +1,11 @@
-# English-level-up-tips-for-Chinese
+# 项目介绍
+
+An advanced guide to learn English that might benefit you a lot.
+可能是让你受益匪浅的英语进阶指南。
+## 背景
 
 不久前（2017年7月初），备考托福的女神问了我一个问题：如何高效学习英语？
 
-![](assets/she.jpeg)
 
 在我思考如何回答这个问题时，想到了在大四上一学期我考过 26 门课的经验（其中重修 19 门，当前学期 7 门），觉得我应该能勉强提供一些高效学习的小技巧。
 
@@ -18,7 +21,9 @@
 The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
 >>>成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
 
-在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
+在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，**真心希望本指南能给你带来一点小小的帮助**。
+
+![](assets/she.jpeg)
 
 ## 英语水平等级
 
