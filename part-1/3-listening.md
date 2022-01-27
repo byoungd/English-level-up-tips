@@ -195,6 +195,8 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
 
 - [Luciana Zogbi](https://www.youtube.com/watch?v=39_OmBO9jVg)
 
+- [Sara Farell](https://www.youtube.com/watch?v=2jZFsQS8Veo)
+
 
 ### 其他
 
