@@ -189,10 +189,17 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig)
   Late 秀
 
+### 歌手  
+
+- [Valerie Pola](https://www.youtube.com/watch?v=mwfg8YmZM3E)
+
+- [Luciana Zogbi](https://www.youtube.com/watch?v=39_OmBO9jVg)
+
+
 ### 其他
 
 - [Disney UK](https://www.youtube.com/user/WaltDisneyStudiosUK)
-  冰雪奇缘主题曲 FROZEN 的播放量高达 10 亿!
+  冰雪奇缘主题曲 FROZEN 的播放量高达 10 亿+!
 - [Vevo](https://www.youtube.com/user/VEVO)
   电影级 MV 的集中营呀,VEVO 旗下有很多视频都有单独的频道，请自行查找感兴趣的
 - [OneDirectionVEVO](https://www.youtube.com/user/OneDirectionVEVO)
@@ -203,6 +210,7 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
   一只可爱的妹子。
 - [TED 6](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
   TED Talks,听听别人的 idea 是一件很有意思的事情，建议从热门的开始看，TED Talks 的热门视频往往都有多国语言字幕。
+
 
 ## 单独推荐的 YouTube 视频
 
