@@ -57,25 +57,11 @@ The only way to do great work is to love what you do. If you haven't found it ye
 ![writing@2x.png](assets/writing@2x.png)
 
 > 由于工作与学习绘画等原因，写作篇暂无具体计划，请谅解！
-
----
-
-![word-list@2x.png](assets/word-list@2x.png)
-
-这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。
-工程巨大，需要较长的时间进行整理。
-
-## 为 初学者单词表 做贡献
-
-请直接将 单词 添加至本 repo 目录： **[word-list](word-list)** 下对应的 md 文件中，不需要添加单词的解释，注意换行+空行（参照每个 md 文件的前两个单词）。
-
-在生词数量接近完善时会统一输出带有中文释义的版本，并会在后期进行补充解释。
-
 ## 感谢
 
 - 感谢帮助完善这份指南的所有人
 
-- 特别感谢: ![v2ex](https://www.v2ex.com/)
+- 特别感谢: [v2ex](https://www.v2ex.com/)
 
 ## 关于赞赏
 
@@ -97,15 +83,20 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 阶段性回望
 
-写下现在这段文字的时间已经是2021年底，我与我的挚爱从相识、相知到相恋，已经走进婚姻的殿堂并育有一子。虽然我的感情史较为丰富，但在遇到她之前我真的没有想过结婚，感谢上苍对我的眷顾。
+写下现在这段文字的时间已经是2021年底，我与我的挚爱从相识、相知到相恋，已经走进婚姻的殿堂并育有一子。
+>虽然我的感情史较为丰富，但在遇到她之前我真的没有想过结婚，感谢上苍对我的眷顾。
 
-她是我生命中的月亮。我和她的爱情，正如这只MV - [ **Perfect** ](https://www.youtube.com/watch?v=2Vv-BfVoq4g)。
+她是我生命中的月亮。
 
-![3111638765413_.pic.jpg](https://s2.loli.net/2021/12/06/8iy2FNDXSkjOqmZ.jpg)
+我和她的爱情，像极了这只MV - [ **Perfect** ](https://www.youtube.com/watch?v=2Vv-BfVoq4g)。
 
 ## 番外篇
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [什么叫做爱](https://www.zhihu.com/column/c_1447635258011660288)
+
+## 2022 计划
+
+今年将会抽空分享一些视频节目到B站，目前正在整理相关话题，敬请期待。
 
 ## 其他平台链接
 
@@ -116,11 +107,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 ## 转载声明
 
 转载本指南，请注明作者与 GitHub 链接，谢谢！
-
-## 测试
-
-<a target="_blank" href="https://www.browserstack.com/"><img width="200" src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png"></a>
-[BrowserStack Open-Source Program](https://www.browserstack.com/open-source)
 
 ## 协议/License
 
