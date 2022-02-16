@@ -98,7 +98,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [什么叫做爱](https://www.zhihu.com/column/c_1447635258011660288)
 
-勇敢地表达自己，可以提高自己的沟通能力 [我们为何害怕与陌生生交流](./part-2/why-we-are-afraid-to-communicate-with-strangers.md)
+勇敢地表达自己，可以提高自己的沟通能力 [我们为何害怕与陌生人交流](./part-2/why-we-are-afraid-to-communicate-with-strangers.md)
 
 ## 2022 计划
 
