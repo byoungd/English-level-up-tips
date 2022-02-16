@@ -94,3 +94,7 @@
 - [Doing English with Julian Northbrook](https://www.youtube.com/user/doingenglishDOTcom) 
 
 >学习频道不在多，在于多加练习；如果你有不错的频道想要推荐，请提交issue
+
+## 勇敢地与陌生人交流
+
+ [我们为何害怕与陌生生交流](../part-2/why-we-are-afraid-to-communicate-with-strangers.md)
