@@ -189,7 +189,7 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig)
   Late 秀
 
-### 歌手  
+### 音乐频道  
 
 - [Valerie Pola](https://www.youtube.com/watch?v=mwfg8YmZM3E)
 
@@ -199,6 +199,7 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
 
 - [JFla](https://www.youtube.com/watch?v=MhQKe-aERsU)
 
+- [Boyce Avenue](https://www.youtube.com/watch?v=HcQJzFzZfVI)
 ### 其他
 
 - [Disney UK](https://www.youtube.com/user/WaltDisneyStudiosUK)
