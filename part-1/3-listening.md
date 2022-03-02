@@ -200,6 +200,9 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
 - [JFla](https://www.youtube.com/watch?v=MhQKe-aERsU)
 
 - [Boyce Avenue](https://www.youtube.com/watch?v=HcQJzFzZfVI)
+
+- [xooos](git@github.com:byoungd/modern-vue-template.git)
+
 ### 其他
 
 - [Disney UK](https://www.youtube.com/user/WaltDisneyStudiosUK)
