@@ -139,6 +139,12 @@ Enjoy what you are doing！
 
 相信科学，采用合理的学习方案，量力而行，Enjoy！
 
+## 给自己创造良好的英语环境
+
+Consume media only in english like watching `Youtube` instead of `Bilibili`. 
+
+Just make english as **part of your life**!
+
 ## 婴儿是如何学习语言的
 
 如果你仔细观察，你会发现婴儿表达自己的时候，经常会出现如下的语句：
