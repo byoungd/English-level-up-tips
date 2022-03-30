@@ -143,7 +143,9 @@ Enjoy what you are doing！
 
 Consume media only in english like watching `Youtube` instead of `Bilibili`. 
 
-Just make english as **part of your life**!
+Just make english a **part of your daily life**!
+
+You **have to** understand the thing you reached like this section.
 
 ## 婴儿是如何学习语言的
 
