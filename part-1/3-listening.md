@@ -157,7 +157,7 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
 
 - [English with Lucy!](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA)
 
-  妹纸很漂亮，想当年，我的大学英语老师也和她一样美。
+  妹纸很漂亮，和我当年的大学英语老师有的一拼。
 
 - [EnglishAnyone](https://www.youtube.com/channel/UCrJHj7MDQhmQ9iFuACdoWCg)
 
@@ -168,7 +168,12 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
   Vanessa 老师给人一种热情、乐观的感觉，发音标准，声情并茂。
 
 - [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g/)
+
   Emma 老师的发音柔软清透、温和迷人。
+
+- [English Fluency Journey](https://www.youtube.com/channel/UC9eIq7PwD0WA-2B_Sp7xGdw)
+
+  跟着 Anna 老师学习对话，受益良多。
 
 ### 超级英雄电影爱好者不该错过的频道
 
