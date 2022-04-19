@@ -55,9 +55,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 感谢
 
-- 感谢所有关心并完善这份指南的人
-
-- 特别感谢: [v2ex](https://www.v2ex.com/)
+- 感谢所有关心以及为这份指南做出贡献的人 ❤️
 
 ## 关于赞赏
 
