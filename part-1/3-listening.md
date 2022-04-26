@@ -92,9 +92,11 @@
 
 ![top-songs-2021](../assets/top-songs-2021.jpg)
 
-欧美金曲值得推荐的实在太多，无法一一列举；
-受欢迎的歌手：贾斯汀 比伯、戳爷、水果姐、霉霉、盆栽精、打雷、Ed Sheeran, Adele, Maroon 5, Bilie Eilish, Sam Smith 等等；
-iTunes 榜、BillBoard、UK 榜都可以试试。
+欧美金曲值得推荐的实在太多，无法一一列举：
+- 受欢迎的歌手：贾斯汀·比伯、戳爷、水果姐、霉霉、盆栽精、打雷、Ed Sheeran, Adele, Maroon 5, Bilie Eilish, Sam Smith 等等
+- iTunes 榜
+- BillBoard
+- UK 榜
 
 #### 直播
 
@@ -206,7 +208,7 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
 
 - [Boyce Avenue](https://www.youtube.com/watch?v=HcQJzFzZfVI)
 
-- [xooos](git@github.com:byoungd/modern-vue-template.git)
+- [xooos](https://www.youtube.com/c/xooos)
 
 - [Hailee Steinfeld](https://www.youtube.com/channel/UCWfytcGFwPSMwvP5HYuXGqw)
 
