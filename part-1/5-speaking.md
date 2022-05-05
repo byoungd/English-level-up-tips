@@ -103,6 +103,8 @@
 
 - [A.J. Hoge](https://www.youtube.com/c/AJHogeEffortlessEnglish)
 
+- [AccurateEnglish](https://www.youtube.com/channel/UCMTcsanYhBtOb096XegDZQA)
+
 >学习频道不在多，在于多加练习；如果你有不错的频道想要推荐，请提交issue
 
 ## 勇敢地与陌生人交流
