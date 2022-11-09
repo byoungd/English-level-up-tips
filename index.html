@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>English-level-up-tips</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="English, tips, learning" />
+    <meta
+      name="keywords"
+      content="An advanced guide to learn English which might benefit you a lot."
+    />
+    <meta name="author" content="byoungd" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+    <!-- docsify-themeable -->
+    <link
+      rel="stylesheet"
+      media="(prefers-color-scheme: dark)"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+    />
+    <link
+      rel="stylesheet"
+      media="(prefers-color-scheme: light)"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
+    />
+    <!-- End -->
+    <!-- begin for docsify katex -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.css"
+    />
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.js"
+    ></script>
+    <!-- the version of marked must between 2.1.0 -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@4"></script>
+    <!-- End -->
+    <!-- slidebar collapse -->
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css"
+    />
+    <!-- mermaid -->
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"
+    />
+    <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <!-- End -->
+    <!-- begin for markmap -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-view"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.14.3/dist/browser/index.min.js"></script>
+    <!-- End -->
+    <style type="text/css">
+      iframe {
+        display: block;
+        border: none;
+        height: 75vh;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      let num = 0;
+      mermaid.initialize({ startOnLoad: false });
+      markmapSvg = [];
+      const transformer = new markmap.Transformer();
+      window.$docsify = {
+        name: "content", // 目录的标题
+        repo: "https://github.com/byoungd/English-level-up-tips", // 右上角的挂件
+        loadSidebar: "SUMMARY.md",
+        alias: {
+          "/.*/SUMMARY.md": "/SUMMARY.md",
+        },
+        subMaxLevel: 3, // 子目录最大层级, 有助于显示 markdown 的层级
+        auto2top: true, // 自动跳转至顶部
+        markdown: {
+          renderer: {
+            code: function (code, lang) {
+              if (lang === "mermaid") {
+                return (
+                  '<div class="mermaid" style="background:#E1EFD9" >' +
+                  mermaid.render("mermaid-svg-" + num++, code) +
+                  "</div>"
+                );
+              } else if (lang == "markmap") {
+                const { root: data } = transformer.transform(code);
+                let currentNum = num;
+                markmapSvg.push(function () {
+                  let elem = document.getElementById(
+                    "markmap-svg-" + currentNum
+                  );
+                  const mm = new markmap.Markmap(elem, null);
+                  if (data) {
+                    mm.setData(data);
+                    const { minX, maxX, minY, maxY } = mm.state;
+                    const naturalWidth = maxY - minY;
+                    const naturalHeight = maxX - minX;
+                    elem.style.width = naturalWidth + "px";
+                    elem.style.height = naturalHeight + "px";
+                    mm.fit(); // always fit for the first render
+                  }
+                });
+                return `<svg class="markmap" id="markmap-svg-${num++}"></svg>`;
+              }
+              return this.origin.code.apply(this, arguments);
+            },
+          },
+        },
+        plugins: [
+          function (hook, vm) {
+            hook.beforeEach(function (html) {
+              num = 0;
+              markmapSvg = [];
+              let url =
+                "https://github.com/byoungd/English-level-up-tips/blob/master/" +
+                vm.route.file;
+              let editHtml = "[:memo: EDIT DOCUMENT](" + url + ")\n";
+              return (
+                editHtml +
+                html.replace(
+                  /<a\s+(?:[^>]*?\s+)?href\s*=\s*(["'])#(.*?)\1.*?>/g,
+                  (m, g1, g2) => m.replace(g2, vm.route.path + "#" + g2)
+                )
+              );
+            });
+            hook.doneEach(function () {
+              markmapSvg.forEach((fn) => fn());
+            });
+          },
+        ],
+      };
+    </script>
+    <!-- docsify-katex for latex -->
+    <script>
+      // import katex from "katex";
+      // import marked from "marked";
+      (function () {
+        let originMarkdown = window.$docsify.markdown;
+        let newMarked = marked; // version above 2.1.0
+        window.$docsify.markdown = newMarkdown;
+        return;
+        function newMarkdown(originMarked, originRenderer) {
+          // in docsify.js: `window.marked = marked;`
+          // this will overwrite the marked
+          // here `let newMarked = marked;` will not right
+          const mathExtension = {
+            name: "math",
+            level: "inline",
+            start(src) {
+              let index = src.match(/\$/)?.index;
+              return index;
+            },
+            tokenizer(src, tokens) {
+              const blockRule = /^\$\$((\\.|[^\$\\])+)\$\$/;
+              const inlineRule = /^\$((\\.|[^\$\\])+)\$/;
+              let match;
+              if ((match = blockRule.exec(src))) {
+                return {
+                  type: "math",
+                  raw: match[0],
+                  text: match[1].trim(),
+                  mathLevel: "block",
+                };
+              } else if ((match = inlineRule.exec(src))) {
+                return {
+                  type: "math",
+                  raw: match[0],
+                  text: match[1].trim(),
+                  mathLevel: "inline",
+                };
+              }
+            },
+            renderer(token) {
+              if (token.mathLevel === "block") {
+                return katex.renderToString(token.text, {
+                  throwOnError: false,
+                  displayMode: true,
+                });
+              } else if (token.mathLevel === "inline") {
+                return katex.renderToString(token.text, {
+                  throwOnError: false,
+                  displayMode: false,
+                });
+              }
+            },
+          };
+          const merge =
+            Object.assign ||
+            function (to) {
+              for (let i = 1; i < arguments.length; i++) {
+                const from = Object(arguments[i]);
+                for (const key in from) {
+                  if (hasOwn.call(from, key)) {
+                    to[key] = from[key];
+                  }
+                }
+              }
+              return to;
+            };
+
+          let opts = originMarkdown || {};
+
+          if (isFn(opts)) {
+            opts = opts.apply(
+              this, // make it right: return this.origin.code(src);
+              originMarked,
+              originRenderer
+            ).defaults;
+          } else {
+            opts = merge(opts, {
+              renderer: merge(originRenderer, opts.renderer),
+            });
+          }
+          newMarked.setOptions(opts);
+          newMarked.use({ extensions: [mathExtension] });
+
+          return newMarked.parse;
+
+          function isFn(obj) {
+            return typeof obj === "function";
+          }
+        }
+      })();
+    </script>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- copy to clipboard -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    <!-- slidebar collapse -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <!-- search -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+    <!-- zoom image -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <!-- docsify-themeable -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+    <script>
+      addBackToTop({
+        diameter: 56,
+        backgroundColor: "rgb(255, 82, 82)",
+        textColor: "#fff",
+      });
+    </script>
+  </body>
+</html>
