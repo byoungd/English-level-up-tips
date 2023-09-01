@@ -13,7 +13,7 @@ An advanced guide to learn English which might benefit you a lot.
 
 与她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现了她的学习方法存在一些不可取之处。
 
-于是我写了一篇简单的文章零散地介绍了下我学习英语的小技巧，几天后她告诉我，希望我可以这些学习经验稍加整理，分享给更多有需要的人。
+于是我写了一篇简单的文章零散地介绍了下我学习英语的小技巧，几天后她告诉我，希望我可以将这些学习经验稍加整理，分享给更多有需要的人。
 
 在此之前，我并不知道原来有那么多的同学在学习英语的道路上是一路走到黑的。
 他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
@@ -73,7 +73,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 番外篇
 
-聊聊我的个人成长经历中的爱情部分，欢迎查阅 [爱情往事](https://www.zhihu.com/column/c_1447635258011660288)
+聊聊我的个人成长经历中的爱情部分，欢迎查阅 [爱情往事]([https://www.zhihu.com/column/c_1447635258011660288](https://github.com/byoungd/English-level-up-tips/tree/master/part-3))
 
 勇敢地表达自己，可以提高自己的沟通能力 [我们为何害怕与陌生人交流](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
 
