@@ -77,15 +77,12 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 勇敢地表达自己，可以提高自己的沟通能力 [我们为何害怕与陌生人交流](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
 
-## 2022 计划
 
-今年将会抽空分享一些视频节目到B站，目前正在整理相关话题，敬请期待。
-
-## 其他平台链接
+## 在线阅读
 
 - 知乎 [英语进阶指南](https://www.zhihu.com/column/c_1453146248568631296)
-
-- GitBook [English-level-up-tips-for-Chinese](https://babyyoung.gitbook.io/english-level-up-tips/)
+- GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/) 
+- GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
 
 ## 转载声明
 
