@@ -109,4 +109,4 @@
 
 ## 勇敢地与陌生人交流
 
- [我们为何害怕与陌生生交流](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
+ [我们为何害怕与陌生人交流](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
