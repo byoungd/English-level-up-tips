@@ -1,8 +1,9 @@
 # 项目介绍
 
-An advanced guide to learn English which might benefit you a lot.
-
+An advanced guide to learn English which might benefit you a lot.<!--An advanced guide to learning English that might benefit you a lot.-->  
 可能是让你受益匪浅的英语进阶指南。
+
+<https://babyyoung.gitbook.io/english-level-up-tips/>
 
 ## 背景
 
