@@ -16,9 +16,11 @@ Well then, Let’s jump right in.
 
 Our first topic is: `why are you always tired?`
 
-One of the most common problems I hear about nowadays is I am so tired. And you are not alone. I experienced the biggest failure in my life in the past year. The startup company I ran went bankrupt. I lost my wealth, a precious friendship, and the person I loved. For a whole year, I couldn’t sleep well and felt very tired every day. Trust me, I know that terrible feeling.
+One of the most common problems I hear about nowadays is **I am so tired**. And you are not alone. I experienced the biggest failure in my life in the past year. The startup company I ran went bankrupt. I lost my wealth, a precious friendship, and the person I loved. For a whole year, I couldn’t sleep well and felt very tired every day. 
 
-Whether you are experiencing unemployment, or just broke up, or are confused about the future, let’s calm down and talk like old friends.
+**Trust me, I know that terrible feeling**.
+
+Whether you are experiencing unemployment, or just broke up, or are confused about the future, let’s calm down and **talk like old friends**.
 
 Before I created this course, I searched online for many articles on this topic. Some of the YouTube videos and answers of ChatGPT inspired me a lot. I summarized the ideas of several popular videos and shared them with you here.
 
@@ -28,7 +30,7 @@ Apart from medical health issues, I summarize them into the following three poin
 
 The first point is `Sleep Anxiety`.
 
-Sleep anxiety is the feeling of being scared, worried or concerned about our sleep, which paradoxically makes it harder for us to fall asleep. This creates a vicious cycle that is quite harmful. I’ve been researching the science behind sleep for a while, but even as someone with a medical background, things can get super confusing. And generally, when I talk to people in this area, it’s hard to figure out what’s good advice to follow and what’s bad advice to ignore.
+Sleep anxiety is the feeling of being scared, worried or concerned about our sleep, which paradoxically makes it harder for us to fall asleep. This creates a **vicious cycle** that is quite harmful. I’ve been researching the science behind sleep for a while, but even as someone with a medical background, things can get super confusing. And generally, when I talk to people in this area, it’s hard to figure out what’s good advice to follow and what’s bad advice to ignore.
 
 For sleep anxiety, we must be aware of the following myths:
 
@@ -36,19 +38,17 @@ For sleep anxiety, we must be aware of the following myths:
 
 In the 1990s, Russell and his research group discovered that there are some cells in our eyes that only detect light, rather than helping us to see images. This light detection mechanism in our eyes tells our brain what time of the day it is and helps regulate our internal clock. Now, since our internal clocks are sensitive to light, it means that generally we want to be awake when it’s bright outside and we want to be asleep when it’s dark outside.
 
-And actually, for the last few years, Russell and his research group have been studying what happens when the circadian rhythm is disrupted by sleeping at weird times, for example if you have jet lag or if you work night shifts. And they found that these people who have this disruption to their circadian rhythm have an increase in stress hormones, an increase in the risk of heart disease, and they get sick way more often. They are also more prone to emotional and cognitive problems.
+And actually, for the last few years, Russell and his research group have been studying what happens when the `circadian rhythm` is disrupted by sleeping at weird times, for example if you have jet lag or if you work night shifts. And they found that these people who have this disruption to their circadian rhythm have an increase in stress hormones, an increase in the risk of heart disease, and they get sick way more often. They are also more `prone to emotional` and `cognitive problems`.
 
 > Reference video: https://www.youtube.com/watch?v=qlf9-573MhI 00:02:28,070 - 00:02:38,210
 
-It is important to understand that we all have an internal clock that ticks inside us. However, our internal clocks are not exactly the same. That’s why you hear people say they are morning people or night owls. This is related to something called your chronotype, which is based on your natural tendency to sleep at a certain time. Scientists can categorize us into different chronotypes. 
+It is important to understand that we all have an **internal clock** that ticks inside us. However, our internal clocks are not exactly the same. That’s why you hear people say they are morning people or night owls. This is related to something called your `chronotype`, which is based on your natural tendency to sleep at a certain time. Scientists can categorize us into different chronotypes. 
 
 For example, someone who naturally wakes up early and finds the morning to be their most productive hours of the day probably has a morning chronotype. And if you are more of a morning person, you might find it better to do your creative or high-focus tasks in the morning. On the other hand, if you are a night owl, that’s fine too if you can control your schedule. It is generally worth trying to adjust things so that you do focused work at night.
 
 ### Myth two: Everyone needs eight hours of sleep
 
 The truth is that there is a lot of variation in how much sleep people actually need. So, instead of worrying too much about the number of hours of sleep you got and thinking, “Oh, I only got seven hours of sleep last night, I’m going to have a terrible day,” there are a few other things that you can do to optimize your sleep.
-
-Insert video 3:55 - 4:18
 
 ### Myth three: We should wake up at the same time every day
 
