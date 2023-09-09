@@ -14,11 +14,11 @@ Well then, Let’s jump right in.
 
 ## FIRST TOPIC
 
-Our first topic is: `why are you always tired?`
-
 One of the most common problems I hear about nowadays is **I am so tired**. And you are not alone. I experienced the biggest failure in my life in the past year. The startup company I ran went bankrupt. I lost my wealth, a precious friendship, and the person I loved. For a whole year, I couldn’t sleep well and felt very tired every day. 
 
 **Trust me, I know that terrible feeling**.
+
+So, our first topic will be: `why are you always tired?`
 
 Whether you are experiencing unemployment, or just broke up, or are confused about the future, let’s calm down and **talk like old friends**.
 
@@ -71,15 +71,15 @@ The most important thing I want to share is `how to deal with stress`.
 Manage your stress and learn to relax properly. 
 >Here is a video that might help you: https://www.youtube.com/watch?v=9QiE-M1LrZk
 
-I mentioned in my article on [Zhihu](https://zhuanlan.zhihu.com/p/653380203) that I was addicted to games for a while, but I overcame it by using the dopamine detox method.
+I mentioned in my article on [Zhihu](https://zhuanlan.zhihu.com/p/653380203) that I was addicted to games for a while, but I overcame it by using the `dopamine detox method`.
 
 Even though you logically know that studying, exercising, building a business or something equally productive, will bring you more benefits in the long run, you still prefer watching TV, playing video games and scrolling through social media.
 
 One might argue that it’s obvious why. One activity is easy and doesn’t require much effort, while the other activity is difficult and it requires you to apply yourself.
 
-But some people seem to have no problem studying, exercising, or working on their side projects regularly.
+But some people seem to have no problem studying, exercising, or working on their `side projects` regularly.
 
-In the low point of my life, there was one thing that always accompanied me forward, and that was programming. I needed a high-performance rich text editor for my previous company’s product, but I couldn’t find any open source project that met my needs, so I developed one myself and open sourced it on GitHub. Whenever I felt depressed and distracted, I quietly worked on this project. Some of the challenges I faced and overcame were:
+In the low point of my life, there was one thing that always accompanied me forward, and that was `programming`. I needed a high-performance rich text editor for my previous company’s product, but I couldn’t find any open source project that met our needs, so I developed one myself and open sourced it on GitHub. Whenever I felt depressed and distracted, I quietly worked on this project. Some of the challenges I faced and overcame were:
 
 - Designing and coding the editor
 - Developing the core and the plugin system
@@ -90,4 +90,6 @@ If you are interested in this project, [you can join and contribute](https://git
 
 I was very happy that I could finish it after more than a year of continuous development, instead of giving up halfway.
 
-Today’s lesson was very long, but fortunately，it is over now. Thank you for your attention and I hope you learned something useful.
+Today’s lesson was very long, but fortunately，it is `OVER` now.
+
+Thank you for your attention and I hope you learned something useful.
