@@ -40,15 +40,17 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 章节
 
-[![understanding@2x.png](assets/understanding@2x.png)](part-1/1-understanding.md)
+[![understanding](assets/understanding@2x.png)](part-1/1-understanding.md)
 
-[![vocabulary@2x.png](assets/vocabulary@2x.png)](part-1/2-vocabulary.md)
+[![vocabulary](assets/vocabulary@2x.png)](part-1/2-vocabulary.md)
 
-[![listening@2x.png](assets/listening@2x.png)](part-1/3-listening.md)
+[![listening](assets/listening@2x.png)](part-1/3-listening.md)
 
-[![reading@2x.png](assets/reading@2x.png)](part-1/4-reading.md)
+[![reading](assets/reading@2x.png)](part-1/4-reading.md)
 
-[![speaking@2x.png](assets/speaking@2x.png)](part-1/5-speaking.md)
+[![speaking](assets/speaking@2x.png)](part-1/5-speaking.md)
+
+[![writing](assets/writing@2x.png)](part-1/6-writing.md)
 
 [![Others@2x.png](assets/Others@2x.png)](part-2/x-misc.md)
 
