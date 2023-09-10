@@ -101,7 +101,6 @@
 #### 直播
 
 如果你喜欢看直播，去[Twitch](https://www.twitch.tv/)上找找喜欢的主播吧。
-
 ## 入门听力训练
 
 - [Basic English Grammar](https://www.youtube.com/watch?v=Rp3LqMYBhkQ&list=PL2621D8F6B6B29B7B)
@@ -109,6 +108,24 @@
 
 - [Learn English with Valen - Basic English lessons by ValenESL](https://www.youtube.com/channel/UCgzuT-fpJiyThTUlMiFRCKQ)
   内容大多数为很基础的英语语法、一些词汇的用法等，非常适合初学者。虽然视频内容较旧，作者停止了更新，但是依然是非常棒的初学者教程。
+
+
+## 高阶 - 如何听懂非慢速英语材料
+
+你是否有时候觉得很难跟上母语为英语的人的说话，或者无法理解YouTube上的视频或电影？是不是明明自己在某些英语学习App听力测试结果还行，自我感觉良好，可一旦脱离字幕去看影视剧就噶了？
+
+请注意，那些听力训练材料绝大多数都是**处理过的**，**为了不让学习者过于沮丧而降低了难度**。
+
+学习英语听力时，人们最常犯的错误是 他们**过度关注单个单词**，而不是整个句子的意思。
+
+但是**单词在不同的语境中会发生变化**!
+
+当你把两个单词放在一起时，它们的**发音也会改变**!
+
+如果你而不是逐字翻译，你的理解很可能会出错。所以，你应该**听整个句子**，这样你才能更好地理解英语。
+
+如果你想深入了解这个话题，我强烈推荐你耐心观看这个视频 [Understand Native English Speakers with this Advanced Listening Lesson](https://www.youtube.com/watch?v=D6_qpaSxAQc)
+
 
 ## 优秀的英语学习材料推荐
 
@@ -226,6 +243,7 @@ Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你�
   一只可爱的妹子。
 - [TED 6](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
   TED Talks,听听别人的 idea 是一件很有意思的事情，建议从热门的开始看，TED Talks 的热门视频往往都有多国语言字幕。
+
 
 
 ## 单独推荐的 YouTube 视频
