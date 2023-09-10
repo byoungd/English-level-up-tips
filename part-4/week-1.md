@@ -4,7 +4,7 @@ The reason I wanted to write this article is because I get one question very oft
 
 LOL ~
 
-To be honest, I couldn’t speak English fluently even though I had been learning it for many years. But I’m going to improve my English speaking by teaching you guys! Sounds crazy? I believe it can challenge me to improve my English speaking level.
+To be honest, I couldn’t speak English fluently even though I have been learning it for many years.
 
 I know you want to speak like a native English speaker. You want to sound natural. You really want to speak fluently. Well, in order to do that, you must use the words and expressions that we actually use in real life. And that’s why I created this series for you: Real life English.
 
