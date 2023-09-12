@@ -128,3 +128,11 @@ The only way to do great work is to love what you do. If you haven't found it ye
 或者复制以下这段文字到微信中打开：
 
 `#小程序://酷圈子/NhtvtbvU0zWqSwp`
+
+
+## 离谱的公众号
+
+也欢迎大家关注我的公众号，专注于分享离谱的故事，让别人靠谱去吧~
+
+![离谱的公众号](/assets/gzh.jpg)
+
