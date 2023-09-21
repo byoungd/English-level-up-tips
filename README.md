@@ -8,8 +8,7 @@ An advanced guide to learn English which might benefit you a lot.
 
 大家好，我是离谱，欢迎来到离谱的英语学习指南，让我们像老朋友一样，随便聊聊。
 
-时间回到2017年7月初，备考托福的女神问了我一个问题：如何高效学习英语？
-
+时间回到 2017 年 7 月初，备考托福的女神问了我一个问题：如何高效学习英语？
 
 在我思考如何回答这个问题时，想到了在大四上一学期我考过 26 门课的经验（其中重修 19 门，当前学期 7 门），觉得我应该能勉强提供一些高效学习的小技巧。
 
@@ -23,7 +22,8 @@ An advanced guide to learn English which might benefit you a lot.
 我由衷地希望大家能**热爱**学习英语这件事情，如果做不到，那就尝试着去发现这件事情的乐趣亦或是收益。请允许我奉上乔布斯的一段话(原话指的是工作，表达的意义却是一致的)：
 
 The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
->>>成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
+
+> > > 成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
 
 **热爱之于学习**，同样如此。
 
@@ -56,7 +56,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![Others@2x.png](assets/Others@2x.png)](part-2/x-misc.md)
 
-
 ## 感谢
 
 - 感谢所有关心以及为这份指南做出贡献的人 ❤️
@@ -65,14 +64,12 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
 
-2017 年 6 月 8 日我和一见钟情的女神走到一起，**既然已经得到此生所爱，便不再需要其他奖赏**。 
+2017 年 6 月 8 日我和一见钟情的女神走到一起，**既然已经得到此生所爱，便不再需要其他奖赏**。
 
 ![](assets/l1.jpeg)
 ![](assets/l3.jpeg)
 
-   和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》
-
-
+和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》
 
 ## 番外篇
 
@@ -80,17 +77,15 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 勇敢地表达自己，可以提高自己的沟通能力 [我们为何害怕与陌生人交流](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
 
-
 ## 在线阅读
 
 - 知乎 [英语进阶指南](https://www.zhihu.com/column/c_1453146248568631296)
-- GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/) 
+- GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
 - GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
 
 ## 转载声明
 
 转载本指南，请注明作者与 GitHub 链接，谢谢！
-
 
 ## 协议/License
 
@@ -99,7 +94,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 ## 项目状态
 
 ![Alt](https://repobeats.axiom.co/api/embed/e9f25b6200dc09f2d6d831bca87c5035869980fd.svg "Repobeats analytics image")
-
 
 ## 特别声明
 
@@ -111,12 +105,11 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 > Cheers and Enjoy :)
 
-
 ## 学习圈
 
-时光飞逝，距离创建本指南已经有6年多的时间过去了，这期间，发生了很多事，我收获了获爱情与家庭，同时也失去了财富，详情请见[花2000万开一家软件公司并倒闭了，是一种怎样的体验](https://zhuanlan.zhihu.com/p/653380203)。
+时光飞逝，距离创建本指南已经有 6 年多的时间过去了，这期间，发生了很多事，我收获了获爱情与家庭，同时也失去了财富，详情请见[花 2000 万开一家软件公司并倒闭了，是一种怎样的体验](https://zhuanlan.zhihu.com/p/653380203)。
 
-截止2023年9月，我终于艰难地走出低谷期，开始了新一轮的创业，目前我正在打造一个新的应用 [`酷圈 ku0.com`](https://ku0.com)。
+截止 2023 年 9 月，我终于艰难地走出低谷期，开始了新一轮的创业，目前我正在打造一个新的应用 [`酷圈 ku0.com`](https://ku0.com)。
 
 **非常欢迎你们成为早期用户，与我共同创造这个有爱的社区**。
 
@@ -128,3 +121,8 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ![离谱的公众号](/assets/gzh.jpg)
 
+## 离谱的小程序指南
+
+开新坑了，在这篇新的指南里离谱将给大家分享一款用户量破千万的小程序是如何由我一个人一步步打造出来的，欢迎关注，持续更新中。
+
+[离谱的小程序指南 求 star](https://github.com/byoungd/how-to-create-a-funny-mini-program)
