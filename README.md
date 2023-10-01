@@ -2,7 +2,7 @@
 
 An advanced guide to learn English which might benefit you a lot.
 
-离谱的英语进阶指南。
+离谱的英语学习指南。
 
 ## 背景
 
