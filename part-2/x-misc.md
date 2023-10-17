@@ -1,15 +1,15 @@
-# 扯淡篇
+# Vô lý
 
-## 聊聊国内的IT培训
+## Nói về đào tạo CNTT trong nước
 
-近几年国内互联网行业的快速发展，让这个行业成为时下最热门也是最令人误解的行业之一。
-冲着可观的薪水，有大量其他行业的人选择进入互联网领域。
-如果你只是因为这个行业的薪资水平目前相较于你从事的行业偏高，而实际上你对这个行业没有一丝一毫的热爱，
-那么你当初怎么急切的进入这个行业，以后就会多么痛苦地离开。
+Sự phát triển nhanh chóng của ngành Internet trong nước trong những năm gần đây đã khiến ngành này trở thành một trong những ngành phổ biến và bị hiểu lầm nhiều nhất hiện nay.
+Với mức lương đáng kể, một số lượng lớn người từ các ngành khác chọn tham gia vào lĩnh vực Internet.
+Nếu bạn chỉ vì mức lương ngành này hiện tại cao hơn ngành bạn đang theo học mà thực tế là bạn không hề có chút tình cảm nào với ngành này,
+Vì vậy, ngay từ đầu bạn đã háo hức như thế nào khi bước vào ngành này và việc rời đi trong tương lai sẽ đau đớn biết bao.
 
-永远综合考虑 **喜欢且能胜任的工作**，我希望大家都能过上自己期待的生活，而不是为了生存而放弃生活。
+Hãy luôn cân nhắc **một công việc mình thích và đủ khả năng ** một cách toàn diện, mong mọi người có thể sống cuộc sống mà mình mong đợi thay vì từ bỏ cuộc sống chỉ để tồn tại.
 
-怕伤及国内某些机构的利益，摘一段《前端开发者手册2017》里的话(删掉了点名的机构)：
+Vì sợ ảnh hưởng đến lợi ích của một số tổ chức trong nước, tôi trích từ "Sổ tay dành cho nhà phát triển Front-End 2017" (các tổ chức có tên đã bị xóa):
 >Lately a lot of non-accredited, expensive, front-end code schools/bootcamps have emerged.
  These avenues of becoming a front-end developer are typically teacher directed courses, that follow a more traditional style of learning, from an official instructor.
  Keep in mind, if you are considering an expensive training program, this is the web! 
@@ -18,142 +18,140 @@
  Otherwise, I am not aware of any other profession that is practically free for the taking with an internet connection, a hundred dollars a month for screencasting memberships, and a burning desire for knowledge.
                                                                          
  --《Front-end Developer Handbook 2017 (Kindle 位置 810-813). GitBook》
+ Vì vậy, đối với những ai muốn bước vào ngành này thông qua đào tạo, lời khuyên của tôi là:
  
- 所以对于想要通过培训来进入这个行业的人，我的建议是：
+  Nếu muốn làm việc trong ngành Internet, bạn nên có ý thức sử dụng Internet và mua cho mình những thứ thú vị với chi phí cao.
+  >Nếu bạn là sinh viên trong trường và cơ sở đào tạo khuyến khích bạn đăng ký kinh doanh tương tự như một khoản vay (trả góp) thì hãy cẩn thận, những tổ chức đó thực sự tồi tệ!
  
- 你想从事的是互联网行业，应该具备利用互联网的意识，把高昂的费用给自己买些好玩的吧。
- >如果你是在校学生，培训单位怂恿你办理类似贷款（分期还款）的业务，请务必要慎重，那些单位真的是有些坏！
- 
-## IT培训靠谱吗？
+## Đào tạo CNTT có đáng tin cậy không?
 
-我花了4个月时间 2万块钱培训了web前端开发
+Tôi đã dành 4 tháng và tốn 20.000 nhân dân tệ để đào tạo về phát triển web front-end
 
-刚培训完两个星期我就收到了美团网的offer
+Chỉ hai tuần sau khi đào tạo, tôi nhận được lời đề nghị từ Meituan.com
   
-我承认我不是班里学习最好的
+Tôi thừa nhận rằng tôi không phải là học sinh giỏi nhất lớp
    
-但我却是班里第一个找到工作的 
+Nhưng tôi là người đầu tiên trong lớp tìm được việc làm
     
-而且还是个大厂
+Và đó là một nhà máy lớn
  
-我一直相信 勤能补拙 只要有决心 什么事都是可以做到的
+Tôi luôn tin rằng, làm việc chăm chỉ có thể bù đắp được thất bại, chỉ cần quyết tâm thì việc gì cũng có thể làm được.
 
-今天入职一个星期了
+Hôm nay đã được một tuần kể từ khi tôi bắt đầu làm việc
 
-公司的人对我都很好  还给我配了 电动车 和头盔 还有大衣   不说了  来单了
+Những người trong công ty rất tốt với tôi, họ thậm chí còn cung cấp cho tôi một chiếc xe đạp điện, mũ bảo hiểm và áo khoác, tôi sẽ không đi sâu vào chi tiết nữa. Tôi đã đặt hàng rồi.
 
-## 每天5分钟 让你彻底放弃英语
+##5 phút mỗi ngày sẽ khiến bạn từ bỏ hoàn toàn tiếng Anh
 
-现在很多培训机构、教育机构喜欢打着 **每天n分钟 让你的英语怎么样怎么样**，这基本只是在撒糖，先把你哄进来再说。
-英语作为一门语言，本身就不可能在极短的时间内习得。
-碎片化学习基本上到最后要么放弃，要么就思维发散到别处去了（比如发现自己真的很爱看美剧）。
-对于在职人士，必须要制定合适的学习方案，组合学习,最终才能系统化的学习英语。
+Ngày nay, nhiều cơ sở đào tạo, cơ sở giáo dục muốn yêu cầu bạn cải thiện tiếng Anh n phút mỗi ngày, điều này về cơ bản chỉ là truyền đường và dụ dỗ bạn học trước.
+Bản thân tiếng Anh không thể học được trong một khoảng thời gian rất ngắn.
+Việc học tập rời rạc về cơ bản sẽ dẫn đến việc từ bỏ hoặc chuyển hướng suy nghĩ của bạn sang hướng khác (ví dụ: bạn thấy rằng mình thực sự thích xem phim truyền hình Mỹ).
+Đối với người đang đi làm, cần xây dựng kế hoạch học tập phù hợp và kết hợp học tập để cuối cùng họ có thể học tiếng Anh một cách có hệ thống.
 
-所以，非常不推荐去花这部分冤枉钱。
+Vì vậy, không nên tiêu số tiền lãng phí này.
  
 ---
 
-## kindle和iPad
-我知道现在很多人的kindle和iPad在吃灰，甚至是平常被用来当泡面盖子。
-这可能是有趣的玩法，不过这真的是我们购买这些电子产品的初衷吗？
+## kindle và iPad
+Tôi biết rằng Kindle và iPad của nhiều người hiện đang bám bụi và thậm chí chúng còn được dùng làm nắp đậy mì ăn liền.
+Đây có thể là một cách chơi thú vị, nhưng đây có thực sự là lý do tại sao chúng ta mua những sản phẩm điện tử này không?
 
-![黑人问号.jpg](../assets/黑人问号.jpg)
+![dấu chấm hỏi màu đen.jpg](../assets/黑人问号.jpg)
 
+## Trải nghiệm học tập đau đớn của cá nhân
 
-## 个人惨痛的学习经历
+Hồi cấp 2, điểm của tôi luôn đứng nhất lớp, tôi rất kiêu hãnh và kiêu ngạo.
 
-初中时期，我的成绩稳稳排在年级第一，我得意忘形，目中无人。
-
-初二的时候，新来一个数学老师，我实在无法接受他把那么简单的数学题目讲错，我对他的教学不屑一顾，完全不把他布置的作业放在心上，上课时也自己玩自己的。
+Hồi tôi học lớp 2 trung học cơ sở, có một giáo viên toán mới, tôi thực sự không thể chấp nhận việc thầy dạy sai một câu toán đơn giản như vậy, tôi đã bỏ việc thầy dạy, không chú ý đến bài tập thầy giao. và tự mình chơi trong giờ học.
     
-直到有一天他又双叒叕讲错了一道题，我忍不住笑了出来，并摇了摇头，他估计是积怨已久，发疯似地打我，对我拳打脚踢，后来校长知道此事将那个老师开除了；
+Cho đến một ngày, anh ta liên tục trả lời sai một câu, tôi không nhịn được cười lắc đầu, chắc anh ta hận lâu lắm rồi, đánh tôi như điên, đấm đá tôi. Sau này hiệu trưởng mới biết chuyện. cái này Chuyện khiến giáo viên đó bị sa thải;
 
-初三，我居然故伎重演，又嘲笑了另一位数学老师，这次不是因为他讲错了，而是他给出的方法不是最优解，我又双叒叕被暴打了一顿，当时我的同桌都被吓哭了，而我似乎没有感觉到太多的疼痛。
+Năm thứ ba trung học cơ sở, tôi thực sự lặp lại thủ đoạn cũ và cười nhạo một giáo viên dạy toán khác, lần này không phải vì thầy dạy sai mà vì phương pháp thầy đưa ra không phải là giải pháp tối ưu nên tôi bị đánh. Các bạn cùng bàn của tôi đều sợ hãi và khóc lóc, nhưng tôi dường như không cảm thấy đau đớn lắm.
 
-那个老师后来找我道歉，他打自己耳光，拉着我的手去锤他，我说"上一个打我的老师被开除了"，
-他告诉我说他的父亲病重，他的哥哥游手好闲，他需要这份工作，我和他达成了协议：我不需要再去上他的数学课，我可以出去玩。
+Sau đó thầy đến chỗ tôi xin lỗi, thầy tự tát mình rồi nắm tay tôi tát, tôi nói: “Thầy cuối cùng tát tôi đã bị đuổi việc”.
+Anh ấy nói với tôi rằng bố anh ấy bị bệnh nặng còn anh trai thì nhàn rỗi và anh ấy cần công việc này, và tôi đã thỏa thuận với anh ấy: Tôi không phải đến lớp toán của anh ấy nữa và tôi có thể ra ngoài chơi.
 
-后来我的确也没有去上过他的数学课。
+Sau này tôi không đến lớp toán của thầy nữa.
     
-在此之后，我对数学完全失去了兴趣，参加奥数比赛获得的奖状也被我狠狠地撕碎了。
+Sau đó, tôi hoàn toàn mất hứng thú với toán học và xé giấy chứng nhận đạt được trong Olympic Toán học thành từng mảnh.
 
-年少轻狂。呵。
+Trẻ trung và phù phiếm. Ah.
 
 
-到了高中，学习压力真的很大，不仅仅来源于外界，也来源于对自己提出的过高要求。
+Ở trường cấp 3, áp lực học tập thực sự rất lớn, không chỉ từ thế giới bên ngoài mà còn từ những yêu cầu quá mức đặt ra cho bản thân.
     
-由于我夜间充电时间没把握好，导致白天因为精力不足，上课效果很差，夜间又无法尽快入睡，我又开始担心因为休息时间不够导致白天萎靡不振，于是越焦虑越睡不着。
+Vì không kiểm soát được thời gian sạc vào ban đêm nên kết quả học tập của tôi rất kém do thiếu năng lượng vào ban ngày, ban đêm tôi không thể ngủ nhanh và bắt đầu lo lắng về việc uể oải vào ban ngày vì không đủ thời gian nghỉ ngơi nên tôi càng lo lắng và không thể ngủ được.
 
-班主任责备我成绩一落千丈，问我是不是谈恋爱、上网打游戏等，经常喊我去办公室谈话（实际上是批评）；
+Thầy hiệu trưởng trách tôi vì điểm tụt dốc, hỏi tôi có yêu đương không, chơi game trên mạng,… và thường xuyên gọi tôi lên văn phòng để nói chuyện (thực ra là phê bình);
 
-年级主任也只是关心我是不是早上又迟到了，被他抓住，又立一功；
+Giám đốc lớp chỉ quan tâm đến việc liệu tôi có lại đi muộn vào buổi sáng hay không, và ông ấy đã bắt gặp tôi và đóng góp thêm;
 
-我爸得知我的成绩落在了多少名之外，便再也不愿意来开家长会；
+Khi bố tôi phát hiện ra tôi đã tụt lại bao nhiêu điểm trong điểm số, ông không còn muốn đến họp phụ huynh-giáo viên nữa;
 
-久而久之，恶性循环，我开始失眠，我对自己非常失望，我的座位被调到了第一排，我的床位也搬进了医院；
+Thời gian trôi qua, một vòng luẩn quẩn bắt đầu, tôi bắt đầu mắc chứng mất ngủ, tôi rất thất vọng về bản thân, chỗ ngồi của tôi được chuyển về hàng ghế đầu tiên, và giường của tôi được chuyển đến bệnh viện;
 
-此后，我用了长达2年的时间去治疗失眠，那是一段暗无天日的时光；
+Sau đó, tôi mất 2 năm để điều trị chứng mất ngủ, đó là khoảng thời gian đen tối;
 
-在这段痛苦的时间内，我多次想要轻生，说失眠痛苦已经是一种仁慈的描述；
+Trong khoảng thời gian đau đớn này, tôi đã nhiều lần muốn tự tử, nói rằng tôi mắc chứng mất ngủ là một cách miêu tả tử tế;
 
-无数个清冷的夜里，我一个人跑到卫生间莫名的流下眼泪，不知道人生到底有什么意义；
+Trong vô số đêm lạnh giá, tôi một mình chạy vào phòng tắm và rơi nước mắt chẳng vì lý do gì, tự hỏi ý nghĩa cuộc sống là gì;
 
-我希望我可以美美的睡上一觉，可是我怎么也睡不着！
+Tôi hy vọng tôi có thể ngủ ngon, nhưng tôi không thể ngủ được!
     
-**没人来告诉我，生活的意义并不是与他人争高下，而在于享受努力实现目标的过程，结果是对自己行动的嘉奖。**
+**Không ai đến nói với tôi rằng ý nghĩa của cuộc sống không phải là cạnh tranh với người khác, mà là tận hưởng quá trình làm việc chăm chỉ để đạt được mục tiêu và kết quả là phần thưởng cho hành động của mình. **
     
-在失眠之前，我都是用左手写字的，在失眠期间，为了打发无聊的时间，我学会了用右手写字，我开始练习书法，这一定程度上减轻了我的痛苦。
-我把更多的时间投入到练习书法中来，参加书法比赛获奖，语文作文多次在年级考试中获得满分（我记得最清楚的是那篇批评应试教育的）；
+Trước khi mất ngủ, tôi luôn viết bằng tay trái, trong khoảng thời gian mất ngủ, để giết thời gian nhàm chán, tôi học viết bằng tay phải, bắt đầu luyện tập thư pháp, việc này đã giảm bớt cơn đau của tôi ở một mức độ nhất định.
+Tôi dành nhiều thời gian hơn cho việc luyện tập thư pháp, tham gia các cuộc thi thư pháp và đạt giải, nhiều lần đạt điểm tối đa trong các bài thi viết tiếng Trung (đoạn tôi nhớ rõ nhất là bài phê bình giáo dục thiên về thi cử);
 
-我开始体会到了一些不一样的东西，夜里我开始犯困，我睡得着了。
+Tôi bắt đầu trải nghiệm điều gì đó khác lạ, tôi bắt đầu cảm thấy buồn ngủ vào ban đêm và tôi có thể ngủ được.
 
-在之后我的成绩也渐渐提高了一些，虽然高考我很失败，靠着语文和英语高分勉强上了一本（到高中后我就基本不再碰数学了）。
+Sau đó, điểm số của tôi dần dần được cải thiện, tuy trượt đại học nhưng tôi vẫn được vào một lớp có điểm cao cả tiếng Trung và tiếng Anh (sau khi tốt nghiệp trung học tôi về cơ bản không đụng đến toán nữa).
 
-所以，当你处于人生低谷时，不妨试试学习新的东西，很可能会从这些事情里找到不一样的乐趣。
+Vì vậy, khi bạn đang ở thời điểm khó khăn trong cuộc sống, bạn cũng có thể cố gắng học hỏi những điều mới và bạn có thể tìm thấy những niềm vui khác trong những điều này.
 
-**要学会放弃，学会接受自己，学会找到自己真正喜欢的事情。如果某件事情是你工作和生活所依赖的，那么试着去喜欢她吧。**
+**Bạn phải học cách từ bỏ, học cách chấp nhận bản thân và học cách tìm ra những điều mình thực sự thích. Nếu công việc và cuộc sống của bạn phụ thuộc vào điều gì đó, hãy cố gắng yêu thích nó. **
 
-这也是我分享自己学习经验的初衷，我希望大家能少走弯路，重新认识一些事情。
+Đây cũng là mục đích ban đầu của tôi là chia sẻ kinh nghiệm học tập, mong mọi người tránh đi đường vòng và hiểu lại một số điều.
 
 ---
 
-大学期间，英语老师跟我杠上了，主要的原因是某节课我没有带课本，她提我拼写，而我居然全写对了。
+Khi tôi học đại học, giáo viên tiếng Anh của tôi đã cãi nhau với tôi, nguyên nhân chính là vì tôi không mang theo sách giáo khoa vào một lớp nào đó, cô ấy yêu cầu tôi đánh vần, nhưng tôi thực sự đã hiểu được.
 
-她用英语表扬了我，我也用英语装了一回x，基本流利地与她完成了一次口语对话。
+Cô ấy khen ngợi tôi bằng tiếng Anh, và tôi cũng giả vờ là x bằng tiếng Anh, và về cơ bản đã hoàn thành cuộc trò chuyện với cô ấy một cách trôi chảy.
 
-那节课上，全年级的人都向我投来羡慕（其实是鄙夷）的目光，现在回想起来都还有些得意呢。
+Trong lớp đó, mọi người trong lớp đều nhìn tôi với ánh mắt ghen tị (thật ra là khinh thường), bây giờ nhìn lại, ai cũng cảm thấy có chút tự hào.
 
-**之后，她盯上了我，我没有一次是能成功躲过她的点名！**
+Sau **, cô ấy nhắm mục tiêu vào tôi, và tôi không bao giờ tránh được cuộc gọi của cô ấy! **
 
-位列年级四大逃课之首的我，别提多恨她了。
+Tôi, người đứng đầu trong số bốn học sinh giỏi nhất lớp, ghét cô ấy vô cùng.
 
-后来，**在英语老师的努力下，我们系所有的老师都盯上了我**，每次点名都先问2班的xxx来了没有，如果我来了，那么这节课就不用再点名了。
+Sau này, **với sự nỗ lực của giáo viên tiếng Anh, tất cả các giáo viên trong khoa chúng tôi đều tập trung vào tôi** Mỗi lần điểm danh, đầu tiên họ sẽ hỏi xem xxx lớp 2 có ở đây không. Nếu tôi đến thì thế này lớp sẽ không cần phải lặp lại.Được đặt tên.
 
-于是，到大三下学期，我挂了19门课。
+Vì vậy, đến học kỳ thứ hai của năm học cơ sở, tôi đã trượt 19 môn học.
 
-大四开学，学校要求将我降级退到大三，眼看毕业无望。
+Khi tôi bắt đầu học năm cuối, nhà trường yêu cầu tôi giáng cấp xuống năm cuối cấp, không có hy vọng tốt nghiệp.
 
-结果英语老师帮我找班主任、系主任、教务处，坚持让我留在原年级学习，也就是一次重修19门课不过的话就直接肄业，神tm的中国好老师。
+Kết quả là giáo viên tiếng Anh đã giúp tôi tìm hiệu trưởng, trưởng khoa và phòng công tác học vụ, nhất quyết bắt tôi phải học cùng lớp, tức là nếu không thi lại 19 môn một lần thì tôi sẽ bỏ học. trực tiếp ra trường. Thật là một giáo viên Trung Quốc tuyệt vời.
 
-大四，我背着沉沉的书包，每天去教室和图书馆自习。每个回宿舍的傍晚，我都要狠狠地恨一遍我的英语老师。
+Vào năm cuối cấp, hàng ngày tôi xách cặp nặng nề đến lớp học và thư viện để học. Mỗi tối về ký túc xá, tôi ghét thầy dạy tiếng Anh của mình.
 
-怎么会有这样丧心病狂的老师呢？
+Làm sao có thể có một giáo viên điên rồ như vậy?
 
-期末考试，共26门课，我身心俱疲，叫苦不迭。
+Kỳ thi cuối kỳ có tổng cộng 26 môn, tôi kiệt sức cả về thể chất lẫn tinh thần và không ngừng phàn nàn.
 
-在得知重修的19门课全过了之后，我开心的眼泪都快掉下来。终于可以狠狠地把脸打回去了，你丫的不就是想看我毕不了业的笑话么！
+Sau khi biết mình đã đậu hết 19 môn học lại, tôi gần như bật khóc vì sung sướng. Cuối cùng tôi cũng có thể tát mạnh vào mặt mình, chẳng phải anh chỉ muốn coi tôi là trò đùa không thể tốt nghiệp sao?
 
-然后我在给自己的毕业寄语上写下一句话：“大学期间，千万别跟自己的老师谈恋爱！”
+Rồi tôi viết một câu trong lời nhắn tốt nghiệp của mình: “Trong thời gian học đại học, đừng bao giờ yêu thầy cô!”
 
-## 总结
+## Tóm tắt
 
-其实写了这么多，我总结下，学习英语的主要方法还是靠天赋。
+Trên thực tế, sau khi viết rất nhiều, tôi kết luận rằng cách học tiếng Anh chủ yếu là dựa vào tài năng.
 
-努力，是最好的天赋！
+Làm việc chăm chỉ là tài năng tốt nhất!
 
->关于被老师暴打，更多的问题在我，没有顾及老师的尊严，自以为是，那时的我，很不像话。 
-以上纯属扯淡,只为博君一笑。
+> Về việc bị thầy đánh, vấn đề hơn nữa là tôi đã không coi trọng nhân phẩm của thầy và tự cho mình là đúng, lúc đó tôi rất xấu hổ.
+Những điều trên hoàn toàn là vô nghĩa, chỉ để cười.
 
 
-下一篇：[我和我的前女友们](/part-3/what-is-love-1.md)
+Kế tiếp：[Tôi và những người bạn gái cũ của tôi](/part-3/what-is-love-1.md)
 

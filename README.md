@@ -1,46 +1,46 @@
-# 项目介绍
+# Giới thiệu dự án
 
 An advanced guide to learn English which might benefit you a lot.
 
-离谱的英语学习指南。
+Hướng dẫn học tiếng Anh vui nhộn.
 
-## 背景
+## Lý lịch
 
-大家好，我是离谱，欢迎来到离谱的英语学习指南，让我们像老朋友一样，随便聊聊。
+Xin chào mọi người, tôi là Ridiculous. Chào mừng bạn đến với hướng dẫn học tiếng Anh Ridiculous. Hãy cùng trò chuyện thoải mái như những người bạn cũ.
 
-时间回到 2017 年 7 月初，备考托福的女神问了我一个问题：如何高效学习英语？
+Trở lại đầu tháng 7 năm 2017, nữ thần đang chuẩn bị thi TOEFL đã hỏi tôi một câu: Làm thế nào để học tiếng Anh hiệu quả?
 
-在我思考如何回答这个问题时，想到了在大四上一学期我考过 26 门课的经验（其中重修 19 门，当前学期 7 门），觉得我应该能勉强提供一些高效学习的小技巧。
+Khi tôi đang suy nghĩ làm thế nào để trả lời câu hỏi này, tôi nghĩ đến kinh nghiệm của mình khi tham gia 26 môn học trong học kỳ đầu tiên của năm cuối cấp (19 trong số đó đã được thi lại, 7 môn trong học kỳ hiện tại), và tôi cảm thấy rằng mình có thể cung cấp một số lời khuyên để học tập hiệu quả.
 
-与她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现了她的学习方法存在一些不可取之处。
+Sau khi trao đổi kinh nghiệm học tập với cô, tôi rất ngạc nhiên trước sự nhiệt tình trong học tập của cô, đồng thời tôi cũng phát hiện ra một số khuyết điểm trong phương pháp học tập của cô.
 
-于是我写了一篇简单的文章零散地介绍了下我学习英语的小技巧，几天后她告诉我，希望我可以将这些学习经验稍加整理，分享给更多有需要的人。
+Thế là tôi viết một bài đơn giản giới thiệu ngắn gọn những bí quyết học tiếng Anh của mình, vài ngày sau, cô ấy nói với tôi rằng cô ấy hy vọng tôi có thể tổng hợp những kinh nghiệm học tập này và chia sẻ với nhiều người có nhu cầu hơn.
 
-在此之前，我并不知道原来有那么多的同学在学习英语的道路上是一路走到黑的。
-他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
+Trước đó, tôi không hề biết rằng có rất nhiều học viên gặp khó khăn trên con đường học tiếng Anh.
+Họ thậm chí chưa bao giờ nghĩ: **Là một ngôn ngữ, việc học tiếng Anh phải là một việc tương đối tự nhiên, giống như cách chúng ta học tiếng Trung một cách tự nhiên**.
 
-我由衷地希望大家能**热爱**学习英语这件事情，如果做不到，那就尝试着去发现这件事情的乐趣亦或是收益。请允许我奉上乔布斯的一段话(原话指的是工作，表达的意义却是一致的)：
+Tôi chân thành mong rằng mọi người có thể **yêu** việc học tiếng Anh, nếu chưa thì hãy thử khám phá niềm vui hay lợi ích của việc học này nhé. Xin phép tôi trích dẫn một đoạn văn của Steve Jobs (từ gốc ám chỉ công việc nhưng ý nghĩa thì giống nhau):
 
 The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
 
-> > > 成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
+> > > Cách duy nhất để đạt được những điều vĩ đại là yêu thích sự nghiệp của mình. Nếu bạn vẫn chưa tìm được nghề nghiệp mình yêu thích, hãy tiếp tục tìm kiếm và đừng bỏ cuộc. Hãy làm theo trái tim của bạn và bạn sẽ tìm thấy nó một ngày nào đó.
 
-**热爱之于学习**，同样如此。
+**Tình yêu cũng giống như việc học**.
 
-在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，**真心希望本指南能给你带来一点小小的帮助**。
+Trong hướng dẫn này, tôi sẽ cố gắng hết sức để kết hợp quan điểm chủ quan của mình với cơ sở khoa học nhất định để cung cấp cho bạn hướng dẫn chi tiết để cải thiện tiếng Anh **Tôi chân thành hy vọng rằng hướng dẫn này có thể mang lại cho bạn một chút trợ giúp **.
 
-## 英语水平等级
+## Trình độ tiếng Anh
 
 ![CERF@2x.png](assets/CEFR@2x.png)
 
-> 本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
+> Con số này chủ yếu đề cập đến http://www.coe.int/en/web/common-european-framework-reference-lingu/table-1-cefr-3.3-common-reference-levels-global-scale
 
-## 特色
+## Tính năng
 
 ![Feature@2x.png](assets/Feature.png)
 ![How@2x.png](assets/How.png)
 
-## 章节
+## Chương
 
 [![understanding](assets/understanding@2x.png)](part-1/1-understanding.md)
 
@@ -56,65 +56,65 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![Others@2x.png](assets/Others@2x.png)](part-2/x-misc.md)
 
-## 感谢
+## Tri ân
 
-- 感谢所有关心以及为这份指南做出贡献的人 ❤️
+- Cảm ơn mọi người đã quan tâm và đóng góp cho hướng dẫn này ❤️
 
-## 关于赞赏
+## Về sự đánh giá cao
 
-有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+Nhiều người bạn nhiệt tình đã viết thư cho biết rằng hướng dẫn này được viết rất cẩn thận và nó sẽ hữu ích cho việc học tiếng Anh của họ. Tôi hy vọng họ có thể đánh giá cao nó.
 
-2017 年 6 月 8 日我和一见钟情的女神走到一起，**既然已经得到此生所爱，便不再需要其他奖赏**。
+Ngày 8/6/2017, tôi đến với nữ thần mà tôi đã yêu từ cái nhìn đầu tiên **Bây giờ tôi đã có được tình yêu của đời mình, tôi không còn cần những phần thưởng khác**.
 
 ![](assets/l1.jpeg)
 ![](assets/l3.jpeg)
 
-和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》
+Ngày gặp nàng, trong đầu tôi chỉ có một câu: cỏ mang hạt và gió lay lá. Chúng tôi đứng đó, không nói chuyện, và nó rất đẹp. ---"Trước cửa" của Gu Cheng
 
-## 番外篇
+## Chương phụ
 
-聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的爱情往事](https://github.com/byoungd/English-level-up-tips/tree/master/part-3)
+Để nói về phần tình yêu trong trải nghiệm trưởng thành cá nhân của tôi, vui lòng xem qua [Quá khứ tình yêu quá khích](https://github.com/byoungd/English-level-up-tips/tree/master/part-3)
 
-勇敢地表达自己，可以提高自己的沟通能力 [我们为何害怕与陌生人交流](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
+Thể hiện bản thân một cách dũng cảm có thể cải thiện kỹ năng giao tiếp của bạn [Tại sao chúng ta sợ giao tiếp với người lạ](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afaid-to -communicate -với-người lạ.md)
 
-## 在线阅读
+## Đọc online
 
-- 知乎 [英语进阶指南](https://www.zhihu.com/column/c_1453146248568631296)
+- Zhihu [Hướng dẫn tiếng Anh nâng cao](https://www.zhihu.com/column/c_1453146248568631296)
 - GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
 - GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
 
-## 转载声明
+## In lại tuyên bố
 
-转载本指南，请注明作者与 GitHub 链接，谢谢！
+Khi in lại hướng dẫn này, vui lòng cho biết tác giả và liên kết GitHub, cảm ơn bạn!
 
-## 协议/License
+## Thỏa thuận/Giấy phép
 
-本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a> 进行许可。
+Tác phẩm này được cấp phép theo <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width: 0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org /licenses Được cấp phép theo /by-nc/4.0/">Giấy phép Quốc tế Creative Commons Ghi công-Phi thương mại 4.0</a>.
 
-## 项目状态
+## Tình trạng của dự án
 
 ![Alt](https://repobeats.axiom.co/api/embed/e9f25b6200dc09f2d6d831bca87c5035869980fd.svg "Repobeats analytics image")
 
-## 特别声明
+## Tuyên bố đặc biệt
 
-统一声明：**本指南不接受也不需要金钱上的赞助**。
+Tuyên bố miễn trừ trách nhiệm: **Hướng dẫn này không chấp nhận hoặc yêu cầu tài trợ tài chính**.
 
-请把你那些原本想用来赞赏的零钱给自己买几本好书。
+Hãy sử dụng số tiền bạn dự định dành cho việc tri ân để mua cho mình những cuốn sách hay.
 
-    学习，难道不是人生最棒的乐趣么？
+     Học tập chẳng phải là niềm vui lớn nhất trong cuộc đời sao?
 
 > Cheers and Enjoy :)
 
-## 酷圈 ku0.com
+## Vòng tròn thú vị ku0.com
 
-时光飞逝，距离创建本指南已经有 6 年多的时间过去了，这期间，发生了很多事，我收获了获爱情与家庭，同时也失去了财富，详情请见[花 2000 万开一家软件公司并倒闭了，是一种怎样的体验](https://zhuanlan.zhihu.com/p/653380203)。
+Thời gian trôi nhanh, đã hơn 6 năm trôi qua kể từ khi tôi viết hướng dẫn này. Trong khoảng thời gian này, rất nhiều chuyện đã xảy ra. Tôi có được tình yêu và gia đình, nhưng cũng mất đi của cải. Để biết chi tiết, vui lòng xem [Chi 20 triệu để thành lập công ty phần mềm ] Và nó đã phá sản, mọi chuyện thế nào](https://zhuanlan.zhihu.com/p/653380203).
 
-当前大环境下很多人将面临转行，网络上充斥着铺天盖地的学习资料，鱼龙混杂，需要做减法，所以我创建了酷圈这个产品。酷圈 ku0.com 是一个社区，采用 **学习 + 娱乐** 的模式。在这里你可以免费查阅下载最优质的学习资料；也可以在这里闲逛，劳逸结合，与社区的好友分享灵感与创意；或者单纯的在这里装 B 找存在感。
+Trong môi trường hiện nay, nhiều người sẽ phải đối mặt với việc thay đổi nghề nghiệp, Internet tràn ngập tài liệu học tập, những cái tốt và cái xấu đan xen và cần phải loại bỏ, vì vậy tôi đã tạo ra sản phẩm Cool Circle. Kuquan ku0.com là cộng đồng áp dụng mô hình **học tập + giải trí**. Tại đây bạn có thể kiểm tra và tải xuống miễn phí những tài liệu học tập chất lượng tốt nhất; bạn cũng có thể lang thang ở đây, kết hợp công việc và nghỉ ngơi, chia sẻ cảm hứng, sự sáng tạo với bạn bè trong cộng đồng; hoặc đơn giản là giả vờ ở đây để tìm cảm giác hiện diện.
 
-酷圈短期会是你学习的利器，长期的愿景是做你的成长指南。
+Cool Circle sẽ là công cụ học tập cho bạn trong thời gian ngắn và tầm nhìn dài hạn sẽ là kim chỉ nam cho sự phát triển của bạn.
 
-[`酷圈 ku0.com`](https://ku0.com)。
+[`Vòng tròn thú vị ku0.com`](https://ku0.com)。
 
-**非常欢迎你们成为早期用户，与我共同创造这个有爱的社区**。
+**Chúng tôi rất hoan nghênh bạn trở thành người dùng sớm và cùng tôi tạo ra cộng đồng yêu thương này**.
 
-![酷圈 ku0.com](/assets/ku0.com.png)
+![Vòng tròn thú vị ku0.com](/assets/ku0.com.png)
