@@ -77,7 +77,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 在线阅读
 
-- 知乎 [英语进阶指南](https://www.zhihu.com/column/c_1453146248568631296)
+- 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
 - GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
 - GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
 
