@@ -73,7 +73,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 番外篇
 
-聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/English-level-up-tips/tree/master/part-3)
+聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
 
 ## 在线阅读
 
@@ -97,10 +97,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 - 👻 每一个不曾起舞的日子，都是对生命的辜负
 
 ![`离大谱`](/assets/douyin_qr.jpg)
-
-## 离谱的恋爱指南
-
-千呼万唤，[离谱的恋爱指南终于来了 -> https://github.com/byoungd/how-to-find-love](https://github.com/byoungd/how-to-find-love)
 
 ## 项目状态
 
