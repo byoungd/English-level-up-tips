@@ -89,15 +89,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a> 进行许可。
 
-## 离谱的抖音
-
-也非常欢迎大家关注离谱的抖音号：
-
-- 🤔️ 关注离谱的抖音，品波澜壮阔的人生
-- 👻 每一个不曾起舞的日子，都是对生命的辜负
-
-![`离大谱`](/assets/douyin_qr.jpg)
-
 ## 项目状态
 
 ![Alt](https://repobeats.axiom.co/api/embed/e9f25b6200dc09f2d6d831bca87c5035869980fd.svg "Repobeats analytics image")
