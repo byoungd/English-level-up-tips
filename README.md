@@ -75,6 +75,14 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
 
+## 离谱的抖音
+
+如果你对我感兴趣，可以关注我的抖音号: 72581209403
+
+或搜索 `离谱哥` 找到红色大 `P` 的头像
+
+![离谱的抖音](/assets/douyin.jpg)
+
 ## 在线阅读
 
 - 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
@@ -88,7 +96,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 ## 协议/License
 
 本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a> 进行许可。
-
 
 ## 特别声明
 
