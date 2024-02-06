@@ -60,17 +60,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 - 感谢所有关心以及为这份指南做出贡献的人 ❤️
 
-## 关于赞赏
-
-有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
-
-2017 年 6 月 8 日我和一见钟情的女神走到一起，**既然已经得到此生所爱，便不再需要其他奖赏**。
-
-![](assets/l1.jpeg)
-![](assets/l3.jpeg)
-
-和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》
-
 ## 番外篇
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
@@ -100,6 +89,15 @@ The only way to do great work is to love what you do. If you haven't found it ye
 本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a> 进行许可。
 
 ## 特别声明
+
+有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+
+2017 年 6 月 8 日我和一见钟情的女神走到一起，**既然已经得到此生所爱，便不再需要其他奖赏**。
+
+![](assets/l1.jpeg)
+![](assets/l3.jpeg)
+
+> 和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》
 
 统一声明：**本指南不接受也不需要金钱上的赞助**。
 
