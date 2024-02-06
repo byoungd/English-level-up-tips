@@ -81,7 +81,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 或搜索 `离谱哥` 找到红色大 `P` 的头像
 
-[点击此链接查看 `离谱的自我介绍`](https://www.douyin.com/video/7332111030857895194)
+[点击此链接查看 `离谱的自我介绍`](https://www.douyin.com/video/7332372924931886363)
 
 ![离谱的抖音](/assets/douyin.jpg)
 
