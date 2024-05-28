@@ -67,6 +67,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 ## 番外篇
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
+![](https://github.com/byoungd/how-to-find-love/raw/main/assets/cover.png)
 
 ## 离谱的抖音
 
