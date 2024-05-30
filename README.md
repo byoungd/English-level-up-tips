@@ -73,9 +73,9 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 如果你对我感兴趣，可以关注我的抖音号: 72581209403
 
-或搜索 `你好离谱` 找到红色 `P` 的头像
+或使用抖音扫码关注我
 
-![离谱的抖音](/assets/douyin.jpg)
+![](/assets/dyqr.jpg)
 
 ## 在线阅读
 
