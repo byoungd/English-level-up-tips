@@ -67,15 +67,15 @@ The only way to do great work is to love what you do. If you haven't found it ye
 ## 番外篇
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
-![](https://github.com/byoungd/how-to-find-love/raw/main/assets/cover.png)
+[![](https://github.com/byoungd/how-to-find-love/raw/main/assets/cover.png)](https://github.com/byoungd/how-to-find-love)
 
 ## 离谱的抖音
 
-如果你对我感兴趣，可以关注我的抖音号: 72581209403
+[如果你对我感兴趣，可以关注我的抖音号](https://www.douyin.com/user/self?modal_id=7390075436048469275): `72581209403`
 
 或使用抖音扫码关注我
 
-![](/assets/dyqr.jpg)
+[![](/assets/dyqr.jpg)](https://www.douyin.com/user/self?modal_id=7390075436048469275)
 
 ## 在线阅读
 
