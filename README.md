@@ -2,13 +2,13 @@
 
 > 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
 
-# 项目介绍
+# 项目介绍/Project Introduction
 
 An advanced guide to learn English which might benefit you a lot.
 
 [离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)。
 
-## 背景
+## 背景/Background
 
 你好啊朋友，欢迎来到[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)。
 
@@ -36,18 +36,18 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，**真心希望本指南能给你带来一点小小的帮助**。
 
-## 英语水平等级
+## 英语水平等级/English Proficiency Level
 
 ![CERF@2x.png](assets/CEFR@2x.png)
 
 > 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
-## 特色
+## 特色/Features
 
 ![Feature@2x.png](assets/Feature.png)
 ![How@2x.png](assets/How.png)
 
-## 章节
+## 章节/Chapters
 
 [![understanding](assets/understanding@2x.png)](part-1/1-understanding.md)
 
@@ -63,17 +63,17 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![Others@2x.png](assets/Others@2x.png)](part-2/x-misc.md)
 
-## 感谢
+## 感谢/Acknowledgments
 
 - 感谢所有关心以及为这份指南做出贡献的人 ❤️
 
-## 番外篇
+## 番外篇/Extra Edition
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
 
 [![](/assets/love.jpg)](https://github.com/byoungd/how-to-find-love)
 
-## 离谱的抖音
+## 离谱的抖音/Ridiculous TikTok
 
 离谱在尝试着做抖音，目前发布了大量关于夜场美女的视频(为了快速涨粉，请见谅)和一些废话。
 
@@ -83,13 +83,13 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![](/assets/dyqr.jpg)](https://www.douyin.com/user/self?modal_id=7390075436048469275)
 
-## 在线阅读
+## 在线阅读/Online Reading
 
 - 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
 - GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
 - GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
 
-## 转载声明
+## 转载声明/Reposting Statement
 
 转载本指南，请注明作者与 GitHub 链接，谢谢！
 
@@ -99,7 +99,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
 
-## 特别声明
+## 特别声明/Special Statement
 
 有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
 
