@@ -44,8 +44,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 特色
 
-![Feature@2x.png](assets/Feature.png)
-![How@2x.png](assets/How.png)
+![特色介绍](assets/feature.svg)
 
 ## 章节
 
