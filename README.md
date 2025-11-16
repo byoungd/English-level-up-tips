@@ -71,18 +71,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
 
-[![](/assets/love.jpg)](https://github.com/byoungd/how-to-find-love)
-
-## 离谱的抖音
-
-离谱在尝试着做抖音，目前发布了大量关于夜场美女的视频(为了快速涨粉，请见谅)和一些废话。
-
-[如果你对我感兴趣，可以关注我的抖音号](https://www.douyin.com/user/self?modal_id=7390075436048469275): `72581209403`
-
-或使用抖音扫码关注我
-
-[![](/assets/dyqr.jpg)](https://www.douyin.com/user/self?modal_id=7390075436048469275)
-
 ## 在线阅读
 
 - 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
