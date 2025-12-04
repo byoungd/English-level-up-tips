@@ -155,5 +155,5 @@
 以上纯属扯淡,只为博君一笑。
 
 
-下一篇：[我和我的前女友们](/part-3/what-is-love-1.md)
+下一篇：[我和我的前女友们](https://github.com/byoungd/how-to-find-love)
 
