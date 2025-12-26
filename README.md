@@ -1,5 +1,4 @@
-文档入口：[`docs/README.md`](docs/README.md)（中文） | [`docs/en/README.md`](docs/en/README.md)（English）
-
+[`简体中文`](docs/README.md) | [`English`](docs/en/README.md)
 
 谨以此献给我曾今的挚爱 `W.`
 
