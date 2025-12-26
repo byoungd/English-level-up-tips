@@ -1,11 +1,5 @@
 # Swift
 
-pragmatic
-
-immediate
-
-precedence
-
 infix
 
 prefix
@@ -28,10 +22,32 @@ internal
 
 clause
 
-annotation
-
 constraint
 
 optional
 
 closures
+
+actor
+
+ARC
+
+async
+
+await
+
+class
+
+enum
+
+generic
+
+initializer
+
+mutating
+
+property wrapper
+
+struct
+
+type inference

@@ -72,14 +72,15 @@
       markmapSvg = [];
       const transformer = new markmap.Transformer();
       window.$docsify = {
-        name: "content", // 目录的标题
-        repo: "https://github.com/byoungd/English-level-up-tips", // 右上角的挂件
+        name: "English level-up tips",
+        repo: "https://github.com/byoungd/English-level-up-tips",
         loadSidebar: "SUMMARY.md",
         alias: {
+          "/en/.*/SUMMARY.md": "/en/SUMMARY.md",
           "/.*/SUMMARY.md": "/SUMMARY.md",
         },
-        subMaxLevel: 3, // 子目录最大层级, 有助于显示 markdown 的层级
-        auto2top: true, // 自动跳转至顶部
+        subMaxLevel: 3,
+        auto2top: true,
         markdown: {
           renderer: {
             code: function (code, lang) {
@@ -118,9 +119,11 @@
             hook.beforeEach(function (html) {
               num = 0;
               markmapSvg = [];
-              let url =
-                "https://github.com/byoungd/English-level-up-tips/blob/master/" +
-                vm.route.file;
+              let repo = (vm.config.repo || "").replace(/\.git$/, "");
+              let url = repo
+                ? repo + "/blob/master/docs/" + vm.route.file
+                : "https://github.com/byoungd/English-level-up-tips/blob/master/docs/" +
+                  vm.route.file;
               let editHtml = "[:memo: EDIT DOCUMENT](" + url + ")\n";
               return (
                 editHtml +

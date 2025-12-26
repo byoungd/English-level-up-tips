@@ -1,10 +1,8 @@
-文档入口：[`docs/README.md`](docs/README.md)（中文） | [`docs/en/README.md`](docs/en/README.md)（English）
-
-
 谨以此献给我曾今的挚爱 `W.`
 
 > 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
 
+中文 | [English](#/en/)
 
 # 项目介绍
 
@@ -42,33 +40,40 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 英语水平等级
 
-![CERF@2x.png](docs/assets/CEFR@2x.png)
+![CERF@2x.png](assets/CEFR@2x.png)
 
 > 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
 ## 特色
 
-![特色介绍](docs/assets/feature.svg)
+![特色介绍](assets/feature.svg)
 
 ## 章节
 
-[![understanding](docs/assets/understanding@2x.png)](docs/threads/part-1/1-understanding.md)
+[![understanding](assets/understanding@2x.png)](threads/part-1/1-understanding.md)
 
-[![vocabulary](docs/assets/vocabulary@2x.png)](docs/threads/part-1/2-vocabulary.md)
+[![vocabulary](assets/vocabulary@2x.png)](threads/part-1/2-vocabulary.md)
 
-[![listening](docs/assets/listening@2x.png)](docs/threads/part-1/3-listening.md)
+[![listening](assets/listening@2x.png)](threads/part-1/3-listening.md)
 
-[![reading](docs/assets/reading@2x.png)](docs/threads/part-1/4-reading.md)
+[![reading](assets/reading@2x.png)](threads/part-1/4-reading.md)
 
-[![speaking](docs/assets/speaking@2x.png)](docs/threads/part-1/5-speaking.md)
+[![speaking](assets/speaking@2x.png)](threads/part-1/5-speaking.md)
 
-[![writing](docs/assets/writing@2x.png)](docs/threads/part-1/6-writing.md)
+[![writing](assets/writing@2x.png)](threads/part-1/6-writing.md)
 
-[![Others@2x.png](docs/assets/Others@2x.png)](docs/threads/part-2/x-misc.md)
+
+[![Others@2x.png](assets/Others@2x.png)](threads/part-2/x-misc.md)
+
+[利用 AI 学习（2025 版）](threads/part-1/7-ai.md)
+
+[Week 1](threads/part-4/week-1.md)
+
+[单词表（Word Lists）](threads/word-list/Common.md)
 
 ## 感谢
 
-- 感谢所有关心以及为这份指南做出贡献的人 ❤️
+- 感谢所有关心以及为这份指南做出贡献的人 ??
 
 ## 番外篇
 

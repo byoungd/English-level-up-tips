@@ -1,9 +1,5 @@
 # Python
 
-pragmatic
-
-immediate
-
 approximate
 
 backport
@@ -22,8 +18,6 @@ deliberately
 
 dispatch
 
-encapsulation
-
 generic function
 
 granularity
@@ -39,10 +33,6 @@ homogeneous
 inheritance
 
 introspection
-
-polymorphism
-
-precedence
 
 provisional
 
@@ -60,4 +50,39 @@ feedback
 
 sinusoidal
 
+async
+
+await
+
+bytecode
+
+comprehension
+
+coroutine
+
+dataclass
+
+decorator
+
+duck typing
+
+generator
+
+GIL
+
+import
+
+iterator
+
+lambda
+
+mypy
+
+pip
+
+pytest
+
+type hint
+
+virtualenv
 
