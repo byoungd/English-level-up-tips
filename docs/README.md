@@ -50,24 +50,22 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 章节
 
-[![understanding](assets/understanding@2x.png)](threads/part-1/1-understanding.md)
+[![understanding](assets/understanding@2x.svg)](threads/part-1/1-understanding.md)
 
-[![vocabulary](assets/vocabulary@2x.png)](threads/part-1/2-vocabulary.md)
+[![vocabulary](assets/vocabulary@2x.svg)](threads/part-1/2-vocabulary.md)
 
-[![listening](assets/listening@2x.png)](threads/part-1/3-listening.md)
+[![listening](assets/listening@2x.svg)](threads/part-1/3-listening.md)
 
-[![reading](assets/reading@2x.png)](threads/part-1/4-reading.md)
+[![reading](assets/reading@2x.svg)](threads/part-1/4-reading.md)
 
-[![speaking](assets/speaking@2x.png)](threads/part-1/5-speaking.md)
+[![speaking](assets/speaking@2x.svg)](threads/part-1/5-speaking.md)
 
-[![writing](assets/writing@2x.png)](threads/part-1/6-writing.md)
+[![writing](assets/writing@2x.svg)](threads/part-1/6-writing.md)
 
 
-[![Others@2x.png](assets/Others@2x.png)](threads/part-2/x-misc.md)
+[![Others@2x.png](assets/Others@2x.svg)](threads/part-2/x-misc.md)
 
 [利用 AI 学习（2025 版）](threads/part-1/7-ai.md)
-
-[Week 1](threads/part-4/week-1.md)
 
 [单词表（Word Lists）](threads/word-list/Common.md)
 
