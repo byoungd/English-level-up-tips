@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="写作篇 阅读，模仿与失恋 提升文笔的三大神器">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="Writing: Read, imitate, and heartbreak. Three boosters for better writing">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#8f8f8f"/>
@@ -13,9 +13,9 @@
     <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
 
     <g fill="#434343" opacity="0.75">
-      <text x="76" y="122" font-size="64" font-weight="700" font-family="Noto Serif SC, Songti SC, SimSun, serif">写作篇</text>
-      <text x="76" y="206" font-size="44" font-weight="600" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">阅读，模仿与失恋</text>
-      <text x="76" y="266" font-size="44" font-weight="600" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">提升文笔的三大神器</text>
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Inter, Segoe UI, Arial, sans-serif">Writing</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Inter, Segoe UI, Arial, sans-serif">Read, imitate, and heartbreak</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Inter, Segoe UI, Arial, sans-serif">Three boosters for better prose</text>
     </g>
 
     <!-- Winged envelope (simplified redraw) -->

@@ -62,12 +62,11 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![writing](assets/writing@2x.svg)](threads/part-1/6-writing.md)
 
+[![ai](assets/ai@2x.svg)](threads/part-1/7-ai.md)
+
+[![word-list](assets/word-list@2x.svg)](threads/word-list/Common.md)
 
 [![Others@2x.png](assets/Others@2x.svg)](threads/part-2/x-misc.md)
-
-[利用 AI 学习（2025 版）](threads/part-1/7-ai.md)
-
-[单词表（Word Lists）](threads/word-list/Common.md)
 
 ## 感谢
 
