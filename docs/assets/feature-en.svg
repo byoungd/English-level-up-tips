@@ -1,0 +1,209 @@
+<svg width="1400" height="800" viewBox="260 40 1400 820" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5F7FB"/>
+      <stop offset="100%" stop-color="#EEF2F8"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="rgba(15,23,42,0.18)"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1920" height="1080" fill="url(#bgGrad)"/>
+
+  <!-- Header -->
+  <text x="960" y="130" text-anchor="middle"
+        font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="34" fill="#111827" font-weight="600">
+    What makes this guide different
+  </text>
+  <text x="960" y="172" text-anchor="middle"
+        font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="18" fill="#6B7280">
+    Learn systematically and level up your English
+  </text>
+
+  <!-- Section label -->
+  <text x="960" y="210" text-anchor="middle"
+        font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="12" letter-spacing="4" fill="#9CA3AF">
+    FEATURES
+  </text>
+
+  <!-- Card positions -->
+  <!-- Card dimensions -->
+  <!-- width: 360, height: 220 -->
+  <!-- row1 y=260, row2 y=540; x: 260, 780, 1300 -->
+
+  <!-- 1 Structured -->
+  <g transform="translate(260,260)" filter="url(#cardShadow)">
+    <rect width="360" height="220" rx="20" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(260,260)">
+    <circle cx="180" cy="56" r="26" fill="#ECFEFF" stroke="#22C55E" stroke-width="2"/>
+    <!-- simple network icon -->
+    <circle cx="170" cy="50" r="3" fill="#22C55E"/>
+    <circle cx="192" cy="50" r="3" fill="#22C55E"/>
+    <circle cx="180" cy="68" r="3" fill="#22C55E"/>
+    <line x1="170" y1="50" x2="192" y2="50" stroke="#22C55E" stroke-width="2"/>
+    <line x1="170" y1="50" x2="180" y2="68" stroke="#22C55E" stroke-width="2"/>
+    <line x1="192" y1="50" x2="180" y2="68" stroke="#22C55E" stroke-width="2"/>
+
+    <text x="180" y="105" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="18" fill="#111827" font-weight="600">
+      Structured
+    </text>
+    <text x="180" y="135" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Build a knowledge framework first
+    </text>
+    <text x="180" y="155" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Structure first, then details
+    </text>
+  </g>
+
+  <!-- 2 Phased -->
+  <g transform="translate(780,260)" filter="url(#cardShadow)">
+    <rect width="360" height="220" rx="20" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(780,260)">
+    <circle cx="180" cy="56" r="26" fill="#EFF6FF" stroke="#2563EB" stroke-width="2"/>
+    <!-- speedometer icon -->
+    <path d="M164 62a16 16 0 0 1 32 0" fill="none" stroke="#2563EB" stroke-width="2"/>
+    <line x1="180" y1="56" x2="192" y2="50" stroke="#2563EB" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="180" cy="56" r="3" fill="#2563EB"/>
+
+    <text x="180" y="105" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="18" fill="#111827" font-weight="600">
+      Phased
+    </text>
+    <text x="180" y="135" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Break learning into stages &amp; modules
+    </text>
+    <text x="180" y="155" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Step by step
+    </text>
+  </g>
+
+  <!-- 3 Targeted -->
+  <g transform="translate(1300,260)" filter="url(#cardShadow)">
+    <rect width="360" height="220" rx="20" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(1300,260)">
+    <circle cx="180" cy="56" r="26" fill="#F5F3FF" stroke="#8B5CF6" stroke-width="2"/>
+    <!-- target / clock icon -->
+    <circle cx="180" cy="56" r="10" fill="none" stroke="#8B5CF6" stroke-width="2"/>
+    <line x1="180" y1="56" x2="188" y2="50" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round"/>
+    <line x1="180" y1="56" x2="180" y2="48" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round"/>
+
+    <text x="180" y="105" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="18" fill="#111827" font-weight="600">
+      Targeted
+    </text>
+    <text x="180" y="135" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Focus on your needs and available time
+    </text>
+    <text x="180" y="155" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Make good use of spare moments
+    </text>
+  </g>
+
+  <!-- 4 Practical -->
+  <g transform="translate(260,540)" filter="url(#cardShadow)">
+    <rect width="360" height="220" rx="20" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(260,540)">
+    <circle cx="180" cy="56" r="26" fill="#FFFBEB" stroke="#F59E0B" stroke-width="2"/>
+    <!-- document icon -->
+    <rect x="170" y="42" width="20" height="24" rx="3" fill="none" stroke="#F59E0B" stroke-width="2"/>
+    <line x1="174" y1="48" x2="186" y2="48" stroke="#F59E0B" stroke-width="2"/>
+    <line x1="174" y1="54" x2="186" y2="54" stroke="#F59E0B" stroke-width="2"/>
+    <line x1="174" y1="60" x2="186" y2="60" stroke="#F59E0B" stroke-width="2"/>
+
+    <text x="180" y="105" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="18" fill="#111827" font-weight="600">
+      Practical
+    </text>
+    <text x="180" y="135" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Practice real outputs: resumes, emails
+    </text>
+    <text x="180" y="155" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Writing, notes, blogs
+    </text>
+  </g>
+
+  <!-- 5 Actionable -->
+  <g transform="translate(780,540)" filter="url(#cardShadow)">
+    <rect width="360" height="220" rx="20" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(780,540)">
+    <circle cx="180" cy="56" r="26" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+    <!-- guide icon -->
+    <circle cx="180" cy="50" r="6" fill="none" stroke="#3B82F6" stroke-width="2"/>
+    <path d="M170 66c2-6 8-8 10-8s8 2 10 8" fill="none" stroke="#3B82F6" stroke-width="2" stroke-linecap="round"/>
+
+    <text x="180" y="105" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="18" fill="#111827" font-weight="600">
+      Actionable
+    </text>
+    <text x="180" y="135" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Curated materials and examples
+    </text>
+    <text x="180" y="155" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Easy to follow along
+    </text>
+  </g>
+
+  <!-- 6 Low-cost -->
+  <g transform="translate(1300,540)" filter="url(#cardShadow)">
+    <rect width="360" height="220" rx="20" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(1300,540)">
+    <circle cx="180" cy="56" r="26" fill="#FEF2F2" stroke="#F43F5E" stroke-width="2"/>
+    <!-- basket icon -->
+    <rect x="168" y="52" width="24" height="12" rx="2" fill="none" stroke="#F43F5E" stroke-width="2"/>
+    <line x1="170" y1="50" x2="190" y2="50" stroke="#F43F5E" stroke-width="2" stroke-linecap="round"/>
+
+    <text x="180" y="105" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="18" fill="#111827" font-weight="600">
+      Low-cost
+    </text>
+    <text x="180" y="135" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Mostly free or low-cost resources
+    </text>
+    <text x="180" y="155" text-anchor="middle"
+          font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+          font-size="13" fill="#6B7280">
+      Learn efficiently with less money
+    </text>
+  </g>
+</svg>
+

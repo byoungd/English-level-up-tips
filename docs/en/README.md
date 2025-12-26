@@ -37,7 +37,7 @@ This guide is my attempt to organize what I’ve learned and share it with more 
 
 ## Features
 
-![Feature](../assets/feature.svg)
+![Features](../assets/feature-en.svg)
 
 ## Chapters (English, WIP)
 
