@@ -1,10 +1,4 @@
 # PHP
-对应文档链接 http://php.net/manual/en/
-
-pragmatic
-
-immediate
-
 syntax
 
 protocol
@@ -12,6 +6,8 @@ protocol
 wrapper
 
 binary
+
+composer
 
 session
 
@@ -31,3 +27,20 @@ crypto
 
 generate
 
+autoload
+
+namespace
+
+trait
+
+mysqli
+
+PDO
+
+opcode
+
+session cookie
+
+serialization
+
+templating

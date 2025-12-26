@@ -2,9 +2,7 @@
 
 abstract
 
-aforemention
-
-annotation
+aforementioned
 
 application
 
@@ -52,8 +50,6 @@ destructive
 
 deterministic
 
-encapsulation
-
 equivalence
 
 extend
@@ -65,8 +61,6 @@ final
 flush
 
 hierarchical
-
-immediate
 
 implements
 
@@ -102,10 +96,6 @@ optimization
 
 pointcut
 
-polymorphism
-
-pragmatic
-
 primitive
 
 prohibit
@@ -139,3 +129,41 @@ underlying
 unsigned
 
 volatile
+
+bytecode
+
+classpath
+
+comparable
+
+comparator
+
+completablefuture
+
+dependency injection
+
+garbage collection
+
+generic
+
+heap
+
+JDK
+
+JRE
+
+JVM
+
+lambda
+
+module
+
+reflection
+
+runtime
+
+stack
+
+stream
+
+type erasure

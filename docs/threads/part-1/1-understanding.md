@@ -1,4 +1,4 @@
-# 认知篇
+﻿# 认知篇
 
 本篇从认知层面，聊聊在开始系统学英语之前，应该先想清楚的一些问题。
 
@@ -48,7 +48,7 @@
 - 参与讨论、提问、发言，约 70%
 - 做报告、教学、模拟体验、实际操作，约 90%
 
-![ConeofLearning-old.png](../assets/ConeofLearning-old.png)
+![ConeofLearning-old.png](../../assets/ConeofLearning-old.png)
 
 这个理论在学界其实存在不少争议，数字未必精准，但它强调的一个**大方向是对的**：
 
@@ -92,7 +92,7 @@ WHY?
 
 WHY?
 
-![WHY](../assets/why.png)
+![WHY](../../assets/why.png)
 
 后来我才慢慢看清楚：我犯了一连串非常典型的错误。
 
@@ -347,4 +347,5 @@ WHY?
 ---
 
 下一篇：[单词篇](2-vocabulary.md)
+
 

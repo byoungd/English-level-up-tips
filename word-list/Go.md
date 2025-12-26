@@ -1,5 +1,0 @@
-# Go
-
-pragmatic
-
-immediate
