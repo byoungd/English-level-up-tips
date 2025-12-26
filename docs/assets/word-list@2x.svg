@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="单词表 通用 + 编程词汇 Prompt / Vibe Coding">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#12b3a5"/>
+      <stop offset="1" stop-color="#90f1cf"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#0f5b55" opacity="0.78">
+      <text x="76" y="122" font-size="64" font-weight="700" font-family="Noto Serif SC, Songti SC, SimSun, serif">单词表</text>
+      <text x="76" y="206" font-size="44" font-weight="600" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">通用 + 编程词汇</text>
+      <text x="76" y="266" font-size="44" font-weight="600" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">Prompt / Vibe Coding</text>
+    </g>
+
+    <!-- Notebook + checklist (simplified redraw) -->
+    <g transform="translate(845 62)">
+      <!-- Book -->
+      <g>
+        <path d="M40 40 C40 18, 58 0, 80 0 H360 C382 0, 400 18, 400 40 V270 C400 292, 382 310, 360 310 H80 C58 310, 40 292, 40 270 Z"
+              fill="#ffffff" opacity="0.20"/>
+        <path d="M66 60 C66 40, 82 24, 102 24 H340 C360 24, 376 40, 376 60 V246 C376 266, 360 282, 340 282 H102 C82 282, 66 266, 66 246 Z"
+              fill="#ffffff" opacity="0.14"/>
+        <path d="M126 24 V282" stroke="#ffffff" stroke-width="10" opacity="0.25"/>
+        <!-- Tabs -->
+        <g fill="#ffffff" opacity="0.22">
+          <rect x="92" y="72" width="44" height="22" rx="8"/>
+          <rect x="92" y="114" width="44" height="22" rx="8"/>
+          <rect x="92" y="156" width="44" height="22" rx="8"/>
+        </g>
+      </g>
+
+      <!-- Checklist -->
+      <g transform="translate(160 72)" stroke-linecap="round" stroke-linejoin="round">
+        <g stroke="#ffffff" stroke-width="12" opacity="0.7">
+          <path d="M0 18 L18 36 L46 6"/>
+          <path d="M0 78 L18 96 L46 66"/>
+          <path d="M0 138 L18 156 L46 126"/>
+        </g>
+        <g stroke="#ffffff" stroke-width="12" opacity="0.55">
+          <path d="M78 22 H210"/>
+          <path d="M78 82 H240"/>
+          <path d="M78 142 H188"/>
+        </g>
+      </g>
+
+      <!-- Small stickers -->
+      <g fill="#ffffff" opacity="0.22">
+        <circle cx="70" cy="318" r="12"/>
+        <circle cx="374" cy="28" r="10"/>
+        <circle cx="412" cy="188" r="8"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-label="English proficiency levels (CEFR)">
+  <defs>
+    <style>
+      .label { fill: #ffffff; font-family: Inter, Segoe UI, Arial, sans-serif; font-weight: 900; font-size: 44px; text-anchor: middle; paint-order: stroke; stroke: rgba(0,0,0,0.35); stroke-width: 6px; }
+      .center { fill: #2b2b2b; font-family: Inter, Segoe UI, Arial, sans-serif; font-weight: 800; font-size: 34px; text-anchor: middle; }
+      .caption { fill: #222; font-family: Inter, Segoe UI, Arial, sans-serif; font-weight: 800; font-size: 28px; text-anchor: middle; }
+      .legend { fill: #222; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 24px; font-weight: 650; }
+      .legendLevel { font-weight: 900; }
+      .legendSub { fill: #444; font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1280" height="460" fill="#ffffff"/>
+
+  <!-- Ring sectors (clockwise, upper arc) -->
+  <g>
+    <path d="M 475.46 300.00 A 190 190 0 0 1 452.89 172.01 L 543.49 187.98 A 98 98 0 0 0 555.13 254.00 Z" fill="#66C7D1" stroke="#ffffff" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M 452.89 172.01 A 190 190 0 0 1 517.87 59.45 L 577.01 129.93 A 98 98 0 0 0 543.49 187.98 Z" fill="#3EA5C6" stroke="#ffffff" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M 517.87 59.45 A 190 190 0 0 1 640.00 15.00 L 640.00 107.00 A 98 98 0 0 0 577.01 129.93 Z" fill="#5D5A87" stroke="#ffffff" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M 640.00 15.00 A 190 190 0 0 1 762.13 59.45 L 702.99 129.93 A 98 98 0 0 0 640.00 107.00 Z" fill="#9E1C2F" stroke="#ffffff" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M 762.13 59.45 A 190 190 0 0 1 827.11 172.01 L 736.51 187.98 A 98 98 0 0 0 702.99 129.93 Z" fill="#E85A4A" stroke="#ffffff" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M 827.11 172.01 A 190 190 0 0 1 804.54 300.00 L 724.87 254.00 A 98 98 0 0 0 736.51 187.98 Z" fill="#ED8F3B" stroke="#ffffff" stroke-width="12" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Inner circle -->
+  <g>
+    <circle cx="640" cy="205" r="106" fill="#ffffff"/>
+    <circle cx="640" cy="205" r="106" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="2"/>
+    <text class="center" x="640" y="218">CEFR</text>
+  </g>
+
+  <!-- Level labels (keep it simple to avoid overlap when scaled down) -->
+  <g>
+    <!-- A1 -->
+    <text class="label" x="498.2" y="216">A1</text>
+
+    <!-- A2 -->
+    <text class="label" x="515.3" y="118">A2</text>
+
+    <!-- B1 -->
+    <text class="label" x="590.7" y="60">B1</text>
+
+    <!-- B2 -->
+    <text class="label" x="689.3" y="60">B2</text>
+
+    <!-- C1 -->
+    <text class="label" x="764.7" y="118">C1</text>
+
+    <!-- C2 -->
+    <text class="label" x="781.8" y="216">C2</text>
+  </g>
+
+  <!-- Legend -->
+  <g class="legend" transform="translate(0 0)">
+    <rect x="0" y="312" width="1280" height="112" fill="rgba(0,0,0,0.02)"/>
+
+    <!-- Left column -->
+    <g transform="translate(170 344)">
+      <rect x="0" y="-16" width="18" height="18" rx="4" fill="#66C7D1"/>
+      <text x="30" y="0"><tspan class="legendLevel">A1</tspan><tspan class="legendSub"> — Basic phrases; simple self‑intro</tspan></text>
+
+      <rect x="0" y="20" width="18" height="18" rx="4" fill="#3EA5C6"/>
+      <text x="30" y="36"><tspan class="legendLevel">A2</tspan><tspan class="legendSub"> — Everyday topics; simple exchanges</tspan></text>
+
+      <rect x="0" y="56" width="18" height="18" rx="4" fill="#5D5A87"/>
+      <text x="30" y="72"><tspan class="legendLevel">B1</tspan><tspan class="legendSub"> — Handle travel; talk about plans</tspan></text>
+    </g>
+
+    <!-- Right column -->
+    <g transform="translate(700 344)">
+      <rect x="0" y="-16" width="18" height="18" rx="4" fill="#9E1C2F"/>
+      <text x="30" y="0"><tspan class="legendLevel">B2</tspan><tspan class="legendSub"> — Clear opinions; complex topics</tspan></text>
+
+      <rect x="0" y="20" width="18" height="18" rx="4" fill="#E85A4A"/>
+      <text x="30" y="36"><tspan class="legendLevel">C1</tspan><tspan class="legendSub"> — Flexible, fluent; nuance &amp; subtext</tspan></text>
+
+      <rect x="0" y="56" width="18" height="18" rx="4" fill="#ED8F3B"/>
+      <text x="30" y="72"><tspan class="legendLevel">C2</tspan><tspan class="legendSub"> — Near‑native; read anything</tspan></text>
+    </g>
+  </g>
+
+  <text class="caption" x="640" y="448">English Proficiency Levels (CEFR)</text>
+</svg>

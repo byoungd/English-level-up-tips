@@ -31,7 +31,7 @@ This guide is my attempt to organize what I’ve learned and share it with more 
 
 ## English Proficiency Levels
 
-![CEFR](../assets/CEFR@2x.png)
+![CEFR](../assets/CEFR-en@2x.svg)
 
 > Source: [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
@@ -41,19 +41,19 @@ This guide is my attempt to organize what I’ve learned and share it with more 
 
 ## Chapters (English, WIP)
 
-[![understanding](../assets/understanding@2x.svg)](threads/part-1/1-understanding.md)
+[![understanding](../assets/understanding-en@2x.svg)](threads/part-1/1-understanding.md)
 
-[![vocabulary](../assets/vocabulary@2x.svg)](threads/part-1/2-vocabulary.md)
+[![vocabulary](../assets/vocabulary-en@2x.svg)](threads/part-1/2-vocabulary.md)
 
-[![listening](../assets/listening@2x.svg)](threads/part-1/3-listening.md)
+[![listening](../assets/listening-en@2x.svg)](threads/part-1/3-listening.md)
 
-[![reading](../assets/reading@2x.svg)](threads/part-1/4-reading.md)
+[![reading](../assets/reading-en@2x.svg)](threads/part-1/4-reading.md)
 
-[![speaking](../assets/speaking@2x.svg)](threads/part-1/5-speaking.md)
+[![speaking](../assets/speaking-en@2x.svg)](threads/part-1/5-speaking.md)
 
-[![writing](../assets/writing@2x.svg)](threads/part-1/6-writing.md)
+[![writing](../assets/writing-en@2x.svg)](threads/part-1/6-writing.md)
 
-[![Others](../assets/Others@2x.svg)](threads/part-2/x-misc.md)
+[![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
 
 ## Word Lists
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="扯淡篇 让咱们聊聊学习之外的事 比如培训班 比如肉身翻墙">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="Extras: Things beyond studying—courses, going abroad, and more">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#f04a5c"/>
@@ -13,9 +13,9 @@
     <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
 
     <g fill="#7b1f2b" opacity="0.75">
-      <text x="76" y="122" font-size="64" font-weight="700" font-family="Noto Serif SC, Songti SC, SimSun, serif">扯淡篇</text>
-      <text x="76" y="206" font-size="44" font-weight="600" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">让咱们聊聊学习之外的事</text>
-      <text x="76" y="266" font-size="44" font-weight="600" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">比如培训班 比如肉身翻墙</text>
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Inter, Segoe UI, Arial, sans-serif">Extras</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Inter, Segoe UI, Arial, sans-serif">Things beyond studying</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Inter, Segoe UI, Arial, sans-serif">Courses, going abroad, and more</text>
     </g>
 
     <!-- Devil face (simplified redraw) -->
@@ -29,7 +29,7 @@
       </g>
 
       <!-- Question marks -->
-      <g fill="#d7f0ef" opacity="0.9" font-family="Arial, sans-serif" font-weight="900">
+      <g fill="#d7f0ef" opacity="0.9" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="900">
         <text x="280" y="120" font-size="78">?</text>
         <text x="356" y="120" font-size="78">?</text>
       </g>

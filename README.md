@@ -64,6 +64,10 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![writing](docs/assets/writing@2x.svg)](docs/threads/part-1/6-writing.md)
 
+[![ai](docs/assets/ai@2x.svg)](docs/threads/part-1/7-ai.md)
+
+[![word-list](docs/assets/word-list@2x.svg)](docs/threads/word-list/Common.md)
+
 [![Others@2x.png](docs/assets/Others@2x.svg)](docs/threads/part-2/x-misc.md)
 
 ## 感谢

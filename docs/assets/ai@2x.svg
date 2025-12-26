@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="AI 篇 利用 AI 学习（2025 版） 让工具成为助力">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5b4cff"/>
+      <stop offset="1" stop-color="#b8a5ff"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#1f1a6a" opacity="0.78">
+      <text x="76" y="122" font-size="64" font-weight="700" font-family="Noto Serif SC, Songti SC, SimSun, serif">AI 篇</text>
+      <text x="76" y="206" font-size="44" font-weight="600" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">利用 AI 学习（2025 版）</text>
+      <text x="76" y="266" font-size="44" font-weight="600" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">让工具成为助力</text>
+    </g>
+
+    <!-- Robot + chat bubbles (simplified redraw) -->
+    <g transform="translate(840 62)">
+      <!-- Sparkles -->
+      <g stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.75">
+        <path d="M338 18 V54"/>
+        <path d="M320 36 H356"/>
+        <path d="M420 86 V116"/>
+        <path d="M405 101 H435"/>
+      </g>
+
+      <!-- Chat bubbles -->
+      <g opacity="0.95">
+        <g transform="translate(350 150)">
+          <path d="M0 30 C0 12, 12 0, 30 0 H190 C208 0, 220 12, 220 30 V90 C220 108, 208 120, 190 120 H78 L44 150 V120 H30 C12 120, 0 108, 0 90 Z"
+                fill="#ffffff" opacity="0.18"/>
+          <g stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.7">
+            <path d="M44 42 H160"/>
+            <path d="M44 74 H128"/>
+          </g>
+        </g>
+        <g transform="translate(280 60)" opacity="0.55">
+          <path d="M0 26 C0 12, 12 0, 26 0 H150 C164 0, 176 12, 176 26 V72 C176 86, 164 98, 150 98 H66 L42 118 V98 H26 C12 98, 0 86, 0 72 Z"
+                fill="#ffffff" opacity="0.18"/>
+        </g>
+      </g>
+
+      <!-- Robot head -->
+      <g transform="translate(0 120)">
+        <rect x="40" y="0" width="320" height="220" rx="44" fill="#e9e6ff" opacity="0.9"/>
+        <rect x="62" y="20" width="276" height="180" rx="36" fill="#ffffff" opacity="0.22"/>
+        <g fill="none" stroke="#2b2a74" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.65">
+          <path d="M200 -22 V0"/>
+          <circle cx="200" cy="-38" r="14" fill="#2b2a74" opacity="0.65"/>
+        </g>
+        <g opacity="0.9">
+          <circle cx="150" cy="108" r="16" fill="#2b2a74" opacity="0.35"/>
+          <circle cx="250" cy="108" r="16" fill="#2b2a74" opacity="0.35"/>
+          <circle cx="150" cy="108" r="10" fill="#2b2a74" opacity="0.65"/>
+          <circle cx="250" cy="108" r="10" fill="#2b2a74" opacity="0.65"/>
+          <path d="M150 152 C 176 176, 224 176, 250 152" fill="none" stroke="#2b2a74" stroke-width="14" stroke-linecap="round" opacity="0.55"/>
+        </g>
+        <g fill="#ffffff" opacity="0.18">
+          <circle cx="96" cy="62" r="18"/>
+          <circle cx="316" cy="168" r="10"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
