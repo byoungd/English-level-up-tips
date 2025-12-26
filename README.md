@@ -52,19 +52,19 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 章节
 
-[![understanding](docs/assets/understanding@2x.png)](docs/threads/part-1/1-understanding.md)
+[![understanding](docs/assets/understanding@2x.svg)](docs/threads/part-1/1-understanding.md)
 
-[![vocabulary](docs/assets/vocabulary@2x.png)](docs/threads/part-1/2-vocabulary.md)
+[![vocabulary](docs/assets/vocabulary@2x.svg)](docs/threads/part-1/2-vocabulary.md)
 
-[![listening](docs/assets/listening@2x.png)](docs/threads/part-1/3-listening.md)
+[![listening](docs/assets/listening@2x.svg)](docs/threads/part-1/3-listening.md)
 
-[![reading](docs/assets/reading@2x.png)](docs/threads/part-1/4-reading.md)
+[![reading](docs/assets/reading@2x.svg)](docs/threads/part-1/4-reading.md)
 
-[![speaking](docs/assets/speaking@2x.png)](docs/threads/part-1/5-speaking.md)
+[![speaking](docs/assets/speaking@2x.svg)](docs/threads/part-1/5-speaking.md)
 
-[![writing](docs/assets/writing@2x.png)](docs/threads/part-1/6-writing.md)
+[![writing](docs/assets/writing@2x.svg)](docs/threads/part-1/6-writing.md)
 
-[![Others@2x.png](docs/assets/Others@2x.png)](docs/threads/part-2/x-misc.md)
+[![Others@2x.png](docs/assets/Others@2x.svg)](docs/threads/part-2/x-misc.md)
 
 ## 感谢
 
