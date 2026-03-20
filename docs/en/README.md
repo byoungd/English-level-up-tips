@@ -53,6 +53,15 @@ This guide is my attempt to organize what I’ve learned and share it with more 
 
 [![writing](../assets/writing-en@2x.svg)](threads/part-1/6-writing.md)
 
+[AI (2026 update)](threads/part-1/7-ai.md)
+
+The AI chapter now reflects the current tool landscape instead of only generic prompt tips. It focuses on:
+
+- why Gemini is now the most complete “learning workflow” option for many learners
+- how to combine `Gems / Live / Guided Learning / Canvas / quizzes / flashcards`
+- when to use `ChatGPT`, `Claude`, `Perplexity`, or `DeepL Write` instead
+- how to build repeatable practice loops rather than asking AI for one-off answers
+
 [![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
 
 ## Word Lists

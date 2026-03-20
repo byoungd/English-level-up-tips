@@ -64,13 +64,22 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![ai](assets/ai@2x.svg)](threads/part-1/7-ai.md)
 
+新增的 AI 章节已经更新为 `2026` 版，重点不再只是通用 Prompt，而是更系统地回答：
+
+- 为什么现在更推荐把 `Gemini` 作为英语学习主引擎
+- 如何把 `Gem / Live / Guided Learning / Canvas / quiz / flashcards` 串成完整训练流程
+- 除了 Gemini 之外，`ChatGPT / Claude / Perplexity / DeepL Write` 应该如何分工使用
+- 怎样设计真正能长期起作用的听说读写训练回路
+
+如果你想把 AI 真正变成英语学习的加速器，而不只是偶尔帮你翻译两句，这一章值得重点看。
+
 [![word-list](assets/word-list@2x.svg)](threads/word-list/Common.md)
 
 [![Others@2x.png](assets/Others@2x.svg)](threads/part-2/x-misc.md)
 
 ## 感谢
 
-- 感谢所有关心以及为这份指南做出贡献的人 ??
+- 感谢所有关心以及为这份指南做出贡献的人 ❤️
 
 ## 番外篇
 
