@@ -19,6 +19,7 @@
 
 ### Part IV
 
+* [我的故事](threads/part-2/my-story.md)
 * [Week 1](threads/part-4/week-1.md)
 
 ### 单词表（Word Lists）

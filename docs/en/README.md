@@ -64,6 +64,8 @@ The AI chapter now reflects the current tool landscape instead of only generic p
 
 [![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
 
+[My Story](threads/part-4/my-story.md)
+
 ## Word Lists
 
 These lists are already in English, so the English sidebar links directly to them:
@@ -84,6 +86,10 @@ These lists are already in English, so the English sidebar links directly to the
 - GitHub Pages: https://byoungd.github.io/English-level-up-tips/#/
 - Chinese (Zhihu): https://zhuanlan.zhihu.com/p/444211376
 - GitBook: https://babyyoung.gitbook.io/english-level-up-tips/
+
+## Personal Story
+
+If you want the personal background behind this guide, read [My Story](threads/part-4/my-story.md).
 
 ## Reprint
 

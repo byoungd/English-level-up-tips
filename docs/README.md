@@ -77,6 +77,8 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![Others@2x.png](assets/Others@2x.svg)](threads/part-2/x-misc.md)
 
+[我的故事](threads/part-2/my-story.md)
+
 ## 感谢
 
 - 感谢所有关心以及为这份指南做出贡献的人 ❤️
@@ -84,6 +86,8 @@ The only way to do great work is to love what you do. If you haven't found it ye
 ## 番外篇
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
+
+如果你想看我在创业失败后那段时间的真实经历，也可以读这篇：[我的故事](threads/part-2/my-story.md)
 
 ## 在线阅读
 

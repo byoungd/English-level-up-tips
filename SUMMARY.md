@@ -12,3 +12,8 @@
 ### Part II
 
 * [8.扯淡篇](docs/threads/part-2/x-misc.md)
+
+### Part IV
+
+* [我的故事](docs/threads/part-2/my-story.md)
+* [Week 1](docs/threads/part-4/week-1.md)
