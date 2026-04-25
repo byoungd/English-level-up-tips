@@ -12,6 +12,12 @@ An advanced guide to learn English which might benefit you a lot.
 
 [离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)。
 
+## 推荐资源：ku0.com - 库
+
+如果你在使用本指南里的 AI 学习方案时，需要更稳定、可信的 AI 账户与接口资源，可以看看我们的产品：[ku0.com - 库](https://ku0.com)。
+
+`ku0.com` 是一个可信任 AI 资源库，可一站式获取 `ChatGPT`、`Claude`、`Gemini` 账户充值、成品号和号池资源。我们用 Token 质检和统一网关筛掉不稳定、掺水、冒名的中转服务，并通过可信账户资源、质检报告和接入记录，帮助你降低 AI 使用成本与采购风险。
+
 ## 背景
 
 你好啊朋友，欢迎来到[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)。
