@@ -1,26 +1,26 @@
 # Summary
 
-* [Home](README.md)
+* [홈](README.md)
 * [中文（主入口）](#/)
-* [한국어](#/ko/)
+* [English](#/en/)
 
 ### Part I
 
-* [Understanding](threads/part-1/1-understanding.md)
-* [Vocabulary](threads/part-1/2-vocabulary.md)
-* [Listening](threads/part-1/3-listening.md)
-* [Reading](threads/part-1/4-reading.md)
-* [Speaking](threads/part-1/5-speaking.md)
-* [Writing](threads/part-1/6-writing.md)
-* [AI](threads/part-1/7-ai.md)
+* [1. 인지편](threads/part-1/1-understanding.md)
+* [2. 단어편](threads/part-1/2-vocabulary.md)
+* [3. 듣기편](threads/part-1/3-listening.md)
+* [4. 읽기편](threads/part-1/4-reading.md)
+* [5. 말하기편](threads/part-1/5-speaking.md)
+* [6. 쓰기편](threads/part-1/6-writing.md)
+* [7. AI로 영어 배우기](threads/part-1/7-ai.md)
 
 ### Part II
 
-* [Misc](threads/part-2/x-misc.md)
+* [8. 기타](threads/part-2/x-misc.md)
 
 ### Part IV
 
-* [My Story](threads/part-4/my-story.md)
+* [나의 이야기](threads/part-4/my-story.md)
 * [Week 1](threads/part-4/week-1.md)
 
 ### Word Lists

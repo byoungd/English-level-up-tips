@@ -4,7 +4,7 @@ Dedicated to my once-beloved `W.`
 
 > We each live in our own past. It takes one minute to get to know someone, one hour to like them, one day to fall in love with them—yet it can take a lifetime to forget them.
 
-English | [中文](#/)
+English | [中文](#/) | [한국어](#/ko/)
 
 # Project
 

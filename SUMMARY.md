@@ -1,5 +1,8 @@
 # Summary
 
+* [English](docs/en/README.md)
+* [한국어](docs/ko/README.md)
+
 ### Part I
 
 * [1.认知篇](docs/threads/part-1/1-understanding.md)
