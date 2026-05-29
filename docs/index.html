@@ -77,10 +77,26 @@
         loadSidebar: "SUMMARY.md",
         alias: {
           "/en/.*/SUMMARY.md": "/en/SUMMARY.md",
+          "/ko/.*/SUMMARY.md": "/ko/SUMMARY.md",
           "/.*/SUMMARY.md": "/SUMMARY.md",
         },
         subMaxLevel: 3,
         auto2top: true,
+        search: {
+          paths: "auto",
+          placeholder: {
+            "/en/": "Search",
+            "/ko/": "검색",
+            "/": "搜索",
+          },
+          noData: {
+            "/en/": "No results",
+            "/ko/": "검색 결과가 없습니다",
+            "/": "找不到结果",
+          },
+          depth: 3,
+          pathNamespaces: ["/en", "/ko"],
+        },
         markdown: {
           renderer: {
             code: function (code, lang) {
