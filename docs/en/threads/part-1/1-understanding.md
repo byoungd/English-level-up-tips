@@ -329,4 +329,4 @@ Recommended:
 
 ---
 
-Next: [Vocabulary](2-vocabulary.md)
+Next: [Vocabulary](/en/threads/part-1/2-vocabulary.md)

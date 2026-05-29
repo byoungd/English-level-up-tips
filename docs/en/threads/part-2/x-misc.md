@@ -183,5 +183,6 @@ Next: [My ex-girlfriends](https://github.com/byoungd/how-to-find-love)
 
 ---
 
-Prev: [Learning with AI](../part-1/7-ai.md)  
-Next: [Week 1](../part-4/week-1.md)
+Prev: [Learning with AI](/en/threads/part-1/7-ai.md)
+
+Next: [Week 1](/en/threads/part-4/week-1.md)

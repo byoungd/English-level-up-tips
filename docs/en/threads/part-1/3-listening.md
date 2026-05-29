@@ -264,5 +264,6 @@ If you want a deep dive, I strongly recommend this:
 
 ---
 
-Prev: [Vocabulary](2-vocabulary.md)  
-Next: [Reading](4-reading.md)
+Prev: [Vocabulary](/en/threads/part-1/2-vocabulary.md)
+
+Next: [Reading](/en/threads/part-1/4-reading.md)

@@ -102,5 +102,6 @@ The world is already noisy. If you donâ€™t *have to* add more noise, maybe donâ€
 
 ---
 
-Prev: [Speaking](5-speaking.md)  
-Next: [AI](7-ai.md)
+Prev: [Speaking](/en/threads/part-1/5-speaking.md)
+
+Next: [AI](/en/threads/part-1/7-ai.md)
