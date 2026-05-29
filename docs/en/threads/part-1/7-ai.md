@@ -1,6 +1,6 @@
 # Learning with AI (2026 Edition)
 
-Source (中文): [利用 AI 学习](#/threads/part-1/7-ai.md)
+Source (中文): [利用 AI 学习](/threads/part-1/7-ai.md)
 
 > Updated with web-verified product info as of `2026-03-20`.
 

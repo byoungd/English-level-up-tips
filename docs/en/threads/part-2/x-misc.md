@@ -1,6 +1,6 @@
 # Misc (Random Thoughts)
 
-Source (中文): [扯淡篇](#/threads/part-2/x-misc.md)
+Source (中文): [扯淡篇](/threads/part-2/x-misc.md)
 
 This chapter is intentionally a bit off-topic: personal opinions, stories, and some “learned the hard way” moments.
 

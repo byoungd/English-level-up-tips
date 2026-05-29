@@ -1,6 +1,6 @@
 # Writing
 
-Source (中文): [写作篇](#/threads/part-1/6-writing.md)
+Source (中文): [写作篇](/threads/part-1/6-writing.md)
 
 Hi—welcome to *English Level-up Tips*.
 

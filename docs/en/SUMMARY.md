@@ -25,13 +25,13 @@
 
 ### Word Lists
 
-* [Common](#/threads/word-list/Common.md)
-* [Go](#/threads/word-list/Go.md)
-* [Java](#/threads/word-list/Java.md)
-* [JavaScript](#/threads/word-list/JavaScript.md)
-* [PHP](#/threads/word-list/PHP.md)
-* [Prompt](#/threads/word-list/Prompt.md)
-* [Python](#/threads/word-list/Python.md)
-* [Swift](#/threads/word-list/Swift.md)
-* [Rust](#/threads/word-list/Rust.md)
-* [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
+* [Common](/threads/word-list/Common.md)
+* [Go](/threads/word-list/Go.md)
+* [Java](/threads/word-list/Java.md)
+* [JavaScript](/threads/word-list/JavaScript.md)
+* [PHP](/threads/word-list/PHP.md)
+* [Prompt](/threads/word-list/Prompt.md)
+* [Python](/threads/word-list/Python.md)
+* [Swift](/threads/word-list/Swift.md)
+* [Rust](/threads/word-list/Rust.md)
+* [Vibe Coding (Agent)](/threads/word-list/VibeCoding.md)
