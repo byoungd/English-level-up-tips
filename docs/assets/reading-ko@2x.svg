@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="읽기편: 좋은 자료는 학습 효율과 즐거움을 키웁니다">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4d9df0"/>
+      <stop offset="1" stop-color="#9bd1ff"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#22527f" opacity="0.75">
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">읽기편</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">좋은 자료는 학습 효율을 키웁니다</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">재미있게 오래 읽는 힘을 만듭니다</text>
+    </g>
+
+    <!-- Flying envelopes (simplified redraw) -->
+    <g transform="translate(865 56)">
+      <g stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.9">
+        <path d="M40 30 H260"/>
+        <path d="M40 88 H230"/>
+        <path d="M40 146 H200"/>
+      </g>
+
+      <g transform="translate(340 0)">
+        <g transform="translate(0 0)">
+          <rect x="80" y="30" width="210" height="150" rx="22" fill="#ffd7dd" stroke="#ff5b67" stroke-width="10"/>
+          <path d="M98 54 L185 112 L272 54" fill="none" stroke="#ff5b67" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M98 156 L185 100 L272 156" fill="none" stroke="#ff5b67" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+          <g stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.85">
+            <path d="M0 52 H70"/>
+            <path d="M0 112 H58"/>
+            <path d="M0 172 H44"/>
+          </g>
+        </g>
+
+        <g transform="translate(-66 142)" opacity="0.35">
+          <rect x="80" y="30" width="210" height="150" rx="22" fill="#ffffff" stroke="#ffffff" stroke-width="10"/>
+          <path d="M98 54 L185 112 L272 54" fill="none" stroke="#e8eef4" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(20 210)">
+          <rect x="80" y="30" width="210" height="150" rx="22" fill="#caa2ff" stroke="#7a35ff" stroke-width="10"/>
+          <path d="M98 54 L185 112 L272 54" fill="none" stroke="#7a35ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M98 156 L185 100 L272 156" fill="none" stroke="#7a35ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+          <g stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.85">
+            <path d="M0 52 H70"/>
+            <path d="M0 112 H58"/>
+            <path d="M0 172 H44"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

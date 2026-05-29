@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="듣기편: 언어 감각은 듣기에서 자랍니다">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#74c802"/>
+      <stop offset="1" stop-color="#b0e85a"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#2c5a12" opacity="0.8">
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">듣기편</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">언어 감각은 듣기에서 자랍니다</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">가장 자연스러운 학습 경로이기도 합니다</text>
+    </g>
+
+    <!-- Drone & envelope (simplified redraw) -->
+    <g transform="translate(820 56)">
+      <!-- Drone body -->
+      <g stroke="#d8d8d8" stroke-width="10" fill="#f3f3f3" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="160" y="10" width="340" height="70" rx="35"/>
+        <path d="M110 45 H160"/>
+        <path d="M500 45 H550"/>
+        <rect x="86" y="18" width="48" height="54" rx="24" fill="#f3f3f3"/>
+        <rect x="526" y="18" width="48" height="54" rx="24" fill="#f3f3f3"/>
+      </g>
+      <!-- Propellers -->
+      <g stroke="#e6e6e6" stroke-width="10" stroke-linecap="round">
+        <path d="M70 4 H150"/>
+        <path d="M510 4 H590"/>
+        <path d="M260 4 H420"/>
+      </g>
+      <g fill="#d6d6d6">
+        <circle cx="110" cy="4" r="10"/>
+        <circle cx="550" cy="4" r="10"/>
+        <circle cx="340" cy="4" r="10"/>
+      </g>
+
+      <!-- Cables -->
+      <g stroke-linecap="round" stroke-width="10" fill="none">
+        <path d="M280 80 L220 206" stroke="#ff7c2b"/>
+        <path d="M400 80 L440 206" stroke="#ff7c2b"/>
+        <path d="M340 80 L330 206" stroke="#ffd1db"/>
+      </g>
+
+      <!-- Envelope -->
+      <g transform="translate(220 198)">
+        <rect x="0" y="0" width="240" height="170" rx="20" fill="#d9f0b3" stroke="#97c95a" stroke-width="10"/>
+        <path d="M16 24 L120 92 L224 24" fill="none" stroke="#97c95a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M16 144 L120 88 L224 144" fill="none" stroke="#97c95a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        <circle cx="92" cy="108" r="10" fill="#97c95a" opacity="0.5"/>
+        <circle cx="148" cy="108" r="10" fill="#97c95a" opacity="0.5"/>
+        <path d="M88 120 C 104 138, 136 138, 152 120" fill="none" stroke="#97c95a" stroke-width="10" stroke-linecap="round"/>
+        <path d="M236 82 C 270 110, 270 156, 236 178" fill="none" stroke="#97c95a" stroke-width="10" stroke-linecap="round" opacity="0.55"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,8 +1,8 @@
 # Week 1
 
-원문: [中文](#/threads/part-4/week-1.md) | [English](#/en/threads/part-4/week-1.md)
+원문: [중국어](/threads/part-4/week-1.md) | [English](/en/threads/part-4/week-1.md)
 
-이 페이지는 한국어판의 챕터 진입점입니다. 전체 번역은 단계적으로 추가됩니다.
+첫 주의 목표는 거창한 계획을 세우는 것이 아니라 매일 영어를 만나는 최소 루틴을 만드는 것입니다.
 
 ## 첫 주 목표
 

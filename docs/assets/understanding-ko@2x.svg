@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="인지편: 영어를 과목이 아니라 언어로 보기">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2fd3b6"/>
+      <stop offset="1" stop-color="#86f1e6"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#1d5a58" opacity="0.85">
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">인지편</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">영어를 과목이 아니라 언어로 봅니다</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">첫 언어를 익히듯 자연스럽게 배웁니다</text>
+    </g>
+
+    <!-- Parachutes (simplified redraw, no raster embedding) -->
+    <g transform="translate(820 26)">
+      <!-- Yellow -->
+      <g transform="translate(330 0)" stroke="#ffd11a" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M40 22 C 70 -10, 124 -10, 154 22"/>
+        <path d="M40 22 C 72 38, 122 38, 154 22"/>
+        <path d="M97 -6 C 97 18, 97 18, 97 22"/>
+        <path d="M58 22 L 78 66"/>
+        <path d="M136 22 L 116 66"/>
+        <path d="M97 22 L 97 70"/>
+        <path d="M78 66 C 95 76, 99 76, 116 66"/>
+      </g>
+      <g transform="translate(402 104)">
+        <text x="0" y="0" font-size="80" font-weight="900" fill="#6d7074" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">?</text>
+      </g>
+
+      <!-- Gray -->
+      <g transform="translate(140 120)" opacity="0.55">
+        <g stroke="#cfd5d8" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M36 18 C 62 -8, 108 -8, 134 18"/>
+          <path d="M36 18 C 62 32, 108 32, 134 18"/>
+          <path d="M85 -4 C 85 14, 85 14, 85 18"/>
+          <path d="M56 18 L 70 52"/>
+          <path d="M114 18 L 100 52"/>
+          <path d="M85 18 L 85 56"/>
+          <path d="M70 52 C 82 60, 88 60, 100 52"/>
+        </g>
+        <text x="72" y="110" font-size="70" font-weight="900" fill="#cfd5d8" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">?</text>
+      </g>
+
+      <!-- Pink (cropped on the right/bottom like the original) -->
+      <g transform="translate(210 210)" stroke="#ff65a8" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M60 26 C 108 -18, 192 -18, 240 26"/>
+        <path d="M60 26 C 110 48, 190 48, 240 26"/>
+        <path d="M150 -10 C 150 20, 150 20, 150 26"/>
+        <path d="M92 26 L 120 102"/>
+        <path d="M208 26 L 180 102"/>
+        <path d="M150 26 L 150 108"/>
+        <path d="M120 102 C 142 116, 158 116, 180 102"/>
+      </g>
+      <g transform="translate(298 324)">
+        <text x="0" y="0" font-size="90" font-weight="900" fill="#b0b3b7" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">?</text>
+      </g>
+    </g>
+  </g>
+</svg>

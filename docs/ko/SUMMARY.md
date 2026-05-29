@@ -1,4 +1,4 @@
-# Summary
+# 목차
 
 * [홈](/ko/)
 * [중국어](/)
@@ -23,7 +23,7 @@
 * [나의 이야기](/ko/threads/part-4/my-story.md)
 * [Week 1](/ko/threads/part-4/week-1.md)
 
-### Word Lists
+### 단어장
 
 * [Common](/threads/word-list/Common.md)
 * [Go](/threads/word-list/Go.md)
