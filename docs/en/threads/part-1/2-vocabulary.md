@@ -1,6 +1,6 @@
 # Vocabulary
 
-Source (中文): [单词篇](#/threads/part-1/2-vocabulary.md)
+Source (中文): [单词篇](/threads/part-1/2-vocabulary.md)
 
 Vocabulary is the foundation of a language. If you try to “skip vocabulary” and jump straight to advanced materials, you’ll usually end up spending (more accurately: wasting) even more time later.
 
@@ -273,8 +273,8 @@ Ways to blend AI into your workflow:
 
 If you want to use AI across listening/speaking/reading/writing, see the “AI” chapter:
 
-- English (WIP): [AI](7-ai.md)
-- Chinese: [利用 AI 学习](#/threads/part-1/7-ai.md)
+- English (WIP): [AI](/en/threads/part-1/7-ai.md)
+- Chinese: [利用 AI 学习](/threads/part-1/7-ai.md)
 
 ---
 
@@ -300,5 +300,6 @@ If you already have a decent vocabulary base, don’t miss it.
 
 ---
 
-Prev: [Understanding](1-understanding.md)  
-Next: [Listening](3-listening.md)
+Prev: [Understanding](/en/threads/part-1/1-understanding.md)
+
+Next: [Listening](/en/threads/part-1/3-listening.md)

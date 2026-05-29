@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="말하기편: 생각을 실제 말로 꺼내며 전달력을 키웁니다">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c97b3d"/>
+      <stop offset="1" stop-color="#f2c07d"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#6c3f21" opacity="0.75">
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">말하기편</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">머릿속 생각을 실제 말로 꺼냅니다</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">짧게라도 말하며 전달력을 키웁니다</text>
+    </g>
+
+    <!-- Angel face & wand (simplified redraw) -->
+    <g transform="translate(900 62)">
+      <g opacity="0.95">
+        <circle cx="260" cy="160" r="86" fill="#e6e6e6"/>
+        <circle cx="232" cy="150" r="12" fill="#b9c1c8"/>
+        <circle cx="288" cy="150" r="12" fill="#b9c1c8"/>
+        <path d="M230 188 C 248 210, 272 210, 290 188" fill="none" stroke="#b9c1c8" stroke-width="14" stroke-linecap="round"/>
+        <ellipse cx="260" cy="70" rx="64" ry="22" fill="none" stroke="#ffd11a" stroke-width="12"/>
+      </g>
+
+      <!-- Bubbles -->
+      <g fill="none" stroke="#ffffff" stroke-width="10" opacity="0.7">
+        <circle cx="150" cy="40" r="20"/>
+        <circle cx="330" cy="30" r="16"/>
+        <circle cx="360" cy="90" r="18"/>
+        <circle cx="182" cy="98" r="14"/>
+      </g>
+      <g fill="#ffffff" opacity="0.45">
+        <circle cx="150" cy="40" r="6"/>
+        <circle cx="330" cy="30" r="5"/>
+        <circle cx="360" cy="90" r="5"/>
+        <circle cx="182" cy="98" r="4"/>
+      </g>
+
+      <!-- Wand -->
+      <g transform="translate(40 210)">
+        <path d="M140 0 L240 100" stroke="#ffd11a" stroke-width="18" stroke-linecap="round"/>
+        <circle cx="130" cy="-10" r="24" fill="none" stroke="#ffd11a" stroke-width="12"/>
+        <circle cx="244" cy="104" r="16" fill="#ffd11a" opacity="0.85"/>
+      </g>
+    </g>
+  </g>
+</svg>

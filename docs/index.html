@@ -76,11 +76,29 @@
         repo: "https://github.com/byoungd/English-level-up-tips",
         loadSidebar: "SUMMARY.md",
         alias: {
+          "/en/SUMMARY.md": "/en/SUMMARY.md",
           "/en/.*/SUMMARY.md": "/en/SUMMARY.md",
+          "/ko/SUMMARY.md": "/ko/SUMMARY.md",
+          "/ko/.*/SUMMARY.md": "/ko/SUMMARY.md",
           "/.*/SUMMARY.md": "/SUMMARY.md",
         },
         subMaxLevel: 3,
         auto2top: true,
+        search: {
+          paths: "auto",
+          placeholder: {
+            "/en/": "Search",
+            "/ko/": "검색",
+            "/": "搜索",
+          },
+          noData: {
+            "/en/": "No results",
+            "/ko/": "검색 결과가 없습니다",
+            "/": "找不到结果",
+          },
+          depth: 3,
+          pathNamespaces: ["/en", "/ko"],
+        },
         markdown: {
           renderer: {
             code: function (code, lang) {
@@ -129,7 +147,10 @@
                 editHtml +
                 html.replace(
                   /<a\s+(?:[^>]*?\s+)?href\s*=\s*(["'])#(.*?)\1.*?>/g,
-                  (m, g1, g2) => m.replace(g2, vm.route.path + "#" + g2)
+                  (m, g1, g2) =>
+                    g2.startsWith("/")
+                      ? m
+                      : m.replace(g2, vm.route.path + "#" + g2)
                 )
               );
             });

@@ -1,6 +1,6 @@
 # Learning with AI (2026 Edition)
 
-Source (中文): [利用 AI 学习](#/threads/part-1/7-ai.md)
+Source (中文): [利用 AI 学习](/threads/part-1/7-ai.md)
 
 > Updated with web-verified product info as of `2026-03-20`.
 
@@ -440,5 +440,6 @@ But if you use it well, it can become a low-friction, high-frequency training pa
 
 ---
 
-Prev: [Writing](6-writing.md)  
-Next: [Misc](../part-2/x-misc.md)
+Prev: [Writing](/en/threads/part-1/6-writing.md)
+
+Next: [Misc](/en/threads/part-2/x-misc.md)

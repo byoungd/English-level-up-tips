@@ -1,6 +1,7 @@
 # Summary
 
-* [English](#/en/)
+* [English](/en/)
+* [한국어](/ko/)
 
 ### Part I
 

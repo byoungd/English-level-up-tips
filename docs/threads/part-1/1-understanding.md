@@ -346,6 +346,6 @@ WHY?
 
 ---
 
-下一篇：[单词篇](2-vocabulary.md)
+下一篇：[单词篇](/threads/part-1/2-vocabulary.md)
 
 

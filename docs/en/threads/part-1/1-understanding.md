@@ -1,6 +1,6 @@
 # Understanding
 
-Source (中文): [认知篇](#/threads/part-1/1-understanding.md)
+Source (中文): [认知篇](/threads/part-1/1-understanding.md)
 
 This chapter is about mindset. Before you grind vocabulary and drills, it’s worth getting a few things straight—otherwise you’ll work hard, feel miserable, and still get stuck.
 
@@ -329,4 +329,4 @@ Recommended:
 
 ---
 
-Next: [Vocabulary](2-vocabulary.md)
+Next: [Vocabulary](/en/threads/part-1/2-vocabulary.md)

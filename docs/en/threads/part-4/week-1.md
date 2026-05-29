@@ -122,4 +122,4 @@ Thank you for your attention, and I hope you learned something useful.
 
 ---
 
-Prev: [Misc](../part-2/x-misc.md)
+Prev: [Misc](/en/threads/part-2/x-misc.md)

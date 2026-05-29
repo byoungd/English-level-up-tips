@@ -4,7 +4,7 @@ Dedicated to my once-beloved `W.`
 
 > We each live in our own past. It takes one minute to get to know someone, one hour to like them, one day to fall in love with them—yet it can take a lifetime to forget them.
 
-English | [中文](#/)
+English | [中文](/) | [한국어](/ko/)
 
 # Project
 
@@ -41,19 +41,19 @@ This guide is my attempt to organize what I’ve learned and share it with more 
 
 ## Chapters (English, WIP)
 
-[![understanding](../assets/understanding-en@2x.svg)](threads/part-1/1-understanding.md)
+[![understanding](../assets/understanding-en@2x.svg)](/en/threads/part-1/1-understanding.md)
 
-[![vocabulary](../assets/vocabulary-en@2x.svg)](threads/part-1/2-vocabulary.md)
+[![vocabulary](../assets/vocabulary-en@2x.svg)](/en/threads/part-1/2-vocabulary.md)
 
-[![listening](../assets/listening-en@2x.svg)](threads/part-1/3-listening.md)
+[![listening](../assets/listening-en@2x.svg)](/en/threads/part-1/3-listening.md)
 
-[![reading](../assets/reading-en@2x.svg)](threads/part-1/4-reading.md)
+[![reading](../assets/reading-en@2x.svg)](/en/threads/part-1/4-reading.md)
 
-[![speaking](../assets/speaking-en@2x.svg)](threads/part-1/5-speaking.md)
+[![speaking](../assets/speaking-en@2x.svg)](/en/threads/part-1/5-speaking.md)
 
-[![writing](../assets/writing-en@2x.svg)](threads/part-1/6-writing.md)
+[![writing](../assets/writing-en@2x.svg)](/en/threads/part-1/6-writing.md)
 
-[AI (2026 update)](threads/part-1/7-ai.md)
+[AI (2026 update)](/en/threads/part-1/7-ai.md)
 
 The AI chapter now reflects the current tool landscape instead of only generic prompt tips. It focuses on:
 
@@ -62,24 +62,24 @@ The AI chapter now reflects the current tool landscape instead of only generic p
 - when to use `ChatGPT`, `Claude`, `Perplexity`, or `DeepL Write` instead
 - how to build repeatable practice loops rather than asking AI for one-off answers
 
-[![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
+[![Others](../assets/Others-en@2x.svg)](/en/threads/part-2/x-misc.md)
 
-[My Story](threads/part-4/my-story.md)
+[My Story](/en/threads/part-4/my-story.md)
 
 ## Word Lists
 
 These lists are already in English, so the English sidebar links directly to them:
 
-- [Common](#/threads/word-list/Common.md)
-- [Go](#/threads/word-list/Go.md)
-- [Java](#/threads/word-list/Java.md)
-- [JavaScript](#/threads/word-list/JavaScript.md)
-- [PHP](#/threads/word-list/PHP.md)
-- [Prompt](#/threads/word-list/Prompt.md)
-- [Python](#/threads/word-list/Python.md)
-- [Swift](#/threads/word-list/Swift.md)
-- [Rust](#/threads/word-list/Rust.md)
-- [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
+- [Common](/threads/word-list/Common.md)
+- [Go](/threads/word-list/Go.md)
+- [Java](/threads/word-list/Java.md)
+- [JavaScript](/threads/word-list/JavaScript.md)
+- [PHP](/threads/word-list/PHP.md)
+- [Prompt](/threads/word-list/Prompt.md)
+- [Python](/threads/word-list/Python.md)
+- [Swift](/threads/word-list/Swift.md)
+- [Rust](/threads/word-list/Rust.md)
+- [Vibe Coding (Agent)](/threads/word-list/VibeCoding.md)
 
 ## Online Reading
 
@@ -89,7 +89,7 @@ These lists are already in English, so the English sidebar links directly to the
 
 ## Personal Story
 
-If you want the personal background behind this guide, read [My Story](threads/part-4/my-story.md).
+If you want the personal background behind this guide, read [My Story](/en/threads/part-4/my-story.md).
 
 ## Reprint
 

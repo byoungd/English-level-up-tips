@@ -1,6 +1,6 @@
 # Reading
 
-Source (中文): [阅读篇](#/threads/part-1/4-reading.md)
+Source (中文): [阅读篇](/threads/part-1/4-reading.md)
 
 ---
 
@@ -108,5 +108,6 @@ If you use tools to pre-extract unknown words from a document and learn them fir
 
 ---
 
-Prev: [Listening](3-listening.md)  
-Next: [Speaking](5-speaking.md)
+Prev: [Listening](/en/threads/part-1/3-listening.md)
+
+Next: [Speaking](/en/threads/part-1/5-speaking.md)

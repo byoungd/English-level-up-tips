@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="단어편: 단어는 영어의 기본 블록입니다. 문맥과 반복으로 익힙니다">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f1ad11"/>
+      <stop offset="1" stop-color="#ffd566"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#6a4a16" opacity="0.8">
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">단어편</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">단어는 영어를 이루는 기본 블록입니다</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">문맥과 반복으로 똑똑하게 익힙니다</text>
+    </g>
+
+    <!-- House & trees (simplified redraw) -->
+    <g transform="translate(830 105)">
+      <rect x="0" y="188" width="420" height="12" rx="6" fill="#b77a1d" opacity="0.6"/>
+
+      <!-- Small gray tree -->
+      <g transform="translate(120 150)">
+        <polygon points="40,0 70,45 10,45" fill="#d7d8da"/>
+        <rect x="34" y="45" width="12" height="46" rx="6" fill="#a7aab0"/>
+        <rect x="0" y="88" width="80" height="10" rx="5" fill="#b77a1d" opacity="0.25"/>
+      </g>
+
+      <!-- Green tree -->
+      <g transform="translate(330 140)">
+        <polygon points="50,0 90,64 10,64" fill="#6bc245"/>
+        <polygon points="50,20 80,78 20,78" fill="#83d85a" opacity="0.95"/>
+        <rect x="44" y="78" width="12" height="54" rx="6" fill="#a97a3b"/>
+      </g>
+
+      <!-- House -->
+      <g transform="translate(190 78)">
+        <rect x="70" y="94" width="210" height="150" rx="18" fill="#ffd6de" stroke="#ff5f7f" stroke-width="10"/>
+        <polygon points="64,102 176,26 286,102" fill="#ffd6de" stroke="#ff5f7f" stroke-width="10" stroke-linejoin="round"/>
+        <rect x="150" y="150" width="52" height="94" rx="10" fill="#fff3f6" stroke="#ff5f7f" stroke-width="8"/>
+        <circle cx="158" cy="198" r="6" fill="#ff5f7f"/>
+        <circle cx="240" cy="170" r="10" fill="#ff5f7f" opacity="0.35"/>
+        <circle cx="120" cy="170" r="10" fill="#ff5f7f" opacity="0.35"/>
+        <path d="M152 190 C 170 208, 182 208, 200 190" fill="none" stroke="#ff5f7f" stroke-width="10" stroke-linecap="round"/>
+        <rect x="40" y="242" width="320" height="12" rx="6" fill="#b77a1d" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

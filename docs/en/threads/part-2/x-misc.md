@@ -1,6 +1,6 @@
 # Misc (Random Thoughts)
 
-Source (中文): [扯淡篇](#/threads/part-2/x-misc.md)
+Source (中文): [扯淡篇](/threads/part-2/x-misc.md)
 
 This chapter is intentionally a bit off-topic: personal opinions, stories, and some “learned the hard way” moments.
 
@@ -183,5 +183,6 @@ Next: [My ex-girlfriends](https://github.com/byoungd/how-to-find-love)
 
 ---
 
-Prev: [Learning with AI](../part-1/7-ai.md)  
-Next: [Week 1](../part-4/week-1.md)
+Prev: [Learning with AI](/en/threads/part-1/7-ai.md)
+
+Next: [Week 1](/en/threads/part-4/week-1.md)

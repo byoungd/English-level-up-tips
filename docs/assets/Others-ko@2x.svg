@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="Extras: Things beyond studying—courses, going abroad, and more">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f04a5c"/>
+      <stop offset="1" stop-color="#ff97a6"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#7b1f2b" opacity="0.75">
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">기타</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">공부 밖의 이야기까지 다룹니다</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">강의, 유학, 자료 선택과 더 많은 팁</text>
+    </g>
+
+    <!-- Devil face (simplified redraw) -->
+    <g transform="translate(860 50)">
+      <g fill="#ffffff" opacity="0.9">
+        <path d="M248 66 C 228 26, 272 26, 252 66" fill="#ff6e7e"/>
+        <path d="M392 66 C 372 26, 416 26, 396 66" fill="#ff6e7e"/>
+        <path d="M262 210 C 292 150, 348 150, 378 210" fill="none" stroke="#d7f0ef" stroke-width="14" stroke-linecap="round"/>
+        <path d="M300 168 C 274 150, 260 122, 276 96" fill="none" stroke="#ff6e7e" stroke-width="14" stroke-linecap="round"/>
+        <path d="M340 168 C 366 150, 380 122, 364 96" fill="none" stroke="#ff6e7e" stroke-width="14" stroke-linecap="round"/>
+      </g>
+
+      <!-- Question marks -->
+      <g fill="#d7f0ef" opacity="0.9" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif" font-weight="900">
+        <text x="280" y="120" font-size="78">?</text>
+        <text x="356" y="120" font-size="78">?</text>
+      </g>
+
+      <!-- Crosses -->
+      <g stroke="#ffffff" stroke-width="18" stroke-linecap="round" opacity="0.9">
+        <path d="M220 12 L250 42"/>
+        <path d="M250 12 L220 42"/>
+        <path d="M460 18 L490 48"/>
+        <path d="M490 18 L460 48"/>
+        <path d="M486 150 L516 180"/>
+        <path d="M516 150 L486 180"/>
+      </g>
+
+      <!-- Little wrench -->
+      <g transform="translate(396 234)" fill="none" stroke="#ff6e7e" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+        <path d="M70 0 C 44 10, 42 34, 58 50 L 8 100 L 28 120 L 78 70 C 96 86, 120 84, 132 60"/>
+        <circle cx="18" cy="110" r="10" fill="#ff6e7e"/>
+      </g>
+    </g>
+  </g>
+</svg>

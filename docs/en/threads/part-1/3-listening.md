@@ -1,6 +1,6 @@
 # Listening
 
-Source (中文): [听力篇](#/threads/part-1/3-listening.md)
+Source (中文): [听力篇](/threads/part-1/3-listening.md)
 
 Most of the recommended videos are on YouTube. Many of them have fairly accurate English captions (often auto-generated). Depending on where you live, you may need a VPN to access them.
 
@@ -264,5 +264,6 @@ If you want a deep dive, I strongly recommend this:
 
 ---
 
-Prev: [Vocabulary](2-vocabulary.md)  
-Next: [Reading](4-reading.md)
+Prev: [Vocabulary](/en/threads/part-1/2-vocabulary.md)
+
+Next: [Reading](/en/threads/part-1/4-reading.md)

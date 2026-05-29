@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="쓰기편: 읽고 따라 쓰고 고쳐 쓰며 문장을 단단하게 만듭니다">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8f8f8f"/>
+      <stop offset="1" stop-color="#d2d2d2"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1280" height="380" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1280" height="380" fill="url(#bg)"/>
+
+    <g fill="#434343" opacity="0.75">
+      <text x="76" y="122" font-size="64" font-weight="750" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">쓰기편</text>
+      <text x="76" y="206" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">읽고, 따라 쓰고, 고쳐 씁니다</text>
+      <text x="76" y="266" font-size="42" font-weight="650" font-family="Noto Sans KR, Apple SD Gothic Neo, Segoe UI, Arial, sans-serif">더 나은 문장을 만드는 세 가지 힘</text>
+    </g>
+
+    <!-- Winged envelope (simplified redraw) -->
+    <g transform="translate(875 48)">
+      <!-- Motion lines -->
+      <g stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.55">
+        <path d="M40 220 L120 150"/>
+        <path d="M76 256 L168 176"/>
+      </g>
+
+      <!-- Big gray envelope -->
+      <g transform="translate(90 170)" opacity="0.9">
+        <rect x="0" y="0" width="360" height="220" rx="26" fill="#f7f7f7" stroke="#e6e6e6" stroke-width="10"/>
+        <path d="M20 32 L180 122 L340 32" fill="none" stroke="#e6e6e6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M20 192 L180 112 L340 192" fill="none" stroke="#e6e6e6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+      </g>
+
+      <!-- Pink envelope with wings -->
+      <g transform="translate(280 20)">
+        <ellipse cx="140" cy="24" rx="60" ry="20" fill="none" stroke="#ffd11a" stroke-width="12"/>
+        <rect x="40" y="70" width="240" height="170" rx="22" fill="#ffd6de" stroke="#ff5f7f" stroke-width="10"/>
+        <path d="M56 94 L160 162 L264 94" fill="none" stroke="#ff5f7f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M56 204 L160 148 L264 204" fill="none" stroke="#ff5f7f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        <circle cx="136" cy="176" r="10" fill="#ff5f7f" opacity="0.5"/>
+        <circle cx="184" cy="176" r="10" fill="#ff5f7f" opacity="0.5"/>
+        <path d="M132 188 C 146 204, 174 204, 188 188" fill="none" stroke="#ff5f7f" stroke-width="10" stroke-linecap="round"/>
+
+        <!-- Wings -->
+        <g transform="translate(-10 50)" stroke="#ffd11a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M0 60 C 30 20, 70 20, 100 60"/>
+          <path d="M12 70 C 32 44, 66 44, 86 70"/>
+          <path d="M26 82 C 40 66, 58 66, 72 82"/>
+        </g>
+        <g transform="translate(290 50)" stroke="#ffd11a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M100 60 C 70 20, 30 20, 0 60"/>
+          <path d="M88 70 C 68 44, 34 44, 14 70"/>
+          <path d="M74 82 C 60 66, 42 66, 28 82"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

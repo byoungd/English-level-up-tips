@@ -1,6 +1,6 @@
 # Speaking
 
-Source (中文): [口语篇](#/threads/part-1/5-speaking.md)
+Source (中文): [口语篇](/threads/part-1/5-speaking.md)
 
 Speaking is where everything comes together. And yes—pronunciation matters, but you don’t need to obsess. You just need a solid base and a lot of reps.
 
@@ -165,5 +165,6 @@ Less is more. Pick a few and practice a lot. If you have great channels to recom
 
 ---
 
-Prev: [Reading](4-reading.md)  
-Next: [Writing](6-writing.md)
+Prev: [Reading](/en/threads/part-1/4-reading.md)
+
+Next: [Writing](/en/threads/part-1/6-writing.md)
