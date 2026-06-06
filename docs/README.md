@@ -1,4 +1,4 @@
-谨以此献给我曾今的挚爱 `W.`
+谨以此献给我曾经的挚爱 `W.`
 
 > 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
 
@@ -46,7 +46,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 英语水平等级
 
-![CERF@2x.png](assets/CEFR@2x.png)
+![CEFR@2x.png](assets/CEFR@2x.png)
 
 > 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 

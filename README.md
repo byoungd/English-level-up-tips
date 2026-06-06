@@ -48,7 +48,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 英语水平等级
 
-![CERF@2x.png](docs/assets/CEFR@2x.png)
+![CEFR@2x.png](docs/assets/CEFR@2x.png)
 
 > 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
