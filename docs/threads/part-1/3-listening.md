@@ -93,7 +93,7 @@
 ![top-songs-2021](../../assets/top-songs-2021.jpg)
 
 欧美金曲值得推荐的实在太多，无法一一列举：
-- 受欢迎的歌手：贾斯汀·比伯、戳爷、水果姐、霉霉、盆栽精、打雷、Ed Sheeran, Adele, Maroon 5, Bilie Eilish, Sam Smith 等等
+- 受欢迎的歌手：贾斯汀·比伯、戳爷、水果姐、霉霉、盆栽精、打雷、Ed Sheeran, Adele, Maroon 5, Billie Eilish, Sam Smith 等等
 - iTunes 榜
 - BillBoard
 - UK 榜
@@ -135,7 +135,7 @@
   推荐指数：5
 
 这是一个关于前端和 PHP 框架 Laravel 的视频教程网站，内容更新及时，讲解细致，大部分内容免费，对刚入门的程序员很友好。
-教程内容涉及 JavaSrcipt/Vue.js/React/Laravel/PHP/编辑器的进阶教程等。
+教程内容涉及 JavaScript/Vue.js/React/Laravel/PHP/编辑器的进阶教程等。
 很喜欢他的那句口头禅 _Does it make sense to you?_
 
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
