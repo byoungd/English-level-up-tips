@@ -12,7 +12,15 @@ An advanced guide to learn English which might benefit you a lot.
 
 [离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)。
 
-## 推荐资源：[ku0.com - 库](https://ku0.com)
+## AI 推荐资源
+
+### 重点推荐：[token.love](https://token.love)
+
+[token.love](https://token.love) 是一个非常适合作为 AI Token、模型额度与可信资源入口的域名：`token` 直接对应 AI 使用里的核心计量单位，`love` 则让这个技术词变得更好记、更有温度。
+
+![token.love 域名购买展示](docs/assets/token-love-domain.jpg)
+
+### 推荐资源：[ku0.com - 库](https://ku0.com)
 
 如果你在使用本指南里的 AI 学习方案时，需要更稳定、可信的 AI 账户与接口资源，可以看看我们的产品：[ku0.com](https://ku0.com)。
 
