@@ -14,7 +14,7 @@ This English version is a work in progress. You can always switch back to the co
 
 ## Background
 
-Hi, my friend—welcome.
+Hi, my friend—welcome. You can also find me on [X](https://x.com/ourleap).
 
 Back in early July 2017, `W.` (who was preparing for TOEFL) asked me a question:
 
