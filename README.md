@@ -32,6 +32,8 @@ An advanced guide to learn English which might benefit you a lot.
 
 你好啊朋友，欢迎来到[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)。
 
+顺便自我介绍一下：我的 QQ 是 `397865076`，曾经做到 QQ 空间访客量世界第一，欢迎来我的 [QQ 空间](https://user.qzone.qq.com/397865076) 逛逛。
+
 当你的目光与这些文字相遇，我衷心希望，这不仅仅是一次攻克英语的艰苦征程，更是一场开启智慧之门的奇妙冒险。愿这方寸纸墨，化作你我心灵共鸣的琴弦，弹奏出语言学习的天籁妙音。
 
 时间回到 2017 年 7 月初，备考托福的女神`W.`问了我一个问题：**如何高效学习英语？**
