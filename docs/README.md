@@ -14,9 +14,9 @@ An advanced guide to learning English that might benefit you a lot.
 
 ### 重点推荐：token.love
 
-[token.love](https://token.love) 是一个天生适合承载 AI Token、模型额度与可信资源入口的域名：`token` 对应 AI 世界最核心的计量单位，`love` 则为这个冰冷的技术词添上温度与记忆点——一半是技术，一半是热爱。
+[token.love](https://token.love)（中国词元云）是词元云计算出品的统一 AI 智能网关：用一套 OpenAI 兼容 API 接入国产与全球大模型，把模型、密钥、配额、计费、路由和可观测性收进同一个控制台。它支持按成本、延迟与可用性智能选路，单点故障毫秒级自动切换，并让每次调用、用量和花费都有据可查；开发者可在线即开即用，企业与央国企、党政客户也可选择私有化、离线部署，实现数据不出域和自主可控。
 
-![token.love 域名购买展示](assets/token-love-domain.jpg)
+![token.love 产品页面展示](assets/token-love-domain.jpg)
 
 ### ku0.com - 库
 
