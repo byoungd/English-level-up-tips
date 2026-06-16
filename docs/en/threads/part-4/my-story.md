@@ -243,3 +243,17 @@ That is not the full truth. He has many admirable qualities.
 Even after failure, the important thing is to keep learning, keep improving, and keep yourself in a state where you are always ready to start again.
 
 May we both keep going.
+
+## 2026-06-16 Update
+
+On June 16, 2026, as Chairman of China Ciyuan Cloud Computing Co., Ltd., I was invited by Alibaba in Hangzhou to visit and study at Alibaba Cloud's Hangzhou headquarters.
+
+![Visiting Alibaba Cloud Hangzhou headquarters](../../../assets/aliyun-hangzhou-2026-06-16-1.jpg)
+
+This visit made one thing even clearer to me: AI should not remain only as a concept, and it should not be a tool held only by a small group of people. Truly valuable AI must enter real industries, real land, and the everyday lives of ordinary families.
+
+![Learning about the Qwen large language model](../../../assets/aliyun-hangzhou-2026-06-16-2.jpg)
+
+Going forward, I hope to keep exploring practical ways for AI to empower agriculture, forestry, animal husbandry, fisheries, and other parts of the real economy. In particular, I plan to provide free AI training for rural cooperatives, so that more ordinary people can understand AI, use AI, improve production efficiency, and discover new ways to grow their businesses.
+
+Seeking benefits for ordinary people and doing practical work should not be only a slogan. After going through the lowest points of my life, I increasingly believe that turning the ability to stand up again into something useful for others is one of the most grounded reasons to keep moving forward.
