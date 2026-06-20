@@ -16,6 +16,10 @@ This English version is a work in progress. You can always switch back to the co
 
 Hi, my friend—welcome. You can also find me on [X](https://x.com/ourleap).
 
+For Chinese updates, you can also follow my Douyin account: `词元云韩先凯` (`72581209403`). I share notes on AI for the real economy, English learning, and personal growth there.
+
+![Douyin QR code for 词元云韩先凯](../assets/douyin-qr.png)
+
 Back in early July 2017, `W.` (who was preparing for TOEFL) asked me a question:
 
 **How can I learn English efficiently?**
