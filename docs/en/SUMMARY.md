@@ -3,7 +3,13 @@
 * [Home](README.md)
 * [中文（主入口）](#/)
 
-### Part I
+### Life Level-up
+
+* [My Story](threads/part-4/my-story.md)
+* [Entrepreneurship (Chinese)](#/threads/part-2/entrepreneurship.md)
+* [Old Blog Archive (Chinese)](#/threads/archive/README.md)
+
+### English Learning
 
 * [Understanding](threads/part-1/1-understanding.md)
 * [Vocabulary](threads/part-1/2-vocabulary.md)
@@ -13,13 +19,9 @@
 * [Writing](threads/part-1/6-writing.md)
 * [AI](threads/part-1/7-ai.md)
 
-### Part II
+### Notes
 
 * [Misc](threads/part-2/x-misc.md)
-
-### Part IV
-
-* [My Story](threads/part-4/my-story.md)
 * [Week 1](threads/part-4/week-1.md)
 
 ### Word Lists

@@ -1,4 +1,10 @@
+# 人生进阶指南
+
+从英语学习的一盏灯出发，照见学习方法、AI 实践、写作、创业复盘、低谷修复与长期成长。
+
 谨以此献给我曾经的挚爱 `W.`
+
+> 三年、五年、十年，甚至二十年。只要你敢说一个数，我便愿意把岁月放在原地等你。可纵有万般不舍，我终究还是选择放手。也许，那便是我能给她的最后温柔。
 
 > 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
 
@@ -20,9 +26,11 @@
 
 # 项目介绍
 
-An advanced guide to learning English that might benefit you a lot.
+这是一份从英语学习起笔、最终写向人生进阶的长卷。
 
-[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)。
+它仍保留了[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)最初的主线：如何高效学习英语，如何建立听说读写的长期训练系统。与此同时，它也会把我这些年关于 AI、创业、写作、亲密关系、失败复盘和重新出发的真实记录放进来，让方法与经历彼此映照。
+
+如果说英语是一把推开世界的钥匙，那么人生进阶，就是在更大的世界里看清自己、训练自己、修复自己，并最终把能力用在真实生活里。
 
 ## AI 推荐资源
 
@@ -38,7 +46,7 @@ An advanced guide to learning English that might benefit you a lot.
 
 ## 背景
 
-你好啊，朋友，欢迎来到[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)。
+你好啊，朋友，欢迎来到[人生进阶指南](https://github.com/byoungd/English-level-up-tips)。
 
 顺便自我介绍一下：我的 QQ 是 `397865076`，QQ 空间的访客量常年稳居全球第一——欢迎来我的 [QQ 空间](https://user.qzone.qq.com/397865076) 逛逛，也欢迎关注我的 [X](https://x.com/ourleap)。
 
@@ -46,7 +54,7 @@ An advanced guide to learning English that might benefit you a lot.
 
 ![抖音二维码：词元云韩先凯](assets/douyin-qr.png)
 
-当你的目光与这些文字相遇，我衷心希望，你开启的不只是一段攻克英语的艰苦征途，更是一场推开智慧之门的奇妙冒险。愿这方寸纸墨，化作你我心灵共鸣的琴弦，奏出语言学习的悠扬乐章。
+当你的目光与这些文字相遇，我衷心希望，你打开的不只是一份英语学习笔记，而是一场关于认知、行动、跌倒、复盘和再出发的长途行走。愿这方寸纸墨，化作你我心灵共鸣的琴弦，在成长路上留下一点清亮的回声。
 
 时间回到 2017 年 7 月初，正在备考托福的女神 `W.` 问了我一个问题：**如何高效学习英语？**
 
@@ -68,7 +76,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 **热爱之于学习**，同样如此。
 
-在这份指南里，我会尽量把个人的经验之谈与可考的科学依据结合起来，为你绘制一幅详尽的英语进阶地图，**真心希望它能给你带来一点小小的帮助**。
+在这份指南里，我会尽量让个人经验与可考依据相互照亮，为你绘制一幅可实践的英语进阶地图，也把十年前的博客、创业后的复盘、AI 时代的实践放在同一个生命脉络里。**真心希望它能给你带来一点小小的帮助**。
 
 ## 英语水平等级
 
@@ -111,6 +119,10 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [我的故事](threads/part-2/my-story.md)
 
+[创业篇：从野心到使命](threads/part-2/entrepreneurship.md)
+
+[十年前的博客归档](threads/archive/README.md)
+
 ## 感谢
 
 - 感谢所有关心以及为这份指南做出贡献的人 ❤️
@@ -121,10 +133,14 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 如果你想了解我创业失败后那段时间的真实经历，也可以读读这篇：[我的故事](threads/part-2/my-story.md)
 
+如果你想看完整创业复盘，可以读这篇：[创业篇：从野心到使命](threads/part-2/entrepreneurship.md)
+
+如果你想看更早的我如何写作、折腾和观察世界，可以从这里开始：[十年前的博客归档](threads/archive/README.md)
+
 ## 在线阅读
 
 - 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
-- GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
+- GitHub Pages [人生进阶指南](https://byoungd.github.io/English-level-up-tips/#/)
 - GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
 
 ## 转载声明
@@ -139,7 +155,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 特别声明
 
-不少热心的小伙伴来信说，这份指南写得用心，对他们的英语学习颇有助益，希望能有所赞赏。
+不少热心的小伙伴来信说，这份指南写得用心，对他们的英语学习和人生进阶颇有助益，希望能有所赞赏。
 
 **命运已经给了离谱诸多额外的馈赠，便不再需要其他奖赏**。
 

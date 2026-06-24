@@ -6,11 +6,11 @@ Dedicated to my once-beloved `W.`
 
 English | [中文](#/)
 
-# Project
+# Life Level-up Guide
 
-An advanced guide to learn English which might benefit you a lot.
+This project started as an English learning guide, but it is now becoming a broader life level-up guide: language learning, learning systems, AI practice, writing, entrepreneurship, recovery after failure, and long-term personal growth.
 
-This English version is a work in progress. You can always switch back to the complete Chinese version from the nav above.
+This English version is still a work in progress. The Chinese version is the main edition and now includes the newly restored old blog archive.
 
 ## Background
 
@@ -31,7 +31,7 @@ After talking with her, I realized two things:
 - Some people are incredibly passionate about learning.
 - Many of us also suffer from ineffective methods, anxiety, and guilt around learning.
 
-This guide is my attempt to organize what I’ve learned and share it with more people.
+This guide is my attempt to organize what I’ve learned and share it with more people. English remains one important thread, but the larger theme is how a person keeps learning, keeps recovering, and keeps moving.
 
 ## English Proficiency Levels
 
@@ -70,6 +70,8 @@ The AI chapter now reflects the current tool landscape instead of only generic p
 
 [My Story](threads/part-4/my-story.md)
 
+[Old Blog Archive (Chinese)](#/threads/archive/README.md)
+
 ## Word Lists
 
 These lists are already in English, so the English sidebar links directly to them:
@@ -93,7 +95,7 @@ These lists are already in English, so the English sidebar links directly to the
 
 ## Personal Story
 
-If you want the personal background behind this guide, read [My Story](threads/part-4/my-story.md).
+If you want the personal background behind this guide, read [My Story](threads/part-4/my-story.md). For earlier writing recovered from Web Archive, see the [Old Blog Archive](#/threads/archive/README.md).
 
 ## Reprint
 
