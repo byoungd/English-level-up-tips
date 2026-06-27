@@ -1,91 +1,119 @@
 <!-- English version -->
 
-Dedicated to my once-beloved `W.`
-
-> We each live in our own past. It takes one minute to get to know someone, one hour to like them, one day to fall in love with them—yet it can take a lifetime to forget them.
-
 English | [中文](#/)
 
 # Life Level-up Guide
 
-This project started as an English learning guide, but it is now becoming a broader life level-up guide: language learning, learning systems, AI practice, writing, entrepreneurship, recovery after failure, and long-term personal growth.
+This is an open guide that starts with English learning and gradually expands into learning systems, AI practice, writing, entrepreneurship, recovery after failure, and long-term personal growth.
 
-This English version is still a work in progress. The Chinese version is the main edition and now includes the newly restored old blog archive.
+The Chinese version is the main edition. This English version keeps the same homepage structure and links to the translated English chapters where they exist; some personal essays and archive pages remain Chinese-first.
 
-## Background
+If you only want to improve your English, start with the English learning path. If you are looking for a broader way to rebuild discipline, learning rhythm, and long-term momentum, read it as a life level-up map.
 
-Hi, my friend—welcome. You can also find me on [X](https://x.com/ourleap).
+## Who This Is For
 
-For Chinese updates, you can also follow my Douyin account: `词元云韩先凯` (`72581209403`). I share notes on AI for the real economy, English learning, and personal growth there.
+- Learners who want to improve English but keep getting stuck on vocabulary, listening, speaking, or writing.
+- Learners who want to use AI as a real practice partner instead of a one-off translator.
+- People who want to rebuild their learning rhythm, action system, and long-term growth process.
+- Readers interested in entrepreneurship, writing, failure recovery, and personal reflection.
+
+## Recommended Path
+
+You do not need to read everything from top to bottom. Pick the route that matches your current problem:
+
+1. **If you do not know how to start**: read [Understanding](threads/part-1/1-understanding.md), then [Vocabulary](threads/part-1/2-vocabulary.md).
+2. **If you need more input**: read [Listening](threads/part-1/3-listening.md) and [Reading](threads/part-1/4-reading.md), then build steady exposure.
+3. **If you understand more than you can express**: read [Speaking](threads/part-1/5-speaking.md) and [Writing](threads/part-1/6-writing.md).
+4. **If you want AI to accelerate the process**: read [Learning with AI (2026 Edition)](threads/part-1/7-ai.md), then apply it back to listening, speaking, reading, and writing.
+5. **If you want the personal background**: read [My Story](threads/part-4/my-story.md), [Entrepreneurship](#/threads/part-2/entrepreneurship.md), and the [Old Blog Archive](#/threads/archive/README.md).
+
+## English Learning Path
+
+### Starting Point: Calibrate the Direction
+
+[![understanding](../assets/understanding-en@2x.svg)](threads/part-1/1-understanding.md)
+
+- [Understanding](threads/part-1/1-understanding.md): why you are learning, where you want to use English, and how to avoid replacing progress with anxiety.
+
+[![vocabulary](../assets/vocabulary-en@2x.svg)](threads/part-1/2-vocabulary.md)
+
+- [Vocabulary](threads/part-1/2-vocabulary.md): vocabulary size, memory methods, review rhythm, and pronunciation awareness.
+
+### Input: Make English Part of Daily Life
+
+[![listening](../assets/listening-en@2x.svg)](threads/part-1/3-listening.md)
+
+- [Listening](threads/part-1/3-listening.md): intensive listening, extensive listening, suitable materials, and the bridge toward native-speed content.
+
+[![reading](../assets/reading-en@2x.svg)](threads/part-1/4-reading.md)
+
+- [Reading](threads/part-1/4-reading.md): original books, English documentation, and English-speaking communities.
+
+### Output: Turn Understanding Into Expression
+
+[![speaking](../assets/speaking-en@2x.svg)](threads/part-1/5-speaking.md)
+
+- [Speaking](threads/part-1/5-speaking.md): pronunciation, reading aloud, real conversations, and preparing common answers.
+
+[![writing](../assets/writing-en@2x.svg)](threads/part-1/6-writing.md)
+
+- [Writing](threads/part-1/6-writing.md): reading, practice, discussion, tools, and clearer everyday expression.
+
+### Accelerator: Use AI as a Training Partner
+
+- [Learning with AI (2026 Edition)](threads/part-1/7-ai.md) focuses on:
+  - why Gemini is now a strong main engine for many English learners;
+  - how to combine `Gems / Live / Guided Learning / Canvas / quizzes / flashcards`;
+  - when to use `ChatGPT`, `Claude`, `Perplexity`, or `DeepL Write`;
+  - how to build durable practice loops instead of asking AI for isolated answers.
+
+## Extended Content
+
+[![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
+
+- [Word Lists](#/threads/word-list/Common.md): vocabulary lists for general English, programming languages, Prompt, and Vibe Coding.
+- [Misc](threads/part-2/x-misc.md): notes on learning, bootcamps, devices, and personal experience.
+- [Week 1](threads/part-4/week-1.md): English practice content about sleep, lifestyle, and stress.
+
+## AI Practice and Real-World Work
+
+The Chinese edition contains more up-to-date notes about my AI practice in China, including [token.love](https://token.love), [ku0.com](https://ku0.com), and recent work around AI for the real economy.
+
+On June 16, 2026, I visited Alibaba Cloud headquarters in Hangzhou as chairman of China Token Cloud Computing Co., Ltd. That visit strengthened one belief: useful AI should not stay inside concepts or demos. It should enter real industries, real communities, and ordinary daily life.
+
+For Chinese updates, you can follow my Douyin account: `词元云韩先凯` (`72581209403`). I share notes on AI for the real economy, English learning, and personal growth there.
 
 ![Douyin QR code for 词元云韩先凯](../assets/douyin-qr.png)
 
-Back in early July 2017, `W.` (who was preparing for TOEFL) asked me a question:
+## Personal Background
+
+This guide began with one specific question.
+
+In early July 2017, `W.`, who was preparing for TOEFL, asked me:
 
 **How can I learn English efficiently?**
 
-While thinking about an answer, I recalled a semester when I passed 26 courses at once (19 of them were retakes), plus the fact that I once got lucky and ranked No.1 in my province in both `English` and `Chinese` in the college entrance exam (Jiangsu). Maybe I was barely qualified to share a few practical tips.
+I first wrote down a few practical notes, then gradually expanded them into this guide. English is still the starting point, but the larger question is how a person learns, recovers, and keeps moving after difficult years.
 
-After talking with her, I realized two things:
+Dedicated to my once-beloved `W.` Some stories belong near the beginning; others are better read when you want the background.
 
-- Some people are incredibly passionate about learning.
-- Many of us also suffer from ineffective methods, anxiety, and guilt around learning.
+> We each live in our own past. It takes one minute to get to know someone, one hour to like them, one day to fall in love with them, yet it can take a lifetime to forget them.
 
-This guide is my attempt to organize what I’ve learned and share it with more people. English remains one important thread, but the larger theme is how a person keeps learning, keeps recovering, and keeps moving.
+Related reading:
+
+- [My Story](threads/part-4/my-story.md): entrepreneurship failure, health collapse, returning home, and starting again.
+- [Entrepreneurship](#/threads/part-2/entrepreneurship.md): a Chinese essay about ambition, cash flow, responsibility, and mission.
+- [Old Blog Archive](#/threads/archive/README.md): older Chinese writing and recovered archive posts.
 
 ## English Proficiency Levels
 
 ![CEFR](../assets/CEFR-en@2x.svg)
 
-> Source: [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
+> Source: [Global scale - Table 1 (CEFR 3.3): Common Reference levels](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
 ## Features
 
 ![Features](../assets/feature-en.svg)
-
-## Chapters (English, WIP)
-
-[![understanding](../assets/understanding-en@2x.svg)](threads/part-1/1-understanding.md)
-
-[![vocabulary](../assets/vocabulary-en@2x.svg)](threads/part-1/2-vocabulary.md)
-
-[![listening](../assets/listening-en@2x.svg)](threads/part-1/3-listening.md)
-
-[![reading](../assets/reading-en@2x.svg)](threads/part-1/4-reading.md)
-
-[![speaking](../assets/speaking-en@2x.svg)](threads/part-1/5-speaking.md)
-
-[![writing](../assets/writing-en@2x.svg)](threads/part-1/6-writing.md)
-
-[AI (2026 update)](threads/part-1/7-ai.md)
-
-The AI chapter now reflects the current tool landscape instead of only generic prompt tips. It focuses on:
-
-- why Gemini is now the most complete “learning workflow” option for many learners
-- how to combine `Gems / Live / Guided Learning / Canvas / quizzes / flashcards`
-- when to use `ChatGPT`, `Claude`, `Perplexity`, or `DeepL Write` instead
-- how to build repeatable practice loops rather than asking AI for one-off answers
-
-[![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
-
-[My Story](threads/part-4/my-story.md)
-
-[Old Blog Archive (Chinese)](#/threads/archive/README.md)
-
-## Word Lists
-
-These lists are already in English, so the English sidebar links directly to them:
-
-- [Common](#/threads/word-list/Common.md)
-- [Go](#/threads/word-list/Go.md)
-- [Java](#/threads/word-list/Java.md)
-- [JavaScript](#/threads/word-list/JavaScript.md)
-- [PHP](#/threads/word-list/PHP.md)
-- [Prompt](#/threads/word-list/Prompt.md)
-- [Python](#/threads/word-list/Python.md)
-- [Swift](#/threads/word-list/Swift.md)
-- [Rust](#/threads/word-list/Rust.md)
-- [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
 
 ## Online Reading
 
@@ -93,13 +121,9 @@ These lists are already in English, so the English sidebar links directly to the
 - Chinese (Zhihu): https://zhuanlan.zhihu.com/p/444211376
 - GitBook: https://babyyoung.gitbook.io/english-level-up-tips/
 
-## Personal Story
-
-If you want the personal background behind this guide, read [My Story](threads/part-4/my-story.md). For earlier writing recovered from Web Archive, see the [Old Blog Archive](#/threads/archive/README.md).
-
 ## Reprint
 
-If you repost this guide, please credit the author and include the GitHub link. Thank you!
+If you repost this guide, please credit the author and include the GitHub link. Thank you.
 
 ## License
 

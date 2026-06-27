@@ -1,141 +1,141 @@
 # 人生进阶指南
 
-从英语学习的一盏灯出发，照见学习方法、AI 实践、写作、创业复盘、低谷修复与长期成长。
-
-谨以此献给我曾经的挚爱 `W.`
-
-> 三年、五年、十年，甚至二十年。只要你敢说一个数，我便愿意把岁月放在原地等你。可纵有万般不舍，我终究还是选择放手。也许，那便是我能给她的最后温柔。
-
-> 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
-
 中文 | [English](#/en/)
 
-## 最新动态：AI 赋能实体经济
+这是一份从英语学习启程，又沿着学习方法、AI 实践、写作、创业复盘、低谷修复与长期成长一路铺开的开放指南。
+
+它仍保留了[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)最初的主线：如何更高效地学习英语，如何建立听说读写的长期训练系统。只是这些年风雨辗转，我逐渐明白：语言并不只是一门技能，它也是一个人推开世界、整理自己、重新出发的门。
+
+所以，这里有英语学习，也有 AI、创业、写作、亲密关系、失败复盘和东山再起的片段。如果你只想学英语，可以从英语学习主线开始；如果你正在寻找一种更长期的自我训练方式，也可以把它当作一份人生进阶路线图。
+
+## 适合谁阅读
+
+- 想系统提升英语，却一次次被单词、听力、口语或写作拦在门外的人；
+- 想把 AI 真正请进学习现场，而不是只让它偶尔翻译两句话的人；
+- 想重新整理学习节奏、行动系统和长期成长方法的人；
+- 对创业、写作、低谷恢复和个人复盘感兴趣，愿意从他人的弯路里借一点光的人。
+
+## 推荐阅读路线
+
+第一次阅读时，不必把它当作一本必须从头翻到尾的书。你可以先问自己：此刻最卡住我的，到底是哪一环？然后沿着下面的路径进入：
+
+1. **如果你不知道怎么开始学英语**：先读[认知篇](threads/part-1/1-understanding.md)，再读[单词篇](threads/part-1/2-vocabulary.md)，先辨路，再赶路。
+2. **如果你输入不够**：读[听力篇](threads/part-1/3-listening.md)和[阅读篇](threads/part-1/4-reading.md)，让英语稳定地进入你的耳朵、眼睛和日常生活。
+3. **如果你表达不出来**：读[口语篇](threads/part-1/5-speaking.md)和[写作篇](threads/part-1/6-writing.md)，把沉默的理解锻造成可说、可写、可交流的能力。
+4. **如果你想用 AI 加速**：直接读[利用 AI 学习（2026 版）](threads/part-1/7-ai.md)，再回到听说读写主线里实践，让工具成为长期训练伙伴。
+5. **如果你想了解这份指南背后的经历**：读[我的故事](threads/part-2/my-story.md)、[创业篇：从野心到使命](threads/part-2/entrepreneurship.md)和[十年前的博客归档](threads/archive/README.md)，看看一份学习笔记如何慢慢长成一段人生复盘。
+
+## 英语学习主线
+
+### 起点：先把方向校准
+
+[![understanding](assets/understanding@2x.svg)](threads/part-1/1-understanding.md)
+
+- [认知篇](threads/part-1/1-understanding.md)：先问清为什么学、学到哪里、用在何处，避免用焦虑和透支伪装成努力。
+
+[![vocabulary](assets/vocabulary@2x.svg)](threads/part-1/2-vocabulary.md)
+
+- [单词篇](threads/part-1/2-vocabulary.md)：词汇是语言的砖石，也是理解世界的钥匙；这一章处理词汇量、记忆方法、复习节奏和发音意识这些基础问题。
+
+### 输入：让英语进入日常
+
+[![listening](assets/listening@2x.svg)](threads/part-1/3-listening.md)
+
+- [听力篇](threads/part-1/3-listening.md)：让声音先抵达身体，再抵达理解；这一章区分精听与泛听，帮助你选择材料，逐步适应真实语速和真实内容。
+
+[![reading](assets/reading@2x.svg)](threads/part-1/4-reading.md)
+
+- [阅读篇](threads/part-1/4-reading.md)：阅读像一条暗河，悄悄滋养词汇、语感和表达；这一章通过原版书、英文文档和英文社区建立稳定输入。
+
+### 输出：把理解变成表达
+
+[![speaking](assets/speaking@2x.svg)](threads/part-1/5-speaking.md)
+
+- [口语篇](threads/part-1/5-speaking.md)：语言终究要走出口腔，抵达另一个人；这一章从音标、朗读、复述和真实交流开始，逐步减少“想说但说不出”的卡顿。
+
+[![writing](assets/writing@2x.svg)](threads/part-1/6-writing.md)
+
+- [写作篇](threads/part-1/6-writing.md)：写作是把混沌念头安放到纸面上的过程；这一章用阅读、练习、交流和工具改进日常写作与表达结构。
+
+### 加速器：把 AI 变成训练伙伴
+
+[![ai](assets/ai@2x.svg)](threads/part-1/7-ai.md)
+
+- [利用 AI 学习（2026 版）](threads/part-1/7-ai.md)：AI 不该只是临时拐杖，而应成为低摩擦、高频率、能反馈的训练伙伴。本章不再罗列通用 Prompt，而是系统回答四个问题：
+  - 为什么现在更推荐把 `Gemini` 作为英语学习的主引擎；
+  - 如何把 `Gem / Live / Guided Learning / Canvas / quiz / flashcards` 串成完整训练链路；
+  - 在 Gemini 之外，`ChatGPT / Claude / Perplexity / DeepL Write` 应当如何分工协作；
+  - 怎样设计一套真正经得起时间考验的听说读写训练回路。
+
+## 扩展内容
+
+[![word-list](assets/word-list@2x.svg)](threads/word-list/Common.md)
+
+- [单词表（Word Lists）](threads/word-list/Common.md)：把散落在不同场景里的词语收束成册，覆盖通用英语、编程语言、Prompt 和 Vibe Coding 等方向。
+
+[![Others@2x.png](assets/Others@2x.svg)](threads/part-2/x-misc.md)
+
+- [扯淡篇](threads/part-2/x-misc.md)：一些关于学习、培训、设备选择和个人经历的杂谈，轻一点，也真一点。
+- [Week 1](threads/part-4/week-1.md)：一组关于睡眠、生活方式和压力处理的英文练习内容，把语言练习放回真实生活。
+
+## AI 学习与实践
+
+AI 是这个时代递到普通人手里的一把新工具。它可以只是玩具，也可以成为学习、表达、生产和产业升级的杠杆；关键在于，我们是否真的把它用到真实问题里。
+
+### 中国词元云：[token.love](https://token.love)
+
+[token.love](https://token.love)（中国词元云）是词元云计算出品的统一 AI 智能网关：用一套 OpenAI 兼容 API 接入国产与全球大模型，把模型、密钥、配额、计费、路由和可观测性收进同一个控制台。它支持按成本、延迟与可用性智能选路，单点故障毫秒级自动切换，并让每次调用、用量和花费都有据可查；开发者可在线即开即用，企业与央国企、党政客户也可选择私有化、离线部署，让数据留在应当留在的地方，让能力抵达真正需要它的人。
+
+![token.love 产品页面展示](assets/token-love-domain.jpg)
+
+### AI资源库：[ku0.com - 库](https://ku0.com)
+
+如果你在实践本指南的 AI 学习方案时，需要更稳定、更可信的 AI 账户与接口资源，可以了解：[ku0.com](https://ku0.com)。好的工具不必喧哗，它只需要在你真正要用的时候，可靠地站在那里。
+
+### 最新动态：AI 赋能实体经济
 
 2026 年 6 月 16 日，我以中国词元云计算有限公司董事长的身份，受杭州阿里巴巴邀请，前往阿里云杭州总部参观考察。
 
 ![参观阿里云杭州总部](assets/aliyun-hangzhou-2026-06-16-1.jpg)
 
-这次参访让我更加坚定：AI 不应该只停留在概念里，也不应该只是少数人手里的工具。真正有价值的 AI，一定要走进产业，走进土地，走进千家万户的真实生活。
+这次参访让我更加坚定：AI 不应该只停留在概念里，也不应该只是少数人手里的玩具。真正有价值的 AI，要走进产业，走进土地，走进千家万户的真实生活。
 
 ![了解千问大模型](assets/aliyun-hangzhou-2026-06-16-2.jpg)
 
-接下来，我希望继续探索 AI 赋能农、林、牧、渔等实体产业的具体路径，支持实体经济发展。尤其是在农村合作社方向，我也计划开办 AI 免费培训，让更多普通老百姓能真正理解 AI、使用 AI，用技术提高生产效率、拓宽经营思路。
+接下来，我希望继续探索 AI 赋能农、林、牧、渔等实体产业的具体路径，支持实体经济发展。尤其是在农村合作社方向，我也计划开办 AI 免费培训，让更多普通老百姓能真正理解 AI、使用 AI，用技术提高生产效率、拓宽经营思路。技术若不能照见田野、车间和寻常日子，便还没有完成它应有的抵达。
 
-为老百姓谋福利，做实事，这不是一句口号。更多近况可见：[我的故事](threads/part-2/my-story.md)。
+更多近况可见：[我的故事](threads/part-2/my-story.md)。
 
-# 项目介绍
+## 人生进阶与个人复盘
 
-这是一份从英语学习起笔、最终写向人生进阶的长卷。
+这份指南最初并不是一个宏大的计划，而是来自一个很具体、也很温柔的问题。
 
-它仍保留了[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)最初的主线：如何高效学习英语，如何建立听说读写的长期训练系统。与此同时，它也会把我这些年关于 AI、创业、写作、亲密关系、失败复盘和重新出发的真实记录放进来，让方法与经历彼此映照。
+2017 年 7 月初，正在备考托福的 `W.` 问我：**如何高效学习英语？**
 
-如果说英语是一把推开世界的钥匙，那么人生进阶，就是在更大的世界里看清自己、训练自己、修复自己，并最终把能力用在真实生活里。
+我把自己的学习经验整理成短文，后来逐步扩展成这份指南。英语仍然是起点，但真正长期的问题早已不只是“怎么学英语”，还包括如何认识自己、训练自己、修复自己，并把能力用在真实生活里。
 
-## AI 推荐资源
+我的 QQ 是 `397865076`（qid：`tokencloud`），也欢迎来我的 [QQ 空间](https://user.qzone.qq.com/397865076) 逛逛。
 
-### 重点推荐：token.love
+谨以此献给我曾经的挚爱 `W.`。有些故事曾经适合放在开头，如今更适合退到文字深处，等愿意了解背景的人慢慢读到那里。
 
-[token.love](https://token.love)（中国词元云）是词元云计算出品的统一 AI 智能网关：用一套 OpenAI 兼容 API 接入国产与全球大模型，把模型、密钥、配额、计费、路由和可观测性收进同一个控制台。它支持按成本、延迟与可用性智能选路，单点故障毫秒级自动切换，并让每次调用、用量和花费都有据可查；开发者可在线即开即用，企业与央国企、党政客户也可选择私有化、离线部署，实现数据不出域和自主可控。
+> 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
 
-![token.love 产品页面展示](assets/token-love-domain.jpg)
+相关内容：
 
-### ku0.com - 库
-
-如果你在实践本指南的 AI 学习方案时，需要更稳定、更可信的 AI 账户与接口资源，可以了解：[ku0.com - 库](https://ku0.com)。
-
-## 背景
-
-你好啊，朋友，欢迎来到[人生进阶指南](https://github.com/byoungd/English-level-up-tips)。
-
-顺便自我介绍一下：我的 QQ 是 `397865076`，QQ 空间的访客量常年稳居全球第一——欢迎来我的 [QQ 空间](https://user.qzone.qq.com/397865076) 逛逛，也欢迎关注我的 [X](https://x.com/ourleap)。
-
-也推荐大家关注我的抖音：`词元云韩先凯`（抖音号：`72581209403`）。我会继续分享 AI 赋能实体经济、英语学习和个人成长相关内容。
-
-![抖音二维码：词元云韩先凯](assets/douyin-qr.png)
-
-当你的目光与这些文字相遇，我衷心希望，你打开的不只是一份英语学习笔记，而是一场关于认知、行动、跌倒、复盘和再出发的长途行走。愿这方寸纸墨，化作你我心灵共鸣的琴弦，在成长路上留下一点清亮的回声。
-
-时间回到 2017 年 7 月初，正在备考托福的女神 `W.` 问了我一个问题：**如何高效学习英语？**
-
-思索如何作答时，我想起自己曾在大四的一个学期里一口气考过 26 门课（其中重修 19 门、当期 7 门），也曾**侥幸**在高考中摘得`英语`、`语文`两科的省第一（江苏卷）。这样看来，关于`高效学习`，我或许勉强有资格说上几句，权当抛砖引玉。
-
-与她交流一番学习心得后，我既惊讶于她对学习的热情如此之高，也发现她的方法里藏着一些`误区`。
-
-于是我写了一篇短文，零零散散地记下自己学英语的心得体会。几天后她告诉我，希望我能把这些经验稍加整理，分享给更多需要的人。
-
-在那之前我并不知道，原来有这么多同学在英语学习的路上磕磕绊绊。
-
-他们甚至从未想过：**英语终究是一门语言，学会它本应像我们当年学会汉语那样，自然而然、水到渠成**。
-
-我由衷地希望你能**热爱**学英语这件事；倘若一时做不到，也请试着去发现其中的乐趣，抑或它能带来的收益。请允许我借乔布斯的一段话相赠（他谈的虽是工作，道理却是相通的）：
-
-The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-
-> 成就一番伟业的唯一途径，是热爱自己所做的事。倘若尚未找到，那就继续寻找，切莫将就。一如所有关乎内心的事，找到之时，你自会知晓。
-
-**热爱之于学习**，同样如此。
-
-在这份指南里，我会尽量让个人经验与可考依据相互照亮，为你绘制一幅可实践的英语进阶地图，也把十年前的博客、创业后的复盘、AI 时代的实践放在同一个生命脉络里。**真心希望它能给你带来一点小小的帮助**。
+- [我的故事](threads/part-2/my-story.md)：创业失败、身体垮掉、沉寂数年后重新出发的个人复盘。
+- [创业篇：从野心到使命](threads/part-2/entrepreneurship.md)：从第一次把自己推向市场，到重新理解创业、现金流、责任和使命。
+- [十年前的博客归档](threads/archive/README.md)：更早时期的写作、观察和生活记录，像旧抽屉里翻出的信，也像来路上的坐标。
+- [离谱的前女友们](https://github.com/byoungd/how-to-find-love)：关于爱情经历的番外篇。
 
 ## 英语水平等级
 
 ![CEFR@2x.png](assets/CEFR@2x.png)
 
-> 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
+> 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
 ## 特色
 
 ![特色介绍](assets/feature.svg)
-
-## 章节
-
-[![understanding](assets/understanding@2x.svg)](threads/part-1/1-understanding.md)
-
-[![vocabulary](assets/vocabulary@2x.svg)](threads/part-1/2-vocabulary.md)
-
-[![listening](assets/listening@2x.svg)](threads/part-1/3-listening.md)
-
-[![reading](assets/reading@2x.svg)](threads/part-1/4-reading.md)
-
-[![speaking](assets/speaking@2x.svg)](threads/part-1/5-speaking.md)
-
-[![writing](assets/writing@2x.svg)](threads/part-1/6-writing.md)
-
-[![ai](assets/ai@2x.svg)](threads/part-1/7-ai.md)
-
-新增的 AI 章节已全面更新至 `2026` 版，重点不再是罗列通用 Prompt，而是系统地回答四个问题：
-
-- 为什么现在更推荐把 `Gemini` 作为英语学习的主引擎
-- 如何把 `Gem / Live / Guided Learning / Canvas / quiz / flashcards` 串成一条完整的训练链路
-- 在 Gemini 之外，`ChatGPT / Claude / Perplexity / DeepL Write` 应当如何分工协作
-- 怎样设计一套真正经得起时间考验的听说读写训练回路
-
-如果你想让 AI 真正成为英语学习的加速器，而不只是偶尔帮你翻译两句的工具，这一章值得细读。
-
-[![word-list](assets/word-list@2x.svg)](threads/word-list/Common.md)
-
-[![Others@2x.png](assets/Others@2x.svg)](threads/part-2/x-misc.md)
-
-[我的故事](threads/part-2/my-story.md)
-
-[创业篇：从野心到使命](threads/part-2/entrepreneurship.md)
-
-[十年前的博客归档](threads/archive/README.md)
-
-## 感谢
-
-- 感谢所有关心以及为这份指南做出贡献的人 ❤️
-
-## 番外篇
-
-聊聊我个人成长经历中关于爱情的部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
-
-如果你想了解我创业失败后那段时间的真实经历，也可以读读这篇：[我的故事](threads/part-2/my-story.md)
-
-如果你想看完整创业复盘，可以读这篇：[创业篇：从野心到使命](threads/part-2/entrepreneurship.md)
-
-如果你想看更早的我如何写作、折腾和观察世界，可以从这里开始：[十年前的博客归档](threads/archive/README.md)
 
 ## 在线阅读
 
@@ -151,7 +151,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"></a>
 
 ## 特别声明
 
@@ -161,7 +161,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 在此统一声明：**本指南不接受、也不需要金钱上的赞助**。
 
-请把那些原本想用来赞赏的零钱，拿去给自己买几本好书。
+请把那些原本想用来赞赏的零钱，拿去给自己买几本好书。书页翻动时，风会自己进来。
 
     学习，难道不是人生最棒的乐趣么？
 
