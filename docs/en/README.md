@@ -4,11 +4,20 @@ English | [中文](#/)
 
 # Life Level-up Guide
 
-This is an open guide that starts with English learning and gradually expands into learning systems, AI practice, writing, entrepreneurship, recovery after failure, and long-term personal growth.
+An open guide for English learning, AI-era skill building, writing, entrepreneurship, recovery after failure, and long-term personal growth.
 
 The Chinese version is the main edition. This English version keeps the same homepage structure and links to the translated English chapters where they exist; some personal essays and archive pages remain Chinese-first.
 
 If you only want to improve your English, start with the English learning path. If you are looking for a broader way to rebuild discipline, learning rhythm, and long-term momentum, read it as a life level-up map.
+
+This guide does not sell anxiety or promise shortcuts. It aims to give you three practical things: an executable English learning system, an AI-era self-upgrade workflow, and a real case study of starting again after difficult years.
+
+## What You Get
+
+- **A clear English learning path**: mindset, vocabulary, listening, reading, speaking, writing, and AI-assisted training.
+- **A practical AI workflow**: how to use tools such as Gemini, ChatGPT, Claude, Perplexity, and DeepL Write inside repeatable practice loops.
+- **A personal recovery case**: learning, entrepreneurship, failure, health collapse, and starting again placed on one honest timeline.
+- **Long-term reference material**: word lists, learning resources, AI resources, archived writing, and personal essays.
 
 ## Who This Is For
 
@@ -16,6 +25,7 @@ If you only want to improve your English, start with the English learning path. 
 - Learners who want to use AI as a real practice partner instead of a one-off translator.
 - People who want to rebuild their learning rhythm, action system, and long-term growth process.
 - Readers interested in entrepreneurship, writing, failure recovery, and personal reflection.
+- People who are tired of saving resources without turning them into ability, output, or results.
 
 ## Recommended Path
 
@@ -26,6 +36,8 @@ You do not need to read everything from top to bottom. Pick the route that match
 3. **If you understand more than you can express**: read [Speaking](threads/part-1/5-speaking.md) and [Writing](threads/part-1/6-writing.md).
 4. **If you want AI to accelerate the process**: read [Learning with AI (2026 Edition)](threads/part-1/7-ai.md), then apply it back to listening, speaking, reading, and writing.
 5. **If you want the personal background**: read [My Story](threads/part-4/my-story.md), [Entrepreneurship](#/threads/part-2/entrepreneurship.md), and the [Old Blog Archive](#/threads/archive/README.md).
+
+If you want the fastest useful start, do three things today: read [Understanding](threads/part-1/1-understanding.md), choose one listening source, and use [Learning with AI](threads/part-1/7-ai.md) to design a one-week practice plan.
 
 ## English Learning Path
 
@@ -79,6 +91,8 @@ You do not need to read everything from top to bottom. Pick the route that match
 
 The Chinese edition contains more up-to-date notes about my AI practice in China, including [token.love](https://token.love), [ku0.com](https://ku0.com), and recent work around AI for the real economy.
 
+The important question is not which model is fashionable this week. The important question is how ordinary people can use AI to improve learning speed, output quality, work productivity, and business judgment.
+
 On June 16, 2026, I visited Alibaba Cloud headquarters in Hangzhou as chairman of China Token Cloud Computing Co., Ltd. That visit strengthened one belief: useful AI should not stay inside concepts or demos. It should enter real industries, real communities, and ordinary daily life.
 
 For Chinese updates, you can follow my Douyin account: `词元云韩先凯` (`72581209403`). I share notes on AI for the real economy, English learning, and personal growth there.
@@ -104,6 +118,12 @@ Related reading:
 - [My Story](threads/part-4/my-story.md): entrepreneurship failure, health collapse, returning home, and starting again.
 - [Entrepreneurship](#/threads/part-2/entrepreneurship.md): a Chinese essay about ambition, cash flow, responsibility, and mission.
 - [Old Blog Archive](#/threads/archive/README.md): older Chinese writing and recovered archive posts.
+
+## Why Bookmark It
+
+This is not a one-time article. It is a notebook that keeps growing with tools, experience, and time. It will keep updating, and it is worth returning to every so often — the place that blocked you last time may have opened up by the next.
+
+If it helps you, save it, share it, or send one chapter to a friend who is stuck. Good writing should not stay in a browser tab; it should turn into action.
 
 ## English Proficiency Levels
 
