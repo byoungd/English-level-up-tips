@@ -10,19 +10,19 @@ The Chinese version is the main edition. This English version keeps the same hom
 
 If you only want to improve your English, start with the English learning path. If you are looking for a broader way to rebuild discipline, learning rhythm, and long-term momentum, read it as a life level-up map.
 
-This guide does not sell anxiety or promise shortcuts. It aims to give you three practical things: an executable English learning system, an AI-era self-upgrade workflow, and a real case study of starting again after difficult years.
+This guide does not sell anxiety or promise shortcuts. It aims to give you three practical things: an executable English learning system, a practical way to learn and upgrade skills with AI, and a real case study of starting again after difficult years.
 
 ## What You Get
 
-- **A clear English learning path**: mindset, vocabulary, listening, reading, speaking, writing, and AI-assisted training.
-- **A practical AI workflow**: how to use tools such as Gemini, ChatGPT, Claude, Perplexity, and DeepL Write inside repeatable practice loops.
+- **A clear English learning path**: mindset, vocabulary, listening, reading, speaking, writing, and AI-assisted English practice.
+- **A practical AI workflow**: how to use tools such as Gemini, ChatGPT, Claude, NotebookLM, Perplexity, and DeepL Write inside goal-driven learning loops.
 - **A personal recovery case**: learning, entrepreneurship, failure, health collapse, and starting again placed on one honest timeline.
 - **Long-term reference material**: word lists, learning resources, AI resources, archived writing, and personal essays.
 
 ## Who This Is For
 
 - Learners who want to improve English but keep getting stuck on vocabulary, listening, speaking, or writing.
-- Learners who want to use AI as a real practice partner instead of a one-off translator.
+- Learners who want to use AI as a real learning partner instead of a one-off translator or writing shortcut.
 - People who want to rebuild their learning rhythm, action system, and long-term growth process.
 - Readers interested in entrepreneurship, writing, failure recovery, and personal reflection.
 - People who are tired of saving resources without turning them into ability, output, or results.
@@ -34,10 +34,11 @@ You do not need to read everything from top to bottom. Pick the route that match
 1. **If you do not know how to start**: read [Understanding](threads/part-1/1-understanding.md), then [Vocabulary](threads/part-1/2-vocabulary.md).
 2. **If you need more input**: read [Listening](threads/part-1/3-listening.md) and [Reading](threads/part-1/4-reading.md), then build steady exposure.
 3. **If you understand more than you can express**: read [Speaking](threads/part-1/5-speaking.md) and [Writing](threads/part-1/6-writing.md).
-4. **If you want AI to accelerate the process**: read [Learning with AI (2026 Edition)](threads/part-1/7-ai.md), then apply it back to listening, speaking, reading, and writing.
-5. **If you want the personal background**: read [My Story](threads/part-4/my-story.md), [Entrepreneurship](#/threads/part-2/entrepreneurship.md), and the [Old Blog Archive](#/threads/archive/README.md).
+4. **If you want to learn anything with AI**: read [Learning Anything with AI](threads/part-3/1-ai-learning.md) and build a loop around goals, materials, output, feedback, review, and projects.
+5. **If you want to learn English with AI**: read [Learning English with AI](threads/part-1/7-ai.md), then apply the general AI learning loop to listening, speaking, reading, and writing.
+6. **If you want the personal background**: read [My Story](threads/part-4/my-story.md), [Entrepreneurship](#/threads/part-2/entrepreneurship.md), and the [Old Blog Archive](#/threads/archive/README.md).
 
-If you want the fastest useful start, do three things today: read [Understanding](threads/part-1/1-understanding.md), choose one listening source, and use [Learning with AI](threads/part-1/7-ai.md) to design a one-week practice plan.
+If you want the fastest useful start, do three things today: read [Understanding](threads/part-1/1-understanding.md), choose one concrete learning goal, and use [Learning Anything with AI](threads/part-3/1-ai-learning.md) to design a one-week practice plan.
 
 ## English Learning Path
 
@@ -71,13 +72,13 @@ If you want the fastest useful start, do three things today: read [Understanding
 
 - [Writing](threads/part-1/6-writing.md): reading, practice, discussion, tools, and clearer everyday expression.
 
-### Accelerator: Use AI as a Training Partner
+### English Scenario: Use AI as a Training Partner
 
-- [Learning with AI (2026 Edition)](threads/part-1/7-ai.md) focuses on:
-  - why Gemini is now a strong main engine for many English learners;
-  - how to combine `Gems / Live / Guided Learning / Canvas / quizzes / flashcards`;
-  - when to use `ChatGPT`, `Claude`, `Perplexity`, or `DeepL Write`;
-  - how to build durable practice loops instead of asking AI for isolated answers.
+- [Learning English with AI](threads/part-1/7-ai.md): apply the general AI learning loop to English listening, speaking, reading, writing, vocabulary, and exam or workplace scenarios.
+
+## AI Learning and Skill Building
+
+- [Learning Anything with AI](threads/part-3/1-ai-learning.md): use AI as a system for goals, materials, explanation, output, feedback, review, and project delivery across programming, writing, exams, industry research, and work output.
 
 ## Extended Content
 

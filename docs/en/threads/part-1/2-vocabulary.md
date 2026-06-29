@@ -274,7 +274,7 @@ Ways to blend AI into your workflow:
 If you want to use AI across listening/speaking/reading/writing, see the “AI” chapter:
 
 - English (WIP): [AI](7-ai.md)
-- Chinese: [利用 AI 学习](#/threads/part-1/7-ai.md)
+- Chinese: [用 AI 学英语](#/threads/part-1/7-ai.md)
 
 ---
 

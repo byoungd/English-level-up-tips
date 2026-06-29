@@ -21,7 +21,11 @@
 * [4.阅读篇](threads/part-1/4-reading.md)
 * [5.口语篇](threads/part-1/5-speaking.md)
 * [6.写作篇](threads/part-1/6-writing.md)
-* [7.利用 AI 学习（2026 版）](threads/part-1/7-ai.md)
+* [7.用 AI 学英语（2026-06 版）](threads/part-1/7-ai.md)
+
+### AI 学习与能力升级
+
+* [使用 AI 学习一切（2026-06 版）](threads/part-3/1-ai-learning.md)
 
 ### 扩展与实践
 

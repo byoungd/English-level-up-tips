@@ -1,8 +1,10 @@
-# Learning with AI (2026 Edition)
+# Learning English with AI
 
-Source (中文): [利用 AI 学习](#/threads/part-1/7-ai.md)
+Source (中文): [用 AI 学英语](#/threads/part-1/7-ai.md)
 
-> Updated with web-verified product info as of `2026-03-20`.
+> Updated with official-source product information as of `2026-06-29`.
+>
+> For the broader method of using AI to learn programming, writing, exams, industry research, and work output, start with [Learning Anything with AI](../part-3/1-ai-learning.md). This chapter focuses on English learning.
 
 AI is no longer just a “smart dictionary” or a quick rewrite tool.
 
@@ -265,68 +267,29 @@ The real advantage is not one magical feature. It is the fact that input, output
 
 ---
 
-## 9) Beyond Gemini: How I Would Split the Tools
+## 9) Where Other Tools Fit in English Learning
 
-If you are willing to use more than one AI tool, I would split them by job rather than arguing about which one is “the best.”
-
-### Gemini
-
-Best as a learning workflow platform:
-
-- guided learning
-- quizzes and flashcards
-- Canvas
-- Live speaking
-- custom Gems
+The general tool split now lives in [Learning Anything with AI](../part-3/1-ai-learning.md). Here is the English-learning version.
 
 ### ChatGPT
 
-Best for step-by-step explanation plus project-based organization:
-
-- `Study mode` now gives you a real learning flow with questions, structured explanations, and understanding checks
-- `Projects` let you keep files, instructions, and long-term context in one place
-
-Important current limitation:
-
-- OpenAI’s help center explicitly says `Study mode` cannot currently be selected inside a `Project`
-
-So the practical split is:
-
-- use `Projects` to manage your long-term study space
-- use regular chats with `Study mode` for focused learning sessions
+Use Study Mode for grammar, close reading, exam-question breakdowns, and concept checks. Use Projects to keep long-term mistakes, essay samples, interview questions, and personal expression lists.
 
 ### Claude
 
-Best for long reading, writing feedback, and style consistency:
+Use it for long reading, writing feedback, and style consistency. If you have many emails, essays, resumes, technical references, or industry materials, project knowledge helps keep context together.
 
-- `Projects` give you focused workspaces with knowledge
-- `RAG for projects` now expands project capacity across Claude plans
+### NotebookLM / Perplexity
 
-That makes Claude a strong choice if you want to upload lots of articles, essays, email samples, resumes, interview materials, or technical references and keep your writing style consistent.
-
-### Perplexity
-
-Best for finding materials and building reading input:
-
-- `Spaces` are dedicated research workspaces with custom instructions and web/file search
-
-For English learners, I would mainly use it to find current English materials, then pass those materials into Gemini / ChatGPT / Claude for actual learning work.
+Use NotebookLM for source-grounded study from fixed materials such as lecture notes, reports, papers, and book excerpts. Use Perplexity to find current English materials, track topics, and build reading lists.
 
 ### DeepL Write
 
-Best as a final polishing layer:
-
-- DeepL officially positions `DeepL Write` as an AI-powered writing assistant
-
-I would use it at the end, not at the beginning:
-
-- to make phrasing more natural
-- to adjust tone
-- to tighten sentences
+Use it as a final polishing layer for naturalness, tone, and concision. Do not let it replace your own draft if your goal is improvement.
 
 Short version:
 
-> Gemini is better for learning workflows, ChatGPT for step-by-step teaching, Claude for long-form reading and writing, Perplexity for finding materials, and DeepL Write for final polish.
+> Use Gemini for the training workflow, ChatGPT and Claude for difficult explanations and output feedback, NotebookLM and Perplexity for materials, and DeepL Write for final polish.
 
 ---
 
@@ -366,17 +329,13 @@ This usually works better than receiving 15 pieces of feedback at once.
 
 ### 10.5 Reuse good materials
 
-One good article or video can be reused for:
-
-- reading comprehension
-- vocabulary extraction
-- dictation
-- spoken retelling
-- writing imitation
+One good article or video can be reused for reading comprehension, vocabulary extraction, dictation, spoken retelling, and writing imitation.
 
 The difference is often not how many materials you find, but how fully you reuse a good one.
 
-### 10.6 A minimal weekly plan
+---
+
+## 11) A Minimal Weekly Plan
 
 If you want something simple, try this for two weeks:
 
@@ -391,7 +350,7 @@ It is not glamorous, but it is sustainable.
 
 ---
 
-## 11) Practical Rules When Using AI
+## 12) Practical Rules When Using AI
 
 1. **Use it as a coach, not an answer machine**
 2. **Train one small goal at a time**
@@ -402,35 +361,22 @@ It is not glamorous, but it is sustainable.
 
 ---
 
-## 12) Sources Behind This Update
+## 13) Sources Behind This Update
 
-This chapter reflects official information available as of `2026-03-20`, including:
+This chapter focuses on English learning. For the broader source baseline and cross-tool workflow, see [Learning Anything with AI](../part-3/1-ai-learning.md). Key English-learning sources include:
 
-- Google’s `Guided Learning in Gemini: From answers to understanding`
 - Gemini Help pages for:
-  - `Use learning tools in Gemini Apps`
-  - `Create quizzes, flashcards & more in Gemini Apps`
-  - `Create docs, apps & more with Canvas`
-  - `Use Gems in Gemini Apps`
-  - `Talk naturally with Gemini Live`
-- OpenAI Help pages for:
-  - `ChatGPT Study Mode - FAQ`
-  - `Projects in ChatGPT`
-  - `Voice Mode FAQ`
-- Anthropic Help pages for:
-  - `What are projects?`
-  - `Retrieval augmented generation (RAG) for projects`
-  - `Using voice mode`
-- Perplexity Help:
-  - `What are Spaces?`
-- DeepL Help:
-  - `DeepL Write` as an AI-powered writing assistant
+  - [Use learning tools in Gemini Apps](https://support.google.com/gemini/answer/16448384)
+  - [Create quizzes, flashcards & more in Gemini Apps](https://support.google.com/gemini/answer/16275879)
+  - [Create docs, apps & more with Canvas](https://support.google.com/gemini/answer/16047321)
+  - [Use Gems in Gemini Apps](https://support.google.com/gemini/answer/15146780)
+  - [Talk naturally with Gemini Live](https://support.google.com/gemini/answer/15274899)
+- Google official blog:
+  - [Guided Learning in Gemini: From answers to understanding](https://blog.google/products-and-platforms/products/education/guided-learning/)
 
 The main conclusion is:
 
-> Recommending Gemini for English learning makes sense today, but the right recommendation is not “use the premade learning coach.” It is “use Gemini’s current tools to build your own English-learning system.”
-
-And for many serious learners, a **multi-tool workflow** now makes more sense than relying on a single AI product.
+> Recommending Gemini for English learning still makes sense, but the right recommendation is not “use the premade learning coach.” It is “use Gemini’s current tools to build your own English-learning system.”
 
 ---
 

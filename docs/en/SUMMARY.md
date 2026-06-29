@@ -17,7 +17,11 @@
 * [Reading](threads/part-1/4-reading.md)
 * [Speaking](threads/part-1/5-speaking.md)
 * [Writing](threads/part-1/6-writing.md)
-* [AI](threads/part-1/7-ai.md)
+* [Learning English with AI](threads/part-1/7-ai.md)
+
+### AI Learning and Skill Building
+
+* [Learning Anything with AI](threads/part-3/1-ai-learning.md)
 
 ### Extensions and Practice
 
