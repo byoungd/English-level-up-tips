@@ -26,7 +26,7 @@ To devote myself fully to work, there was one part of life I cannot leave out: l
 
 ### Love
 
-I was lucky enough to meet someone I truly loved at the right age. Her name was Ruohan (a pseudonym). In [English-level-up-tips](https://github.com/byoungd/English-level-up-tips), I once used Gu Cheng’s words to describe how I felt when I first met her:
+I was lucky enough to meet someone I truly loved at the right age. Her name was Ruohan (a pseudonym). In [English-level-up-tips](https://github.com/byoungd/up), I once used Gu Cheng’s words to describe how I felt when I first met her:
 
 > The grass is bearing its seeds.  
 > The wind is shaking its leaves.  

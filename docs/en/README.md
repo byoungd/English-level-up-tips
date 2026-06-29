@@ -137,7 +137,7 @@ If it helps you, save it, share it, or send one chapter to a friend who is stuck
 
 ## Online Reading
 
-- GitHub Pages: https://byoungd.github.io/English-level-up-tips/#/
+- GitHub Pages: https://byoungd.github.io/up/#/
 - Chinese (Zhihu): https://zhuanlan.zhihu.com/p/444211376
 - GitBook: https://babyyoung.gitbook.io/english-level-up-tips/
 
