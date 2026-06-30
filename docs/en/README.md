@@ -29,16 +29,20 @@ This guide does not sell anxiety or promise shortcuts. It aims to give you three
 
 ## Recommended Path
 
-You do not need to read everything from top to bottom. Pick the route that matches your current problem:
+You do not need to read everything from top to bottom. Choose the line that matches your current problem:
 
-1. **If you do not know how to start**: read [Understanding](threads/part-1/1-understanding.md), then [Vocabulary](threads/part-1/2-vocabulary.md).
-2. **If you need more input**: read [Listening](threads/part-1/3-listening.md) and [Reading](threads/part-1/4-reading.md), then build steady exposure.
-3. **If you understand more than you can express**: read [Speaking](threads/part-1/5-speaking.md) and [Writing](threads/part-1/6-writing.md).
-4. **If you want to learn anything with AI**: read [Learning Anything with AI](threads/part-3/1-ai-learning.md) and build a loop around goals, materials, output, feedback, review, and projects.
-5. **If you want to learn English with AI**: read [Learning English with AI](threads/part-1/7-ai.md), then apply the general AI learning loop to listening, speaking, reading, and writing.
-6. **If you want the personal background**: read [My Story](threads/part-4/my-story.md), [Entrepreneurship](#/threads/part-2/entrepreneurship.md), and the [Old Blog Archive](#/threads/archive/README.md).
+1. **English learning**: start with [Understanding](threads/part-1/1-understanding.md) and [Vocabulary](threads/part-1/2-vocabulary.md); use [Listening](threads/part-1/3-listening.md) and [Reading](threads/part-1/4-reading.md) for input; use [Speaking](threads/part-1/5-speaking.md) and [Writing](threads/part-1/6-writing.md) when you understand more than you can express.
+2. **AI learning and skill building**: read [Learning Anything with AI](threads/part-3/1-ai-learning.md) if you want to use AI for programming, writing, exams, industry research, or work output; then read [Learning English with AI](threads/part-1/7-ai.md) for the English-specific workflow.
+3. **Personal recovery and entrepreneurship**: read [My Story](threads/part-4/my-story.md), [Entrepreneurship](#/threads/part-2/entrepreneurship.md), and the [Old Blog Archive](#/threads/archive/README.md) if you want the life background behind the guide.
 
 If you want the fastest useful start, do three things today: read [Understanding](threads/part-1/1-understanding.md), choose one concrete learning goal, and use [Learning Anything with AI](threads/part-3/1-ai-learning.md) to design a one-week practice plan.
+
+## How to Use This Guide
+
+- **First pass**: choose one of the three lines above instead of opening every link.
+- **Goal-based lookup**: treat chapters as a toolbox for vocabulary, listening, AI learning, writing, or recovery after failure.
+- **Weekly execution**: pick one small goal, read one chapter, do one exercise, and leave one visible output.
+- **Review later**: return after a few weeks; the same chapter often answers a different question once your situation changes.
 
 ## English Learning Path
 

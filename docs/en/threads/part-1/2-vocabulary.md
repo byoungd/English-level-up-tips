@@ -259,9 +259,9 @@ Updates include:
 
 ---
 
-## Using AI to Help (2025 Note)
+## Using AI for Vocabulary Practice
 
-The core principle still holds in 2025: **learn words in context**, not as “word = Chinese meaning”.
+The core principle still holds in 2026: **learn words in context**, not as “word = Chinese meaning”.
 
 What’s different is that now you have conversational AI (like ChatGPT) that can generate context and practice fast. But memory still can’t be outsourced—you have to do the reps.
 
@@ -271,9 +271,9 @@ Ways to blend AI into your workflow:
 - **Synonyms, collocations, and confusing pairs**: ask for common collocations, synonyms, near-misses, and then request cloze questions or error-correction tasks with explanations.
 - **Mini quizzes + review**: send the words you keep forgetting and ask for a 10-minute quiz (sentence making, collocation choice, error correction). After you answer, ask it to summarize your recurring mistakes.
 
-If you want to use AI across listening/speaking/reading/writing, see the “AI” chapter:
+If you want to use AI across listening, speaking, reading, and writing, see the English-learning AI chapter:
 
-- English (WIP): [AI](7-ai.md)
+- English: [Learning English with AI](7-ai.md)
 - Chinese: [用 AI 学英语](#/threads/part-1/7-ai.md)
 
 ---

@@ -183,5 +183,5 @@ Next: [My ex-girlfriends](https://github.com/byoungd/how-to-find-love)
 
 ---
 
-Prev: [Learning with AI](../part-1/7-ai.md)  
+Prev: [Learning English with AI](../part-1/7-ai.md)<br>
 Next: [Week 1](../part-4/week-1.md)

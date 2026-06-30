@@ -29,14 +29,18 @@
 
 第一次阅读时，不必把它当作一本必须从头翻到尾的书。你可以先问自己：此刻最卡住我的，到底是哪一环？然后沿着下面的路径进入：
 
-1. **如果你不知道怎么开始学英语**：先读[认知篇](threads/part-1/1-understanding.md)，再读[单词篇](threads/part-1/2-vocabulary.md)，先辨路，再赶路。
-2. **如果你输入不够**：读[听力篇](threads/part-1/3-listening.md)和[阅读篇](threads/part-1/4-reading.md)，让英语稳定地进入你的耳朵、眼睛和日常生活。
-3. **如果你表达不出来**：读[口语篇](threads/part-1/5-speaking.md)和[写作篇](threads/part-1/6-writing.md)，把沉默的理解锻造成可说、可写、可交流的能力。
-4. **如果你想用 AI 学习一切**：先读[使用 AI 学习一切（2026-06 版）](threads/part-3/1-ai-learning.md)，建立“目标、材料、输出、反馈、复习、项目”的通用学习回路。
-5. **如果你想专门用 AI 学英语**：再读[用 AI 学英语（2026-06 版）](threads/part-1/7-ai.md)，把通用学习回路落到听说读写训练里。
-6. **如果你想了解这份指南背后的经历**：读[我的故事](threads/part-2/my-story.md)、[创业篇：从野心到使命](threads/part-2/entrepreneurship.md)和[十年前的博客归档](threads/archive/README.md)，看看一份学习笔记如何慢慢长成一段人生复盘。
+1. **英语学习主线**：如果你不知道怎么开始，先读[认知篇](threads/part-1/1-understanding.md)和[单词篇](threads/part-1/2-vocabulary.md)；如果你输入不够，读[听力篇](threads/part-1/3-listening.md)和[阅读篇](threads/part-1/4-reading.md)；如果你表达不出来，读[口语篇](threads/part-1/5-speaking.md)和[写作篇](threads/part-1/6-writing.md)。
+2. **AI 学习与能力升级主线**：如果你想用 AI 学习职业技能、编程、写作、考试证书或行业研究，先读[使用 AI 学习一切（2026-06 版）](threads/part-3/1-ai-learning.md)，再读[用 AI 学英语（2026-06 版）](threads/part-1/7-ai.md)看它如何落到具体训练场景。
+3. **人生复盘与创业主线**：如果你想了解这份指南背后的经历，读[我的故事](threads/part-2/my-story.md)、[创业篇：从野心到使命](threads/part-2/entrepreneurship.md)和[十年前的博客归档](threads/archive/README.md)，看看一份学习笔记如何慢慢长成一段人生复盘。
 
 如果只想快速开始，建议今天就做三件事：读完[认知篇](threads/part-1/1-understanding.md)，选定一个具体学习目标，再用[使用 AI 学习一切（2026-06 版）](threads/part-3/1-ai-learning.md)给自己设计一周训练计划。
+
+## 如何使用本指南
+
+- **第一次读**：先按上面的三条主线选一条，不要急着打开所有链接。
+- **按目标查**：遇到具体问题时，把对应章节当成工具箱，例如单词、听力、AI 学习、写作或创业复盘。
+- **按周执行**：每周只选一个小目标，读一章，做一个练习，留下一个可检查的输出。
+- **定期复盘**：隔一段时间回来重读，你会发现同一段文字在不同阶段会给出不同答案。
 
 ## 英语学习主线
 
