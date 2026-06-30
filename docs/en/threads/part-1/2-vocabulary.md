@@ -1,6 +1,6 @@
 # Vocabulary
 
-Source (中文): [单词篇](#/threads/part-1/2-vocabulary.md)
+Source (中文): <a href="#/threads/part-1/2-vocabulary">单词篇</a>
 
 Vocabulary is the foundation of a language. If you try to “skip vocabulary” and jump straight to advanced materials, you’ll usually end up spending (more accurately: wasting) even more time later.
 
@@ -40,33 +40,9 @@ That happens a lot with flashcard apps that show images: when you review the car
 
 My suggestion: use *abstract* visualization. Don’t tie “cat” to one specific cat photo; tie it to your own mental “cat concept”.
 
-For example, a word app might show you a specific cat:
+For example, a word app might show you one specific cat. But what you really need is a flexible mental concept that can survive outside that exact picture:
 
-![cat.jpg](https://ooo.0o0.ooo/2017/06/01/592f5682b7c4e.jpg)
-
-But your brain’s “cat” could be:
-
-![cat-2.jpeg](https://ooo.0o0.ooo/2017/06/01/592f576499947.jpeg)
-
-Or:
-
-![cat-cartoons.jpeg](https://ooo.0o0.ooo/2017/06/01/592f58e70bd20.jpeg)
-
-Or:
-
-![cat-s.jpg](https://ooo.0o0.ooo/2017/06/01/592f5966b14cb.jpg)
-
-Or:
-
-![cat-ss.jpg](https://ooo.0o0.ooo/2017/06/01/592f59e1f2b57.jpg)
-
-Or even a doodle you can draw yourself:
-
-![cat-sss.jpg](https://ooo.0o0.ooo/2017/06/01/592f5a1aa430f.jpg)
-
-Or… this:
-
-![cat-girl.jpg](https://ooo.0o0.ooo/2017/06/01/592f5b1774ed2.jpg)
+![Abstract vocabulary visualization](../../../assets/vocabulary-cat-concepts.svg)
 
 The point: abstract visualization helps connect the word to the meaning, instead of the meaning to one random picture.
 
@@ -197,7 +173,7 @@ When I reviewed:
 - if I was sure a word had stuck, I crossed it out
 - I also added small marks: triangle = interesting, circle = saw it in a book/video recently, ear = pronunciation feels shaky, etc.
 
-![word notebook](https://ooo.0o0.ooo/2017/06/05/593516103b8a9.jpg)
+![word notebook](../../../assets/单词本示意图.jpg)
 
 I’ve kept this habit since Dec 2010. I don’t use paper anymore—I sync it in a dictionary app and review during lunch breaks or after workouts.
 
@@ -250,7 +226,7 @@ To help with high-frequency vocabulary, this repo shares a “Macmillan 7,000”
 Link: https://pan.baidu.com/s/1i5OLIIT  
 Password: jm4k
 
-Because the deck is old, some mobile platforms have issues (see #76): https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76
+Because the deck is old, some mobile platforms may have style compatibility issues. Suggested updates:
 
 Updates include:
 
@@ -274,7 +250,7 @@ Ways to blend AI into your workflow:
 If you want to use AI across listening, speaking, reading, and writing, see the English-learning AI chapter:
 
 - English: [Learning English with AI](7-ai.md)
-- Chinese: [用 AI 学英语](#/threads/part-1/7-ai.md)
+- Chinese: <a href="#/threads/part-1/7-ai">用 AI 学英语</a>
 
 ---
 

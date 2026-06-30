@@ -2,29 +2,38 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>人生进阶指南 | 英语学习、AI 学习与个人重建</title>
+    <title>人生进阶指南 | 从英语学习到 AI 学习与长期成长</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta
       name="description"
-      content="从英语学习出发，连接英语学习、AI 学习与能力升级、创业复盘和个人重建，帮助普通人建立长期成长路线的人生进阶指南。"
+      content="从英语学习出发，系统提升听说读写，用 AI 学习职业技能、编程、写作与行业研究，并记录创业复盘、低谷修复与长期成长的人生进阶指南。"
     />
     <meta
       name="keywords"
-      content="人生进阶指南, 英语学习, 英语学习方法, AI 学习, AI 英语学习, 职业技能, 编程学习, 写作, 行业研究, 创业复盘, 个人重建, 个人成长, 长期主义"
+      content="人生进阶指南, 英语学习, 英语学习方法, AI 学习, AI 英语学习, Gemini 学英语, ChatGPT 学习, 职业技能, 编程学习, 写作, 行业研究, 创业复盘, 个人成长, 长期主义"
     />
     <meta name="author" content="byoungd" />
     <meta name="robots" content="index,follow" />
     <link rel="canonical" href="https://byoungd.github.io/up/#/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="人生进阶指南" />
+    <meta property="og:title" content="人生进阶指南 | 从英语学习到 AI 学习与长期成长" />
     <meta
       property="og:description"
-      content="一份从英语学习出发，延伸到 AI 学习、职业技能、创业复盘、个人重建与长期成长的开放指南。"
+      content="一份从英语学习出发，延伸到 AI 学习、职业技能、写作、创业复盘、低谷修复与长期成长的开放指南。"
     />
     <meta property="og:url" content="https://byoungd.github.io/up/#/" />
     <meta
       property="og:image"
-      content="https://byoungd.github.io/up/assets/token-love-domain.jpg"
+      content="https://byoungd.github.io/up/assets/feature.svg"
+    />
+    <meta name="twitter:title" content="人生进阶指南 | 从英语学习到 AI 学习与长期成长" />
+    <meta
+      name="twitter:description"
+      content="英语学习、AI 学习、职业技能、创业复盘与长期成长的开放指南。"
+    />
+    <meta
+      name="twitter:image"
+      content="https://byoungd.github.io/up/assets/feature.svg"
     />
     <meta name="twitter:card" content="summary_large_image" />
     <meta
@@ -88,6 +97,31 @@
       mermaid.initialize({ startOnLoad: false });
       markmapSvg = [];
       const transformer = new markmap.Transformer();
+      window.normalizeDocsifyRouteLinks = function () {
+        document.querySelectorAll('a[href*="?id="]').forEach(function (link) {
+          let href = link.getAttribute("href") || "";
+          let marker = "?id=";
+          let index = href.indexOf(marker);
+          if (index === -1) {
+            return;
+          }
+          let route;
+          try {
+            route = decodeURIComponent(href.slice(index + marker.length));
+          } catch (error) {
+            return;
+          }
+          if (route.startsWith("/")) {
+            link.setAttribute("href", "#" + route);
+          }
+        });
+      };
+      function scheduleDocsifyRouteLinkNormalization() {
+        window.normalizeDocsifyRouteLinks();
+        window.requestAnimationFrame(window.normalizeDocsifyRouteLinks);
+        window.setTimeout(window.normalizeDocsifyRouteLinks, 50);
+        window.setTimeout(window.normalizeDocsifyRouteLinks, 250);
+      }
       window.$docsify = {
         name: "人生进阶指南",
         repo: "https://github.com/byoungd/up",
@@ -136,21 +170,36 @@
             hook.beforeEach(function (html) {
               num = 0;
               markmapSvg = [];
-              let repo = (vm.config.repo || "").replace(/\.git$/, "");
-              let url = repo
-                ? repo + "/blob/master/docs/" + vm.route.file
-                : "https://github.com/byoungd/up/blob/master/docs/" +
-                  vm.route.file;
-              let editHtml = "[:memo: EDIT DOCUMENT](" + url + ")\n";
+              let repo =
+                (vm.config.repo || "https://github.com/byoungd/up").replace(
+                  /\.git$/,
+                  ""
+                );
+              let routeFile = vm.route.file || "README.md";
+              let editPath = routeFile.replace(/^\/+/, "");
+              if (!editPath.startsWith("docs/")) {
+                editPath = "docs/" + editPath;
+              }
+              let url = repo + "/blob/master/" + editPath;
+              let editText = vm.route.path.startsWith("/en/")
+                ? "Edit this page"
+                : "编辑本页";
+              let editHtml = "[:memo: " + editText + "](" + url + ")\n";
               return (
                 editHtml +
                 html.replace(
                   /<a\s+(?:[^>]*?\s+)?href\s*=\s*(["'])#(.*?)\1.*?>/g,
-                  (m, g1, g2) => m.replace(g2, vm.route.path + "#" + g2)
+                  (m, g1, g2) => {
+                    if (g2.startsWith("/")) {
+                      return m;
+                    }
+                    return m.replace(g2, vm.route.path + "#" + g2);
+                  }
                 )
               );
             });
             hook.doneEach(function () {
+              scheduleDocsifyRouteLinkNormalization();
               markmapSvg.forEach((fn) => fn());
             });
           },

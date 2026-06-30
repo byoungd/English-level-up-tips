@@ -1,6 +1,6 @@
 <!-- English version -->
 
-English | [中文](#/)
+English | <a href="#/">中文</a>
 
 # Life Level-up Guide
 
@@ -33,7 +33,7 @@ You do not need to read everything from top to bottom. Choose the line that matc
 
 1. **English learning**: start with [Understanding](threads/part-1/1-understanding.md) and [Vocabulary](threads/part-1/2-vocabulary.md); use [Listening](threads/part-1/3-listening.md) and [Reading](threads/part-1/4-reading.md) for input; use [Speaking](threads/part-1/5-speaking.md) and [Writing](threads/part-1/6-writing.md) when you understand more than you can express.
 2. **AI learning and skill building**: read [Learning Anything with AI](threads/part-3/1-ai-learning.md) if you want to use AI for programming, writing, exams, industry research, or work output; then read [Learning English with AI](threads/part-1/7-ai.md) for the English-specific workflow.
-3. **Personal recovery and entrepreneurship**: read [My Story](threads/part-4/my-story.md), [Entrepreneurship](#/threads/part-2/entrepreneurship.md), and the [Old Blog Archive](#/threads/archive/README.md) if you want the life background behind the guide.
+3. **Personal recovery and entrepreneurship**: read [My Story](threads/part-4/my-story.md), <a href="#/threads/part-2/entrepreneurship">Entrepreneurship</a>, and the <a href="#/threads/archive/README">Old Blog Archive</a> if you want the life background behind the guide.
 
 If you want the fastest useful start, do three things today: read [Understanding](threads/part-1/1-understanding.md), choose one concrete learning goal, and use [Learning Anything with AI](threads/part-3/1-ai-learning.md) to design a one-week practice plan.
 
@@ -43,6 +43,16 @@ If you want the fastest useful start, do three things today: read [Understanding
 - **Goal-based lookup**: treat chapters as a toolbox for vocabulary, listening, AI learning, writing, or recovery after failure.
 - **Weekly execution**: pick one small goal, read one chapter, do one exercise, and leave one visible output.
 - **Review later**: return after a few weeks; the same chapter often answers a different question once your situation changes.
+
+## Life Level-up Map
+
+The underlying path is simple: open your input, train your output, then test your ability in real life.
+
+1. **Open input**: use English to reach a wider information world; use reading and listening to expand what you can notice.
+2. **Train output**: use speaking, writing, retelling, projects, and AI feedback to turn “I understand” into “I can explain, build, and communicate.”
+3. **Create artifacts**: turn learning into articles, projects, reports, products, courses, or real conversations instead of leaving it in saved links.
+4. **Review your life**: place failure, relationships, health, work, and choices on one timeline, then extract better judgment for the next stage.
+5. **Serve reality**: use your ability in work, entrepreneurship, family, local communities, industries, and concrete human problems.
 
 ## English Learning Path
 
@@ -88,7 +98,7 @@ If you want the fastest useful start, do three things today: read [Understanding
 
 [![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
 
-- [Word Lists](#/threads/word-list/Common.md): vocabulary lists for general English, programming languages, Prompt, and Vibe Coding.
+- <a href="#/threads/word-list/Common">Word Lists</a>: vocabulary lists for general English, programming languages, Prompt, and Vibe Coding.
 - [Misc](threads/part-2/x-misc.md): notes on learning, bootcamps, devices, and personal experience.
 - [Week 1](threads/part-4/week-1.md): English practice content about sleep, lifestyle, and stress.
 
@@ -121,8 +131,8 @@ Dedicated to my once-beloved `W.` Some stories belong near the beginning; others
 Related reading:
 
 - [My Story](threads/part-4/my-story.md): entrepreneurship failure, health collapse, returning home, and starting again.
-- [Entrepreneurship](#/threads/part-2/entrepreneurship.md): a Chinese essay about ambition, cash flow, responsibility, and mission.
-- [Old Blog Archive](#/threads/archive/README.md): older Chinese writing and recovered archive posts.
+- <a href="#/threads/part-2/entrepreneurship">Entrepreneurship</a>: Chinese-only essay about ambition, cash flow, responsibility, and mission.
+- <a href="#/threads/archive/README">Old Blog Archive</a>: Chinese-only older writing and recovered archive posts.
 
 ## Why Bookmark It
 
@@ -144,7 +154,7 @@ If it helps you, save it, share it, or send one chapter to a friend who is stuck
 
 - GitHub Pages: https://byoungd.github.io/up/#/
 - Chinese (Zhihu): https://zhuanlan.zhihu.com/p/444211376
-- GitBook: https://babyyoung.gitbook.io/english-level-up-tips/
+- GitHub repository: https://github.com/byoungd/up
 
 ## Reprint
 

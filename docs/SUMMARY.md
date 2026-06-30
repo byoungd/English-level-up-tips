@@ -1,6 +1,6 @@
 # Summary
 
-* [English](#/en/)
+* <a href="#/en/">English</a>
 
 ### 首页与个人线
 
@@ -29,10 +29,11 @@
 
 ### 扩展与实践
 
+* [单词表（Word Lists）](threads/word-list/Common.md)
 * [8.扯淡篇](threads/part-2/x-misc.md)
 * [Week 1](threads/part-4/week-1.md)
 
-### 单词表（Word Lists）
+### 单词表明细
 
 * [Common](threads/word-list/Common.md)
 * [Go](threads/word-list/Go.md)

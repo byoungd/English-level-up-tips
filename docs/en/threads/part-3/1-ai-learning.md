@@ -1,6 +1,6 @@
 # Learning Anything with AI (June 2026 Edition)
 
-中文: [使用 AI 学习一切](#/threads/part-3/1-ai-learning.md)
+中文: <a href="#/threads/part-3/1-ai-learning">使用 AI 学习一切</a>
 
 > This chapter is based on official sources available around `2026-06-29`. AI products change quickly. Feature names, availability, regional access, and plan limits may keep changing, so always check official sources for important study, work, exam, or business decisions.
 

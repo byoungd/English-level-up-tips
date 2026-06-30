@@ -1,6 +1,6 @@
 # 使用 AI 学习一切（2026-06 版）
 
-English: [Learning Anything with AI](#/en/threads/part-3/1-ai-learning.md)
+English: <a href="#/en/threads/part-3/1-ai-learning">Learning Anything with AI</a>
 
 > 本章按 `2026-06-29` 可查的官方资料整理。AI 产品变化很快，具体功能入口、可用地区、套餐限制可能会继续调整；遇到关键学习、考试、工作和商业决策时，请以官方页面和一手资料为准。
 

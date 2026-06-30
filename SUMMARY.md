@@ -27,10 +27,11 @@
 
 ### 扩展与实践
 
+* [单词表（Word Lists）](docs/threads/word-list/Common.md)
 * [8.扯淡篇](docs/threads/part-2/x-misc.md)
 * [Week 1](docs/threads/part-4/week-1.md)
 
-### 单词表（Word Lists）
+### 单词表明细
 
 * [Common](docs/threads/word-list/Common.md)
 * [Go](docs/threads/word-list/Go.md)

@@ -1,6 +1,6 @@
 # Learning English with AI
 
-Source (中文): [用 AI 学英语](#/threads/part-1/7-ai.md)
+Source (中文): <a href="#/threads/part-1/7-ai">用 AI 学英语</a>
 
 > Updated with official-source product information as of `2026-06-29`.
 >

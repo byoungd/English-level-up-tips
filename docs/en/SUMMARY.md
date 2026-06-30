@@ -1,13 +1,13 @@
 # Summary
 
 * [Home](README.md)
-* [中文（主入口）](#/)
+* <a href="#/">中文（主入口）</a>
 
 ### Home and Personal Line
 
 * [My Story](threads/part-4/my-story.md)
-* [Entrepreneurship (Chinese)](#/threads/part-2/entrepreneurship.md)
-* [Old Blog Archive (Chinese)](#/threads/archive/README.md)
+* <a href="#/threads/part-2/entrepreneurship">Entrepreneurship (Chinese-only)</a>
+* <a href="#/threads/archive/README">Old Blog Archive (Chinese-only)</a>
 
 ### English Learning Path
 
@@ -25,18 +25,19 @@
 
 ### Extensions and Practice
 
+* <a href="#/threads/word-list/Common">Word Lists (Chinese)</a>
 * [Misc](threads/part-2/x-misc.md)
 * [Week 1](threads/part-4/week-1.md)
 
-### Word Lists
+### Word List Details
 
-* [Common](#/threads/word-list/Common.md)
-* [Go](#/threads/word-list/Go.md)
-* [Java](#/threads/word-list/Java.md)
-* [JavaScript](#/threads/word-list/JavaScript.md)
-* [PHP](#/threads/word-list/PHP.md)
-* [Prompt](#/threads/word-list/Prompt.md)
-* [Python](#/threads/word-list/Python.md)
-* [Swift](#/threads/word-list/Swift.md)
-* [Rust](#/threads/word-list/Rust.md)
-* [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
+* <a href="#/threads/word-list/Common">Common</a>
+* <a href="#/threads/word-list/Go">Go</a>
+* <a href="#/threads/word-list/Java">Java</a>
+* <a href="#/threads/word-list/JavaScript">JavaScript</a>
+* <a href="#/threads/word-list/PHP">PHP</a>
+* <a href="#/threads/word-list/Prompt">Prompt</a>
+* <a href="#/threads/word-list/Python">Python</a>
+* <a href="#/threads/word-list/Swift">Swift</a>
+* <a href="#/threads/word-list/Rust">Rust</a>
+* <a href="#/threads/word-list/VibeCoding">Vibe Coding (Agent)</a>

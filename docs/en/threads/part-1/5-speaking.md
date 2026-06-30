@@ -1,6 +1,6 @@
 # Speaking
 
-Source (中文): [口语篇](#/threads/part-1/5-speaking.md)
+Source (中文): <a href="#/threads/part-1/5-speaking">口语篇</a>
 
 Speaking is where everything comes together. And yes—pronunciation matters, but you don’t need to obsess. You just need a solid base and a lot of reps.
 
@@ -128,7 +128,7 @@ Lately I’ve been into Troye Sivan. Here’s a simple way to practice:
 - write down unknown words and learn them first
 - sing along (yes, I actually bought a microphone)
 
-![microphone](https://ooo.0o0.ooo/2017/06/06/593680100d26d.jpg)
+![speaking practice setup](../../../assets/speaking-practice.svg)
 
 Clear motivation + strong goal + real interest = surprisingly good results.
 

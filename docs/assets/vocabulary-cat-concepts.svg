@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract vocabulary visualization</title>
+  <desc id="desc">A diagram showing how one word can connect to multiple mental images instead of a single photo.</desc>
+  <rect width="1280" height="420" fill="#f7f4ec"/>
+  <text x="640" y="58" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2933">cat -> your own mental concept</text>
+  <text x="640" y="92" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="17" fill="#58606f">Do not memorize one picture. Connect the word to a flexible idea.</text>
+
+  <g transform="translate(86 132)">
+    <rect width="230" height="210" rx="16" fill="#ffffff" stroke="#d6d3c7" stroke-width="2"/>
+    <circle cx="115" cy="76" r="42" fill="#d8b48c"/>
+    <path d="M82 50 L99 24 L110 55 Z" fill="#a97148"/>
+    <path d="M120 55 L137 24 L151 51 Z" fill="#a97148"/>
+    <circle cx="98" cy="75" r="5" fill="#1f2933"/>
+    <circle cx="132" cy="75" r="5" fill="#1f2933"/>
+    <path d="M111 88 Q115 95 119 88" fill="none" stroke="#1f2933" stroke-width="3" stroke-linecap="round"/>
+    <text x="115" y="165" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2933">photo</text>
+    <text x="115" y="192" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#6b7280">too specific</text>
+  </g>
+
+  <g transform="translate(377 132)">
+    <rect width="230" height="210" rx="16" fill="#ffffff" stroke="#d6d3c7" stroke-width="2"/>
+    <circle cx="115" cy="82" r="50" fill="#e9d8a6"/>
+    <path d="M74 55 L99 22 L107 66 Z" fill="#d4a373"/>
+    <path d="M123 66 L133 22 L158 55 Z" fill="#d4a373"/>
+    <circle cx="97" cy="82" r="6" fill="#1f2933"/>
+    <circle cx="133" cy="82" r="6" fill="#1f2933"/>
+    <path d="M98 107 Q115 122 132 107" fill="none" stroke="#1f2933" stroke-width="4" stroke-linecap="round"/>
+    <text x="115" y="165" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2933">concept</text>
+    <text x="115" y="192" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#6b7280">flexible meaning</text>
+  </g>
+
+  <g transform="translate(668 132)">
+    <rect width="230" height="210" rx="16" fill="#ffffff" stroke="#d6d3c7" stroke-width="2"/>
+    <path d="M72 104 Q112 32 160 104 Q142 143 115 143 Q88 143 72 104 Z" fill="none" stroke="#334155" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M76 91 L62 54 M154 91 L170 54" stroke="#334155" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="99" cy="101" r="5" fill="#334155"/>
+    <circle cx="130" cy="101" r="5" fill="#334155"/>
+    <path d="M108 120 Q115 126 122 120" fill="none" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+    <text x="115" y="165" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2933">doodle</text>
+    <text x="115" y="192" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#6b7280">easy to recall</text>
+  </g>
+
+  <g transform="translate(959 132)">
+    <rect width="230" height="210" rx="16" fill="#ffffff" stroke="#d6d3c7" stroke-width="2"/>
+    <text x="115" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="54" font-weight="700" fill="#0f766e">cat</text>
+    <path d="M70 128 H160" stroke="#0f766e" stroke-width="5" stroke-linecap="round"/>
+    <path d="M90 148 H140" stroke="#0f766e" stroke-width="5" stroke-linecap="round"/>
+    <text x="115" y="165" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2933">symbol</text>
+    <text x="115" y="192" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#6b7280">word + meaning</text>
+  </g>
+</svg>

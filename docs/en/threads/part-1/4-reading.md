@@ -1,6 +1,6 @@
 # Reading
 
-Source (中文): [阅读篇](#/threads/part-1/4-reading.md)
+Source (中文): <a href="#/threads/part-1/4-reading">阅读篇</a>
 
 ---
 

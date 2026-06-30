@@ -1,10 +1,12 @@
 # Writing
 
-Source (中文): [写作篇](#/threads/part-1/6-writing.md)
+Source (中文): <a href="#/threads/part-1/6-writing">写作篇</a>
 
-Hi—welcome to *English Level-up Tips*.
+Welcome to the writing chapter of *Life Level-up Guide*.
 
-I started this project back in 2017 to share the ways I improved my English. It got more love than I expected (I even became “that markdown engineer with a lot of stars”), but after 2019 I basically stopped updating—because I was young, busy chasing girls, trying startups, and doing other “look at me” things.
+This project began in 2017 as a way to share how I improved my English. It got more love than I expected (I even became “that markdown engineer with a lot of stars”), but after 2019 I basically stopped updating because I was young, busy with relationships, startups, and other restless experiments.
+
+Coming back to this chapter, I understand writing differently now. It is not decoration outside the English-learning path. It is how a person organizes experience, expresses judgment, repairs the self, and connects with opportunity. Language helps you see a wider world; writing helps you keep what you have seen.
 
 ![hotel](../../../assets/hotel.jpg)
 
