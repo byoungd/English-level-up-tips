@@ -20,7 +20,7 @@
 
 首先我们应该明白，**英语是一门使用极其广泛的语言**。这一点可以从维基百科的内容语言分布窥见一二：
 
-![https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
+![网站内容语言分布](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
 
 英语作为全球使用范围最广的语言，几乎涵盖了人生活的方方面面。
 

@@ -12,30 +12,30 @@
 怕伤及国内某些机构的利益，摘一段《前端开发者手册2017》里的话(删掉了点名的机构)：
 >Lately a lot of non-accredited, expensive, front-end code schools/bootcamps have emerged.
  These avenues of becoming a front-end developer are typically teacher directed courses, that follow a more traditional style of learning, from an official instructor.
- Keep in mind, if you are considering an expensive training program, this is the web! 
- Everything you need to learn is on the web for the taking, costing little to nothing. 
- However, if you need someone to tell you how to take and learn what is actually free, and hold you accountable for learning it, you might consider an organized course. 
+ Keep in mind, if you are considering an expensive training program, this is the web!
+ Everything you need to learn is on the web for the taking, costing little to nothing.
+ However, if you need someone to tell you how to take and learn what is actually free, and hold you accountable for learning it, you might consider an organized course.
  Otherwise, I am not aware of any other profession that is practically free for the taking with an internet connection, a hundred dollars a month for screencasting memberships, and a burning desire for knowledge.
-                                                                         
+
  --《Front-end Developer Handbook 2017 (Kindle 位置 810-813). GitBook》
- 
+
  所以对于想要通过培训来进入这个行业的人，我的建议是：
- 
+
  你想从事的是互联网行业，应该具备利用互联网的意识，把高昂的费用给自己买些好玩的吧。
  >如果你是在校学生，培训单位怂恿你办理类似贷款（分期还款）的业务，请务必要慎重，那些单位真的是有些坏！
- 
+
 ## IT培训靠谱吗？
 
 我花了4个月时间 2万块钱培训了web前端开发
 
 刚培训完两个星期我就收到了美团网的offer
-  
+
 我承认我不是班里学习最好的
-   
-但我却是班里第一个找到工作的 
-    
+
+但我却是班里第一个找到工作的
+
 而且还是个大厂
- 
+
 我一直相信 勤能补拙 只要有决心 什么事都是可以做到的
 
 今天入职一个星期了
@@ -50,7 +50,7 @@
 对于在职人士，必须要制定合适的学习方案，组合学习,最终才能系统化的学习英语。
 
 所以，非常不推荐去花这部分冤枉钱。
- 
+
 ---
 
 ## kindle和iPad
@@ -65,7 +65,7 @@
 初中时期，我的成绩稳稳排在年级第一，我得意忘形，目中无人。
 
 初二的时候，新来一个数学老师，我实在无法接受他把那么简单的数学题目讲错，我对他的教学不屑一顾，完全不把他布置的作业放在心上，上课时也自己玩自己的。
-    
+
 直到有一天他又双叒叕讲错了一道题，我忍不住笑了出来，并摇了摇头，他估计是积怨已久，发疯似地打我，对我拳打脚踢，后来校长知道此事将那个老师开除了；
 
 初三，我居然故伎重演，又嘲笑了另一位数学老师，这次不是因为他讲错了，而是他给出的方法不是最优解，我又双叒叕被暴打了一顿，当时我的同桌都被吓哭了，而我似乎没有感觉到太多的疼痛。
@@ -74,14 +74,14 @@
 他告诉我说他的父亲病重，他的哥哥游手好闲，他需要这份工作，我和他达成了协议：我不需要再去上他的数学课，我可以出去玩。
 
 后来我的确也没有去上过他的数学课。
-    
+
 在此之后，我对数学完全失去了兴趣，参加奥数比赛获得的奖状也被我狠狠地撕碎了。
 
 年少轻狂。呵。
 
 
 到了高中，学习压力真的很大，不仅仅来源于外界，也来源于对自己提出的过高要求。
-    
+
 由于我夜间充电时间没把握好，导致白天因为精力不足，上课效果很差，夜间又无法尽快入睡，我又开始担心因为休息时间不够导致白天萎靡不振，于是越焦虑越睡不着。
 
 班主任责备我成绩一落千丈，问我是不是谈恋爱、上网打游戏等，经常喊我去办公室谈话（实际上是批评）；
@@ -99,9 +99,9 @@
 无数个清冷的夜里，我一个人跑到卫生间莫名的流下眼泪，不知道人生到底有什么意义；
 
 我希望我可以美美的睡上一觉，可是我怎么也睡不着！
-    
+
 **没人来告诉我，生活的意义并不是与他人争高下，而在于享受努力实现目标的过程，结果是对自己行动的嘉奖。**
-    
+
 在失眠之前，我都是用左手写字的，在失眠期间，为了打发无聊的时间，我学会了用右手写字，我开始练习书法，这一定程度上减轻了我的痛苦。
 我把更多的时间投入到练习书法中来，参加书法比赛获奖，语文作文多次在年级考试中获得满分（我记得最清楚的是那篇批评应试教育的）；
 
@@ -151,7 +151,7 @@
 
 努力，是最好的天赋！
 
->关于被老师暴打，更多的问题在我，没有顾及老师的尊严，自以为是，那时的我，很不像话。 
+>关于被老师暴打，更多的问题在我，没有顾及老师的尊严，自以为是，那时的我，很不像话。
 以上纯属扯淡,只为博君一笑。
 
 

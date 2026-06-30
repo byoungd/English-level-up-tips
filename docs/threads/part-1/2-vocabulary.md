@@ -195,4 +195,4 @@ Ronnie 老师有一篇关于记单词的视频，[YouTube 链接](https://www.yo
 
 > 背单词的时候大多数时候不需要刻意的去记，简单的过一下就行，生词，**生** 词嘛，多过过，自然而然就熟悉了
 
-下一篇：[听力篇](3-listening.md)
+上一篇：[认知篇](1-understanding.md) ｜ 下一篇：[听力篇](3-listening.md)

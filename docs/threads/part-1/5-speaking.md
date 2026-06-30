@@ -23,7 +23,7 @@
 - go [əʊ] 从[ə]滑动到[ʊ]
 
 ### 辅音
-- web [w] 类似于汉字"乌" 
+- web [w] 类似于汉字"乌"
 - yes [j] 类似于汉字"衣"
 - father [f] 类似于汉语拼音声母f
 - very [v] 发[f]时声带振动
@@ -44,7 +44,7 @@
 - just [dʒ] 类似于汉字"知"
 - check [tʃ] 类似于汉字"吃"
 - she [ʃ] 类似于汉字"师"
-- Asia [ʒ]类似于汉字"日"
+- Asia [ʒ] 类似于汉字"日"
 - try [tr] 类似于汉字"出"
 - dry [dr] 类似于汉字"猪"
 - pet [p] 类似于汉语拼音声母p
@@ -99,7 +99,7 @@
 
 - [Speak English With Vanessa](https://www.youtube.com/user/theteachervanessa) Vanessa的表情真的很到位
 
-- [Doing English with Julian Northbrook](https://www.youtube.com/user/doingenglishDOTcom) 
+- [Doing English with Julian Northbrook](https://www.youtube.com/user/doingenglishDOTcom)
 
 - [A.J. Hoge](https://www.youtube.com/c/AJHogeEffortlessEnglish)
 
@@ -110,3 +110,5 @@
 ## 勇敢地与陌生人交流
 
  [我们为何害怕与陌生人交流](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
+
+上一篇：[阅读篇](4-reading.md) ｜ 下一篇：[写作篇](6-writing.md)

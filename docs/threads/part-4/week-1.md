@@ -14,7 +14,7 @@ Well then, Let’s jump right in.
 
 ## FIRST TOPIC
 
-One of the most common problems I hear about nowadays is **I am so tired**. And you are not alone. I experienced the biggest failure in my life in the past year. The startup company I ran went bankrupt. I lost my wealth, a precious friendship, and the person I loved. For a whole year, I couldn’t sleep well and felt very tired every day. 
+One of the most common problems I hear about nowadays is **I am so tired**. And you are not alone. I experienced the biggest failure in my life in the past year. The startup company I ran went bankrupt. I lost my wealth, a precious friendship, and the person I loved. For a whole year, I couldn’t sleep well and felt very tired every day.
 
 **Trust me, I know that terrible feeling**.
 
@@ -42,7 +42,7 @@ And actually, for the last few years, Russell and his research group have been s
 
 > Reference video: https://www.youtube.com/watch?v=qlf9-573MhI 00:02:28,070 - 00:02:38,210
 
-It is important to understand that we all have an **internal clock** that ticks inside us. However, our internal clocks are not exactly the same. That’s why you hear people say they are morning people or night owls. This is related to something called your `chronotype`, which is based on your natural tendency to sleep at a certain time. Scientists can categorize us into different chronotypes. 
+It is important to understand that we all have an **internal clock** that ticks inside us. However, our internal clocks are not exactly the same. That’s why you hear people say they are morning people or night owls. This is related to something called your `chronotype`, which is based on your natural tendency to sleep at a certain time. Scientists can categorize us into different chronotypes.
 
 For example, someone who naturally wakes up early and finds the morning to be their most productive hours of the day probably has a morning chronotype. And if you are more of a morning person, you might find it better to do your creative or high-focus tasks in the morning. On the other hand, if you are a night owl, that’s fine too if you can control your schedule. It is generally worth trying to adjust things so that you do focused work at night.
 
@@ -68,7 +68,7 @@ The second thing is `unhealthy lifestyle`. My short advice is to get more exerci
 
 The most important thing I want to share is `how to deal with stress`.
 
-Manage your stress and learn to relax properly. 
+Manage your stress and learn to relax properly.
 >Here is a video that might help you: https://www.youtube.com/watch?v=9QiE-M1LrZk
 
 I mentioned in my article on [Zhihu](https://zhuanlan.zhihu.com/p/653380203) that I was addicted to games for a while, but I overcame it by using the `dopamine detox method`.
